@@ -1,0 +1,738 @@
+{
+      "AMD Ryzen Threadripper PRO 5995WX": [
+            97285,
+            569999
+      ],
+      "AMD Ryzen Threadripper PRO 5975WX": [
+            75798,
+            269999
+      ],
+      "AMD Ryzen Threadripper PRO 5965WX": [
+            66697,
+            199999
+      ],
+      "AMD Ryzen 9 7950X": [
+            63312,
+            54099
+      ],
+      "AMD Ryzen 9 7950X3D": [
+            62631,
+            66108
+      ],
+      "Intel Core i9-14900KF": [
+            62170,
+            "NA"
+      ],
+      "Intel Core i9-13900KS": [
+            61860,
+            99999
+      ],
+      "Intel Core i9-13900K": [
+            59686,
+            56997
+      ],
+      "Intel Core i9-13900KF": [
+            58948,
+            54649
+      ],
+      "Intel Core i9-13900F": [
+            52687,
+            52603
+      ],
+      "AMD Ryzen 9 7900X": [
+            52182,
+            40900
+      ],
+      "AMD Ryzen 9 7900X3D": [
+            50668,
+            56105
+      ],
+      "AMD Ryzen Threadripper PRO 5955WX": [
+            49921,
+            109999
+      ],
+      "AMD Ryzen 9 7900": [
+            49119,
+            41999
+      ],
+      "Apple M2 Ultra 24 Core": [
+            48603,
+            "NA"
+      ],
+      "Intel Core i9-13900": [
+            48540,
+            54999
+      ],
+      "Intel Core i7-13700K": [
+            46766,
+            40799
+      ],
+      "Intel Core i7-13700KF": [
+            46543,
+            39098
+      ],
+      "Intel Core i7-13790F": [
+            46466,
+            "NA"
+      ],
+      "AMD Ryzen 9 5950X": [
+            45831,
+            44171
+      ],
+      "Intel Core i9-12900KS": [
+            44271,
+            39999
+      ],
+      "Intel Core i9-13900T": [
+            43788,
+            54900
+      ],
+      "Intel Core i9-12900K": [
+            41435,
+            35299
+      ],
+      "Intel Core i9-12900KF": [
+            41227,
+            39899
+      ],
+      "Apple M1 Ultra 20 Core": [
+            40887,
+            "NA"
+      ],
+      "AMD Ryzen Threadripper PRO 5945WX": [
+            40682,
+            "NA"
+      ],
+      "Intel Core i7-13700F": [
+            39787,
+            36099
+      ],
+      "AMD Ryzen 9 5900X": [
+            39254,
+            29999
+      ],
+      "Intel Core i7-13700": [
+            38473,
+            34999
+      ],
+      "Intel Core i5-13600K": [
+            38315,
+            30999
+      ],
+      "Intel Core i5-13600KF": [
+            38187,
+            29299
+      ],
+      "Intel Core i9-12900F": [
+            36998,
+            42500
+      ],
+      "AMD Ryzen 7 7700X": [
+            36276,
+            31575
+      ],
+      "AMD Ryzen 7 7700": [
+            35082,
+            31979
+      ],
+      "Intel Core i7-12700K": [
+            34738,
+            40900
+      ],
+      "AMD Ryzen 9 PRO 5945": [
+            34730,
+            "NA"
+      ],
+      "AMD Ryzen 7 7800X3D": [
+            34591,
+            43900
+      ],
+      "AMD Ryzen 9 5900": [
+            34540,
+            "NA"
+      ],
+      "Intel Core i7-12700KF": [
+            34491,
+            27600
+      ],
+      "Intel Core i9-12900": [
+            34351,
+            44999
+      ],
+      "Intel Core i5-13600": [
+            33524,
+            25500
+      ],
+      "Intel Core i5-13500": [
+            32465,
+            24798
+      ],
+      "Intel Xeon W-3265M": [
+            32025,
+            635300
+      ],
+      "Intel Core i7-12700F": [
+            30933,
+            28499
+      ],
+      "Intel Core i7-12700": [
+            30933,
+            32549
+      ],
+      "Intel Core i9-12900T": [
+            30065,
+            48900
+      ],
+      "Intel Core i7-13700T": [
+            29820,
+            38400
+      ],
+      "Intel Core i7-12700E": [
+            29289,
+            34400
+      ],
+      "AMD Ryzen 5 7600X": [
+            28747,
+            21800
+      ],
+      "AMD Ryzen 7 5800X3D": [
+            28238,
+            28955
+      ],
+      "AMD Ryzen 7 5800X": [
+            27999,
+            22503
+      ],
+      "Intel Xeon W-2275": [
+            27952,
+            205800
+      ],
+      "Intel Core i5-12600K": [
+            27789,
+            19999
+      ],
+      "Intel Core i5-13490F": [
+            27675,
+            26366
+      ],
+      "AMD Ryzen 5 7600": [
+            27548,
+            21999
+      ],
+      "Intel Core i5-12600KF": [
+            27459,
+            21994
+      ],
+      "Intel Core i5-13600T": [
+            26876,
+            25500
+      ],
+      "AMD Ryzen 7 5700X": [
+            26786,
+            18499
+      ],
+      "AMD Ryzen 5 7500F": [
+            26589,
+            "NA"
+      ],
+      "AMD Ryzen 7 PRO 5845": [
+            26162,
+            "NA"
+      ],
+      "Intel Xeon W-3323": [
+            25875,
+            94900
+      ],
+      "AMD Ryzen 7 5800": [
+            25860,
+            "NA"
+      ],
+      "Intel Core i5-13400F": [
+            25571,
+            16499
+      ],
+      "Intel Xeon W-1390P": [
+            25451,
+            "NA"
+      ],
+      "Intel Core i9-11900K": [
+            25415,
+            31890
+      ],
+      "Intel Core i9-11900KF": [
+            25357,
+            41599
+      ],
+      "Intel Core i5-13400": [
+            25301,
+            22826
+      ],
+      "AMD Ryzen 7 5700G": [
+            24670,
+            16786
+      ],
+      "Intel Core i7-11700K": [
+            24669,
+            27610
+      ],
+      "Intel Xeon W-1370P": [
+            24540,
+            50899
+      ],
+      "AMD Ryzen 7 PRO 5750G": [
+            24428,
+            "NA"
+      ],
+      "AMD Ryzen 7 5700": [
+            24333,
+            "NA"
+      ],
+      "Intel Core i7-11700KF": [
+            24032,
+            26299
+      ],
+      "Intel Xeon W-1370": [
+            23908,
+            46899
+      ],
+      "Intel Core i5-13500T": [
+            23779,
+            23200
+      ],
+      "Intel Core i9-11900KB": [
+            23041,
+            53900
+      ],
+      "Intel Core i9-11900": [
+            23000,
+            41999
+      ],
+      "Intel Core i7-11700B": [
+            22910,
+            "NA"
+      ],
+      "Intel Core i9-11900F": [
+            22690,
+            41899
+      ],
+      "AMD Ryzen 7 5700GE": [
+            22196,
+            "NA"
+      ],
+      "AMD Ryzen Threadripper 1920": [
+            22066,
+            "NA"
+      ],
+      "Apple M1 Max 10 Core 3200 MHz": [
+            22053,
+            "NA"
+      ],
+      "AMD Ryzen 5 5600X3D": [
+            22044,
+            "NA"
+      ],
+      "AMD Ryzen 7 PRO 5750GE": [
+            22038,
+            "NA"
+      ],
+      "AMD Ryzen 5 PRO 5645": [
+            21904,
+            "NA"
+      ],
+      "Apple M1 Pro 10 Core 3200 MHz": [
+            21850,
+            "NA"
+      ],
+      "Intel Core i7-12700T": [
+            21713,
+            33900
+      ],
+      "AMD Ryzen 5 5600": [
+            21604,
+            11999
+      ],
+      "Apple M2 Pro 10 Core 3480 MHz": [
+            21536,
+            "NA"
+      ],
+      "Intel Core i5-13400T": [
+            21493,
+            22100
+      ],
+      "Intel Core i5-12600": [
+            21396,
+            26000
+      ],
+      "Intel Core i7-11700F": [
+            21144,
+            22599
+      ],
+      "Intel Core i5-12490F": [
+            20650,
+            18199
+      ],
+      "Intel Core i7-11700": [
+            20020,
+            19499
+      ],
+      "Intel Core i5-12500": [
+            19993,
+            20200
+      ],
+      "AMD Ryzen 5 5600G": [
+            19915,
+            12180
+      ],
+      "AMD Ryzen 5 PRO 5650G": [
+            19888,
+            "NA"
+      ],
+      "Intel Core i5-11600KF": [
+            19694,
+            21482
+      ],
+      "Intel Core i5-11600K": [
+            19686,
+            17848
+      ],
+      "Intel Core i5-12400F": [
+            19609,
+            14999
+      ],
+      "Intel Core i9-10900E": [
+            19595,
+            44400
+      ],
+      "AMD Ryzen 5 5500": [
+            19553,
+            8499
+      ],
+      "Intel Core i5-12400": [
+            19467,
+            19200
+      ],
+      "Intel Core i9-11900T": [
+            18975,
+            43900
+      ],
+      "AMD Ryzen 5 5600GE": [
+            18748,
+            "NA"
+      ],
+      "AMD Ryzen 5 PRO 5650GE": [
+            18456,
+            "NA"
+      ],
+      "Intel Core i5-11600": [
+            18090,
+            24799
+      ],
+      "AMD 4700S": [
+            18063,
+            "NA"
+      ],
+      "Intel Core i5-11500B": [
+            17801,
+            "NA"
+      ],
+      "Intel Core i5-12600T": [
+            17547,
+            "NA"
+      ],
+      "Intel Core i5-11500": [
+            17459,
+            20850
+      ],
+      "Apple M1 Pro 8 Core 3200 MHz": [
+            17145,
+            "NA"
+      ],
+      "Intel Core i5-11400F": [
+            17125,
+            11999
+      ],
+      "Intel Core i5-11400": [
+            17098,
+            13940
+      ],
+      "Intel Core i5-12500T": [
+            16750,
+            20200
+      ],
+      "AMD Ryzen 5 PRO 4655G": [
+            16355,
+            "NA"
+      ],
+      "Intel Core i5-12400T": [
+            16345,
+            14999
+      ],
+      "Intel Core i7-11700T": [
+            16243,
+            32300
+      ],
+      "AMD Ryzen 5 4500": [
+            16221,
+            7509
+      ],
+      "Apple M2 8 Core 3500 MHz": [
+            15452,
+            "NA"
+      ],
+      "Intel Core i3-13100": [
+            14772,
+            12867
+      ],
+      "Intel Core i5-11600T": [
+            14713,
+            21300
+      ],
+      "Intel Core i3-13100F": [
+            14711,
+            11099
+      ],
+      "Intel Core i3-12300": [
+            14706,
+            14300
+      ],
+      "Intel Xeon W-1250P": [
+            14440,
+            32150
+      ],
+      "AMD Ryzen 5 PRO 4655GE": [
+            14436,
+            "NA"
+      ],
+      "Apple M1 8 Core 3200 MHz": [
+            14238,
+            "NA"
+      ],
+      "Intel Core i3-12100F": [
+            14220,
+            13699
+      ],
+      "AMD Ryzen 3 PRO 5350G": [
+            13887,
+            "NA"
+      ],
+      "Intel Core i5-11400T": [
+            13644,
+            18200
+      ],
+      "Intel Core i3-12100": [
+            13522,
+            12200
+      ],
+      "AMD Ryzen 3 PRO 5350GE": [
+            13460,
+            "NA"
+      ],
+      "AMD Ryzen 3 5300GE": [
+            13321,
+            "NA"
+      ],
+      "Intel Core i3-12300T": [
+            13239,
+            15700
+      ],
+      "Intel Core i3-13100T": [
+            13187,
+            13400
+      ],
+      "Intel Core i5-11500T": [
+            13075,
+            19200
+      ],
+      "AMD Ryzen 3 5300G": [
+            12891,
+            "NA"
+      ],
+      "Intel Core i7-9700E": [
+            12881,
+            32300
+      ],
+      "Intel Core i3-12100T": [
+            12781,
+            12200
+      ],
+      "Intel Core i5-10505": [
+            12171,
+            "NA"
+      ],
+      "Intel Core i3-11100B": [
+            11357,
+            "NA"
+      ],
+      "AMD Ryzen 3 PRO 4200G": [
+            11315,
+            "NA"
+      ],
+      "AMD Ryzen 3 4300GE": [
+            11225,
+            "NA"
+      ],
+      "AMD Ryzen 3 4100": [
+            11041,
+            6499
+      ],
+      "AMD Ryzen 3 PRO 4355GE": [
+            10559,
+            "NA"
+      ],
+      "Intel Core i3-10325": [
+            10354,
+            19010
+      ],
+      "Intel Core i3-10320": [
+            10063,
+            13999
+      ],
+      "Intel Core i3-10305": [
+            9108,
+            16711
+      ],
+      "AMD Ryzen 5 3350G": [
+            9045,
+            "NA"
+      ],
+      "Intel Core i3-10105F": [
+            9011,
+            7400
+      ],
+      "Intel Core i3-10100F": [
+            8786,
+            6950
+      ],
+      "Intel Core i3-10105": [
+            8660,
+            10470
+      ],
+      "Intel Core i3-10100E": [
+            8229,
+            12500
+      ],
+      "Intel Core i3-10305T": [
+            8136,
+            14300
+      ],
+      "Intel Core i3-10105T": [
+            8012,
+            12200
+      ],
+      "AMD Athlon Gold 3150G": [
+            7112,
+            "NA"
+      ],
+      "Intel Pentium Gold G7400": [
+            6749,
+            8999
+      ],
+      "Intel Pentium Gold G7400T": [
+            5688,
+            6400
+      ],
+      "Intel Celeron G6900": [
+            4550,
+            7990
+      ],
+      "Intel Pentium Gold G6605": [
+            4475,
+            14508
+      ],
+      "AMD Athlon 320GE": [
+            4388,
+            "NA"
+      ],
+      "Intel Pentium Gold G6505": [
+            4378,
+            7500
+      ],
+      "Intel Pentium Gold G6405": [
+            4252,
+            7190
+      ],
+      "Intel Pentium Gold G6600": [
+            4226,
+            23990
+      ],
+      "Intel Celeron N5095A": [
+            4153,
+            "NA"
+      ],
+      "Intel Celeron N5095": [
+            4111,
+            "NA"
+      ],
+      "Intel Pentium Gold G6500T": [
+            4005,
+            7500
+      ],
+      "Intel Celeron G6900T": [
+            4003,
+            4200
+      ],
+      "AMD Athlon X4 970": [
+            3850,
+            "NA"
+      ],
+      "Intel Pentium Gold G6405T": [
+            3746,
+            6400
+      ],
+      "Intel Pentium Gold G6505T": [
+            3698,
+            9000
+      ],
+      "Intel Pentium Gold G5600T": [
+            3601,
+            "NA"
+      ],
+      "Intel Pentium Gold G6400T": [
+            3588,
+            6400
+      ],
+      "Intel Celeron G5925": [
+            2809,
+            4487
+      ],
+      "Intel Celeron G4950": [
+            2714,
+            11999
+      ],
+      "Intel Celeron G5900T": [
+            2620,
+            4200
+      ],
+      "AMD Athlon II X4 557": [
+            2567,
+            "NA"
+      ],
+      "Intel Celeron G5920": [
+            2482,
+            3991
+      ],
+      "AMD Athlon X4 730": [
+            2278,
+            "NA"
+      ],
+      "AMD A8-7690K": [
+            2157,
+            "NA"
+      ],
+      "Intel Celeron G5905T": [
+            2070,
+            4200
+      ],
+      "AMD Athlon X4 530": [
+            1786,
+            "NA"
+      ],
+      "AMD Athlon X2 450": [
+            1295,
+            "NA"
+      ],
+      "Intel Core i5-4470": [
+            1180,
+            "NA"
+      ]
+}

@@ -1,0 +1,202 @@
+{
+      "GeForce RTX 4090": [
+            38864,
+            166999
+      ],
+      "GeForce RTX 3080 Ti": [
+            27327,
+            84999
+      ],
+      "Radeon RX 6900 XT": [
+            26949,
+            77999
+      ],
+      "GeForce RTX 3090": [
+            26911,
+            144900
+      ],
+      "GeForce RTX 3080": [
+            25362,
+            67999
+      ],
+      "GeForce RTX 3070 Ti": [
+            23758,
+            49999
+      ],
+      "GeForce RTX 3070": [
+            22471,
+            43499
+      ],
+      "GeForce RTX 2080 Ti": [
+            21849,
+            139999
+      ],
+      "GeForce RTX 3060 Ti": [
+            20589,
+            32523
+      ],
+      "Radeon RX 6700 XT": [
+            19871,
+            31999
+      ],
+      "GeForce RTX 2080 SUPER": [
+            19596,
+            74099
+      ],
+      "GeForce RTX 2080": [
+            18800,
+            80061
+      ],
+      "GeForce GTX 1080 Ti": [
+            18539,
+            48382
+      ],
+      "GeForce RTX 2070 SUPER": [
+            18263,
+            49795
+      ],
+      "GeForce RTX 3060": [
+            17114,
+            24999
+      ],
+      "Radeon RX 5700 XT": [
+            16832,
+            36312
+      ],
+      "GeForce RTX 2060 SUPER": [
+            16585,
+            40999
+      ],
+      "GeForce RTX 2070": [
+            16171,
+            51999
+      ],
+      "GeForce RTX 3070 Laptop GPU": [
+            15520,
+            "NA"
+      ],
+      "GeForce GTX 1080": [
+            15484,
+            44279
+      ],
+      "Radeon RX 6600": [
+            15147,
+            32900
+      ],
+      "GeForce GTX 1070 Ti": [
+            14717,
+            56999
+      ],
+      "GeForce RTX 2060": [
+            14117,
+            20999
+      ],
+      "GeForce GTX 1070": [
+            13513,
+            48809
+      ],
+      "GeForce RTX 3060 Laptop GPU": [
+            13407,
+            30999
+      ],
+      "GeForce GTX 1660 Ti": [
+            12959,
+            25220
+      ],
+      "GeForce GTX 1660 SUPER": [
+            12785,
+            19799
+      ],
+      "GeForce RTX 3050 Ti Laptop GPU": [
+            10167,
+            "NA"
+      ],
+      "GeForce GTX 1060": [
+            10071,
+            27999
+      ],
+      "GeForce GTX 1060 3GB": [
+            9753,
+            26999
+      ],
+      "GeForce GTX 970": [
+            9639,
+            23799
+      ],
+      "GeForce RTX 3050 Laptop GPU": [
+            9391,
+            26999
+      ],
+      "Radeon RX 580": [
+            8907,
+            17999
+      ],
+      "Radeon RX 470/570": [
+            8046,
+            38899
+      ],
+      "GeForce GTX 1650": [
+            7859,
+            13499
+      ],
+      "GeForce GTX 1050 Ti": [
+            6302,
+            18999
+      ],
+      "GeForce GTX 960": [
+            6041,
+            17200
+      ],
+      "Radeon HD 7970 / R9 280X": [
+            5247,
+            24699
+      ],
+      "GeForce GTX 1050": [
+            5046,
+            23999
+      ],
+      "Radeon HD 7950 / R9 280": [
+            4766,
+            13220
+      ],
+      "Intel Iris Xe": [
+            2686,
+            "NA"
+      ],
+      "GeForce GT 1030": [
+            2486,
+            11611
+      ],
+      "Radeon Vega 8": [
+            1584,
+            12686
+      ],
+      "Intel UHD Graphics": [
+            1477,
+            "NA"
+      ],
+      "Intel UHD Graphics 630": [
+            1251,
+            "NA"
+      ],
+      "Intel UHD Graphics 620": [
+            1039,
+            "NA"
+      ],
+      "Intel HD Graphics 620": [
+            926,
+            "NA"
+      ],
+      "Intel HD 520": [
+            871,
+            "NA"
+      ],
+      "Intel HD 4600": [
+            629,
+            "NA"
+      ],
+      "Intel HD 4000": [
+            343,
+            159295
+      ]
+}
