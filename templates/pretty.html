@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SYNC</title>
+    <style>
+        body {
+            background-color: #333; /* Dark grey background */
+            font-family: Arial, sans-serif; /* Font style */
+            text-align: center; /* Center-align the text content */
+        }
+        h1 {
+            color: #0077b6; /* Cool blue text color for the heading */
+            font-size: 36px; /* Increase the heading size */
+            margin-bottom: 20px; /* Add vertical space below the heading */
+        }
+        #gameTitleForm {
+            display: inline-block; /* Center-align the form */
+            margin-top: 20px; /* Add vertical space above the form */
+        }
+        label {
+            display: none; /* Hide the label for the input field */
+        }
+        input[type="text"] {
+            border-radius: 10px; /* Rounded text box */
+            padding: 10px; /* Add some padding */
+            font-family: Helvetica, sans-serif; /* Use Helvetica font for the text box */
+        }
+        input[type="text"]::placeholder {
+            color: #777; /* Faded grey text for the placeholder */
+        }
+        button {
+            border-radius: 10px; /* Rounded button */
+            padding: 10px; /* Add some padding */
+            background-color: #777; /* Grey background for the button */
+            color: #fff; /* White text color for the button */
+            font-weight: bold; /* Bold text for the button */
+            cursor: pointer; /* Change cursor to pointer on hover */
+        }
+        #CPU, #GPU, #FoundCpu, #FoundGpu {
+            color: #fff; /* White text color for the divs */
+            font-weight: bold; /* Bold text for the divs */
+            font-size: 18px; /* Increase the text size */
+            margin-top: 20px; /* Add vertical space above the divs */
+        }
+    </style>
+</head>
+<body>
+    <h1>SYNC</h1>
+    
+    <form id="gameTitleForm">
+        <label for="gameTitle">Enter a Game Title:</label>
+        <input type="text" id="gameTitle" name="gameTitle" required placeholder="Game Title">
+        <button type="submit">Generate</button>
+    </form>
+    
+    <div id="CPU"></div>
+    <div id="GPU"></div>
+    <div id="FoundCpu"></div>
+    <div id="FoundGpu"></div>
+
+    <script>
+        document.getElementById('gameTitleForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            const gameTitle = document.querySelector('input[name="gameTitle"]').value;
+            fetch('/get_specs', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ gameTitle: gameTitle })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('CPU').textContent = 'Recommended CPU(s): ' + data.Processor;
+                document.getElementById('GPU').textContent = 'Recommended GPU(s): ' + data.Graphics;
+                document.getElementById('FoundCpu').textContent = "Found CPU Name: " + data.cpu_name + " Score: " + data.cpu_score;
+                document.getElementById('FoundGpu').textContent = "Found GPU Name: " + data.gpu_name + " Score: " + data.gpu_score;
+            });
+        });
+    </script>
+</body>
+</html>

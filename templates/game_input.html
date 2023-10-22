@@ -14,9 +14,35 @@
     
     <div id="CPU"></div>
     <div id="GPU"></div>
-    <div id="Benchmark Score"></div>
+    <div id="Found Cpu"></div>
+    <div id="Found Gpu"></div>
 
     <script>
+        // Event listener for input element
+        const gameTitleInput = document.getElementById('gameTitle');
+        const gameSuggestionsDatalist = document.getElementById('gameSuggestions');
+
+        gameTitleInput.addEventListener('input', function () {
+            const inputText = this.value;
+
+            // Clear existing suggestions
+            gameSuggestionsDatalist.innerHTML = '';
+
+            // Fetch and populate suggestions from your Flask backend
+            if (inputText.trim() !== '') {
+                fetch('/get_game_suggestions?query=' + inputText, {
+                    method: 'GET'
+                })
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(suggestion => {
+                        const option = document.createElement('option');
+                        option.value = suggestion;
+                        gameSuggestionsDatalist.appendChild(option);
+                    });
+                });
+            }
+        });
         document.getElementById('gameTitleForm').addEventListener('submit', function (event) {
             event.preventDefault();
             const gameTitle = document.querySelector('input[name="gameTitle"]').value;
@@ -27,27 +53,10 @@
             })
             .then(response => response.json())
             .then(data => {
-                document.getElementById('CPU').textContent = 'Recommended CPU: ' + data.Processor;
-                document.getElementById('GPU').textContent = 'Recommended GPU: ' + data.Graphics;
-                document.getElementById('Benchmark Score').textContent = "CPU Score: " + data.cpu_score;
-
-                // const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
-                // fetch(proxyUrl + "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-3537U")
-                // .then(benchmark_response => benchmark_response.text)
-                // .then(benchmark_data => {
-                //     const parser = new DOMParser();
-                //     const benchmarkDOM = parser.parseFromString(benchmark_data, 'text/html');
-                //     const scoreElement = benchmarkDOM.querySelector("#main_content > div.wrapper > div.main-cmps > div:nth-child(2) > div.ov-scroll > div > div.right-desc > span:nth-child(3)")
-                //     if (scoreElement) {
-                //         const score = scoreElement.textContent;
-                //         document.getElementById('Benchmark Score').textContent = 'Benchmark Score: ' + score;
-                //     } else {
-                //         document.getElementById('Benchmark Score').textContent = benchmarkDOM.URL;
-                //     }
-                // })
-                // .catch(error => {
-                //     console.error('Error:', error);
-                // });
+                document.getElementById('CPU').textContent = 'Recommended CPU(s): ' + data.Processor;
+                document.getElementById('GPU').textContent = 'Recommended GPU(s): ' + data.Graphics;
+                document.getElementById('Found Cpu').textContent = "Found CPU Name: " + data.cpu_name + " Score: " + data.cpu_score;
+                document.getElementById('Found Gpu').textContent = "Found GPU Name: " + data.gpu_name + " Score: " + data.gpu_score;
             });
 
         });

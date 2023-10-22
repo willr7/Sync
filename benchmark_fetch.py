@@ -4,6 +4,68 @@ from html.parser import HTMLParser
 import bs4
 import difflib
 
+
+def fetch_particular_score(cpu_name: str, gpu_name: str):
+    cpu_dict = json.load(open("cpu_benchmarks.json"))
+    gpu_dict = json.load(open("gpu_benchmarks.json"))
+    # print(cpu_name, gpu_name)
+    closest_cpu = difflib.get_close_matches(cpu_name.lower().capitalize(), cpu_dict, cutoff=0)
+    closest_gpu = difflib.get_close_matches(gpu_name.lower().capitalize(), gpu_dict, cutoff=0)
+    # print(closest_cpu, closest_gpu)
+    
+    return {"cpu_name": closest_cpu[0], "cpu_score": cpu_dict[closest_cpu[0]][0], "gpu_name": closest_gpu[0], "gpu_score": gpu_dict[closest_gpu[0]][0]}
+    
+def generate_data():
+    
+    cpu_url = "https://www.cpubenchmark.net/cpu_list.php"
+    gpu_url = "https://www.videocardbenchmark.net/gpu_list.php"
+    
+    try:
+        f_cpu = open("cpu_benchmarks.json", "x")
+        f_gpu = open("gpu_benchmarks.json", "x")
+        
+        cpu = urllib3.request("GET", cpu_url).data
+        gpu = urllib3.request("GET", gpu_url).data
+        
+        cpu_site = bs4.BeautifulSoup(str(cpu), features="html.parser")
+        gpu_site = bs4.BeautifulSoup(str(gpu), features="html.parser")
+        
+        cpu_dict = {}
+        gpu_dict = {}
+        
+        gpu_entries = gpu_site.find('tbody').find_all('tr')
+        for entry in gpu_entries:
+            name_td, score_td, _, _, price_td = entry.find_all('td')
+            name = name_td.a.contents[0]
+            name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
+            score = int(score_td.contents[0].replace(",", ""))
+            price = 'NA'
+            if price_td.contents != ['NA']:
+                price = float(price_td.a.contents[0].strip("*").strip("$").replace(",", ""))
+            gpu_dict[name] = (score, price)
+        
+        cpu_entries = cpu_site.find('tbody').find_all('tr')
+        for entry in cpu_entries:
+            name_td, score_td, _, _, price_td = entry.find_all('td')
+            name = name_td.a.contents[0]
+            name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
+            score = int(score_td.contents[0].replace(",", ""))
+            price = 'NA'
+            if price_td.contents != ['NA']:
+                try:
+                    price = float(price_td.contents[0].strip("*").strip("$").replace(",", ""))
+                except AttributeError:
+                    pass
+            cpu_dict[name] = (score, price)
+            
+        json.dump(cpu_dict, f_cpu, indent=6)
+        json.dump(gpu_dict, f_gpu, indent=6)
+        
+    except FileExistsError:
+        pass
+    
+generate_data()
+
 class BenchmarkParser(HTMLParser):
     #Specifically designed for the common benchmarks site
     
@@ -113,62 +175,6 @@ def fetch_particular_score_2(cpu_name: str, gpu_name: str):
     assert gpu_score is not None, f"{gpu_search}"
         
     return int(cpu_score[0]), int(gpu_score[0])
-
-def fetch_particular_score(cpu_name: str, gpu_name: str):
-    cpu_dict = json.load(open("cpu_benchmarks.json"))
-    gpu_dict = json.load(open("gpu_benchmarks.json"))
-    closest_cpu = difflib.get_close_matches(cpu_name, cpu_dict, cutoff=0)[0]
-    closest_gpu = difflib.get_close_matches(gpu_name, gpu_dict, cutoff=0)[0]
-    
-    return {"cpu_name": closest_cpu, "cpu_score": cpu_dict[closest_cpu][0], "gpu_name": closest_gpu, "gpu_score": gpu_dict[closest_gpu][0]}
-    
-def generate_data():
-    
-    cpu_url = "https://www.cpubenchmark.net/cpu_list.php"
-    gpu_url = "https://www.videocardbenchmark.net/gpu_list.php"
-    
-    try:
-        f_cpu = open("cpu_benchmarks.json", "x")
-        f_gpu = open("gpu_benchmarks.json", "x")
-        
-        cpu = urllib3.request("GET", cpu_url).data
-        gpu = urllib3.request("GET", gpu_url).data
-        
-        cpu_site = bs4.BeautifulSoup(str(cpu), features="html.parser")
-        gpu_site = bs4.BeautifulSoup(str(gpu), features="html.parser")
-        
-        cpu_dict = {}
-        gpu_dict = {}
-        
-        gpu_entries = gpu_site.find('tbody').find_all('tr')
-        for entry in gpu_entries:
-            name_td, score_td, _, _, price_td = entry.find_all('td')
-            name = name_td.a.contents[0]
-            score = int(score_td.contents[0].replace(",", ""))
-            price = 'NA'
-            if price_td.contents != ['NA']:
-                price = float(price_td.a.contents[0].strip("*").strip("$").replace(",", ""))
-            gpu_dict[name] = (score, price)
-        
-        cpu_entries = cpu_site.find('tbody').find_all('tr')
-        for entry in cpu_entries:
-            name_td, score_td, _, _, price_td = entry.find_all('td')
-            name = name_td.a.contents[0]
-            score = int(score_td.contents[0].replace(",", ""))
-            price = 'NA'
-            if price_td.contents != ['NA']:
-                try:
-                    price = float(price_td.contents[0].strip("*").strip("$").replace(",", ""))
-                except AttributeError:
-                    pass
-            cpu_dict[name] = (score, price)
-            
-        json.dump(cpu_dict, f_cpu, indent=6)
-        json.dump(gpu_dict, f_gpu, indent=6)
-        
-    except FileExistsError:
-        pass
-    
 
 def generate_benchmark_data():
     cpu_benchmark_url = "https://www.cpubenchmark.net/desktop.html"
