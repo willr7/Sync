@@ -2,6 +2,7 @@ from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
 import steam_game_id
 import benchmark_fetch
+from suggestion import suggestions
 
 app = Flask(__name__)
 CORS(app) 
@@ -11,13 +12,8 @@ counter = 0
 
 @app.route('/')
 def index():
-    return render_template('game_input.html')
+    return render_template('pretty.html')
 
-@app.route('/increment', methods=['POST'])
-def increment_counter():
-    global counter
-    counter += 1
-    return jsonify({'counter': counter})
 
 @app.route('/get_specs', methods=['POST'])
 def generate_specs():
@@ -39,6 +35,11 @@ def generate_specs():
         return jsonify(specs | score_dict)
     except KeyError:
         return jsonify({"response": "Couldn't Find Game!"})
+
+@app.route('/get_game_suggestions', methods=['GET'])
+def get_game_suggestions():
+    query = request.args.get('query')
+    return jsonify(suggestions(query))
 
 if __name__ == '__main__':
     app.run(debug=True)
