@@ -33,8 +33,7 @@ class SpecParser(HTMLParser):
             else:
                 self.spec_dict[self.current_key] = data.strip()
 
-if __name__ == "__main__":
-    
+def fetch_specs(game_name):    
     game_dict = {}
     source_filename = "ids.json"
     dest_filename = "game_ids.json"
@@ -49,7 +48,7 @@ if __name__ == "__main__":
     except FileExistsError:
         game_dict = json.load(open(dest_filename))
     
-    game_name = "Rocket League" #will be gotten from user
+    # game_name = "Rocket League" #will be gotten from user
     game_id = game_dict[game_name]
     
     # App details API: 
@@ -71,5 +70,5 @@ if __name__ == "__main__":
     
     Specifications = {"Minimum": minimum_specs,
                     "Recommended": recommened_specs}
-    
-    print(Specifications) #this info can be returned.
+    # print(recommened_specs)
+    return recommened_specs

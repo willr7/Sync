@@ -79,46 +79,55 @@ class GPUParser(HTMLParser):
             self.current_entry.append(data)
             self.current_key = ""
         
+def fetch_particular_score(type, name):
+    gpu_url = "https://www.videocardbenchmark.net/gpu.php?gpu="
+    cpu_url = "https://www.cpubenchmark.net/cpu.php?cpu="
+    #urls don't include the memory at the end of GPUs, does include Company names though: AMD, INTEL, etc. 
+    
 
-
-if __name__ == "__main__":
+def generate_benchmark_data():
     cpu_benchmark_url = "https://www.cpubenchmark.net/desktop.html"
     gpu_benchmark_url = "https://www.videocardbenchmark.net/common_gpus.html"
     
-    cpu_resp = urllib3.request("GET", cpu_benchmark_url)
-    gpu_resp = urllib3.request("GET", gpu_benchmark_url)
-    
-    if cpu_resp.status != 200 or gpu_resp.status != 200:
-        print("Error Getting Benchmark Url results")
-        exit()
+    try:
+        f = open("cpu_benchmarks.json", "x")
+        f = open("gpu_benchmarks.json", "x")
         
-    parser = BenchmarkParser()
-    parser.feed(str(cpu_resp.data))
-    
-    cpu_dict = {}
-    for elem in parser.scores:
-        name, score, price = elem['prdname'], elem['count'], elem['price-neww']
-        name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
-        score = int(score.replace(',', ''))
-        price = int(price.strip("$").strip("*").replace(',', '').replace('.', '')) if price != 'NA' else 'NA'
-        cpu_dict[name] = (score, price)
-       
-    parser.clear_scores() 
-    
-    parser = GPUParser()
-    parser.feed(str(gpu_resp.data))
-    
-    gpu_dict = {}
-    for elem in parser.scores:
-        name, score, price = elem
-        name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
-        score = int(score.replace(',', ''))
-        price = int(price.strip("$").strip("*").replace(',', '').replace('.', '')) if price != 'NA' else 'NA'
-        gpu_dict[name] = (score, price)
-    
-    f = open("cpu_benchmarks.json", "w")
-    json.dump(cpu_dict, f, indent=6)
-    f = open("gpu_benchmarks.json", "w")
-    json.dump(gpu_dict, f, indent=6)
+        cpu_resp = urllib3.request("GET", cpu_benchmark_url)
+        gpu_resp = urllib3.request("GET", gpu_benchmark_url)
+        
+        if cpu_resp.status != 200 or gpu_resp.status != 200:
+            print("Error Getting Benchmark Url results")
+            exit()
+            
+        parser = BenchmarkParser()
+        parser.feed(str(cpu_resp.data))
+        
+        cpu_dict = {}
+        for elem in parser.scores:
+            name, score, price = elem['prdname'], elem['count'], elem['price-neww']
+            name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
+            score = int(score.replace(',', ''))
+            price = int(price.strip("$").strip("*").replace(',', '').replace('.', '')) if price != 'NA' else 'NA'
+            cpu_dict[name] = (score, price)
+        
+        parser.clear_scores() 
+        
+        parser = GPUParser()
+        parser.feed(str(gpu_resp.data))
+        
+        gpu_dict = {}
+        for elem in parser.scores:
+            name, score, price = elem
+            name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
+            score = int(score.replace(',', ''))
+            price = int(price.strip("$").strip("*").replace(',', '').replace('.', '')) if price != 'NA' else 'NA'
+            gpu_dict[name] = (score, price)
+        
+        json.dump(cpu_dict, f, indent=6)
+        json.dump(gpu_dict, f, indent=6)
+    except FileExistsError:
+        #no need to recreate the benchmark jsons
+        pass
 
     

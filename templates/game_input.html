@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sync</title>
+</head>
+<body>
+    <h1>Sync</h1>
+    
+    <form id="gameTitleForm">
+        <label for="gameTitle">Enter a Game Title:</label>
+        <input type="text" id="gameTitle" name="gameTitle" required>
+        <button type="submit">Generate</button>
+    </form>
+    
+    <div id="Recommended GPU"></div>
+    <div id="Recommended CPU"></div>
+
+    <script>
+        document.getElementById('gameTitleForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            const gameTitle = document.querySelector('input[name="gameTitle"]').value;
+            fetch('/get_specs', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ gameTitle: gameTitle })
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log("yes")
+                document.getElementById('Recommended GPU(s)').textContent = 'Recommended GPU:' + data.Graphics;
+                document.getElementById('Recommended CPU(s)').textContent = 'Recommended CPU:' + data.Processor;
+            });
+        });
+    </script>
+</body>
+</html>
