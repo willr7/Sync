@@ -1,0 +1,1767 @@
+{
+      "AMD Ryzen 3 1200": {
+            "link": "https://www.newegg.com/warner-bros-injustice-2-legendary-edition/p/N82E16832777242",
+            "price": 59,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 1300X": {
+            "link": "https://www.newegg.com/pricerightcomputers-cm-q300l-ryzen-gaming/p/3D5-000V-00072",
+            "price": 1600,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 2200G": {
+            "link": "https://www.newegg.com/amd-ryzen-3-2200g/p/N82E16819113517",
+            "price": 65,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 2200U": {
+            "link": "https://www.newegg.com/p/3C6-0006-008A1",
+            "price": 677,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 2300U": {
+            "link": "https://www.newegg.com/p/1B4-079C-005G0",
+            "price": 104,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 2300X": {
+            "link": "https://www.newegg.com/robot-entertainment-inc-orcs-must-die-3-pc/p/N82E16832836003",
+            "price": 29,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3100": {
+            "link": "https://www.newegg.com/amd-ryzen-3-3100-ryzen-3-3rd-gen/p/N82E16819113649",
+            "price": 72,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3200G": {
+            "link": "https://www.newegg.com/amd-ryzen-3-3200g/p/N82E16819113571",
+            "price": 103,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3200U": {
+            "link": "https://www.newegg.com/p/2MG-0014-00089",
+            "price": 104,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3250C": {
+            "link": "https://www.newegg.com/p/1TS-001A-05NX9",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3250U": {
+            "link": "https://www.newegg.com/p/1VK-0003-1NYH7",
+            "price": 399,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3300U": {
+            "link": "https://www.newegg.com/p/1VK-02AG-00011",
+            "price": 759,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3300X": {
+            "link": "https://www.newegg.com/p/3C6-01VE-000U1",
+            "price": 291,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 3350U": {
+            "link": "https://www.newegg.com/p/36B-0018-00088",
+            "price": 279,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 4100": {
+            "link": "https://www.newegg.com/amd-ryzen-3-4100-ryzen-3-4000-series/p/N82E16819113739",
+            "price": 64,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 4300G": {
+            "link": "https://www.newegg.com/hp-m01-f1214-business-desktops-workstations/p/1VK-001E-4NAB3",
+            "price": 739,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 4300GE": {
+            "link": "https://www.newegg.com/hp-m01-f1214-business-desktops-workstations/p/1VK-001E-4NAB3",
+            "price": 739,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 4300U": {
+            "link": "https://www.newegg.com/p/1TS-000E-0V6V1",
+            "price": 569,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 5300G": {
+            "link": "https://www.newegg.com/p/3D5-0005-01856",
+            "price": 789,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 5300GE": {
+            "link": "https://www.newegg.com/p/3D5-0005-01856",
+            "price": 789,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 5300U": {
+            "link": "https://www.newegg.com/silver-hp-mainstream/p/1TS-000D-1F8Y9",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 5400U": {
+            "link": "https://www.newegg.com/asrock-4x4-box-5400u/p/N82E16856158085",
+            "price": 285,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 5425U": {
+            "link": "https://www.newegg.com/black-lenovo-v14-g3-aba-82tu0006us-home-personal/p/1TS-000E-10GM4",
+            "price": 700,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 7320C": {
+            "link": "https://www.newegg.com/p/1TS-000A-0Z547",
+            "price": 551,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 7320U": {
+            "link": "https://www.newegg.com/p/1TS-000X-05BU2",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 7330U": {
+            "link": "https://www.newegg.com/p/1TS-000D-19BB5",
+            "price": 837,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 1200": {
+            "link": "https://www.newegg.com/nzxt-liquid-cooling-system-kraken-x/p/N82E16835146068",
+            "price": 149,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 1300": {
+            "link": "https://www.newegg.com/pricerightcomputers-cm-q300l-ryzen-gaming/p/3D5-000V-00072",
+            "price": 1600,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 2200G": {
+            "link": "https://www.newegg.com/p/1VK-001E-4SFM8",
+            "price": 199,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 2300U": {
+            "link": "https://www.newegg.com/silver-hp-elitebook-mt44-everyday-value/p/1TS-000D-0TBV3",
+            "price": 480,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 3300U": {
+            "link": "https://www.newegg.com/lenovo-thinkcentre-m75n-thin-client-student-home-office/p/1VK-0003-1NZF4",
+            "price": 189,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 4200G": {
+            "link": "https://www.newegg.com/asus-pro-a520m-c-ii-csm/p/2MG-000B-003T9",
+            "price": 92,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 4350G": {
+            "link": "https://www.newegg.com/p/274-000M-001G7",
+            "price": 286,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 4350GE": {
+            "link": "https://www.newegg.com/p/274-000M-001G7",
+            "price": 286,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 4450U": {
+            "link": "https://www.newegg.com/p/1TS-000E-161X3",
+            "price": 571,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 5350G": {
+            "link": "https://www.newegg.com/p/1VK-0003-1NTJ3",
+            "price": 600,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 3 PRO 5350GE": {
+            "link": "https://www.newegg.com/p/1VK-0003-1NJC0",
+            "price": 599,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 1400": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3400g/p/N82E16819113570",
+            "price": 129,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 1500X": {
+            "link": "https://www.newegg.com/p/274-000M-001J2",
+            "price": 179,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 1600": {
+            "link": "https://www.newegg.com/amd-ryzen-5-1600/p/N82E16819113435",
+            "price": 45,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 1600X": {
+            "link": "https://www.newegg.com/p/274-000M-001K0",
+            "price": 99,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 2400G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-2400g/p/N82E16819113480",
+            "price": 177,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 2400GE": {
+            "link": "https://www.newegg.com/p/N82E16883451316",
+            "price": 105,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 2500U": {
+            "link": "https://www.newegg.com/p/2MG-000H-00214",
+            "price": 94,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 2500X": {
+            "link": "https://www.newegg.com/p/1FR-00BN-003D5",
+            "price": 158,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 2600": {
+            "link": "https://www.newegg.com/p/274-000M-001J7",
+            "price": 69,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 2600H": {
+            "link": "https://www.newegg.com/p/1B4-001S-099W0",
+            "price": 91,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 2600X": {
+            "link": "https://www.newegg.com/p/274-000M-001M3",
+            "price": 205,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3350G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3500x/p/274-000M-001B6",
+            "price": 114,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3400G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3400g/p/N82E16819113570",
+            "price": 129,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3400GE": {
+            "link": "https://www.newegg.com/p/1VK-001E-4S995",
+            "price": 299,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3450U": {
+            "link": "https://www.newegg.com/p/1TS-000A-0WMW5",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3500": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3500x/p/274-000M-001B6",
+            "price": 114,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3500C": {
+            "link": "https://www.newegg.com/p/1TS-001A-06414",
+            "price": 484,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3500U": {
+            "link": "https://www.newegg.com/p/2MG-000H-002B0",
+            "price": 89,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3500X": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3500x/p/274-000M-001B6",
+            "price": 114,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3550H": {
+            "link": "https://www.newegg.com/genmachine-3550h-ren3000/p/2SW-0090-00004",
+            "price": 285,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3550U": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5500-ryzen-5-5000-series/p/N82E16819113748",
+            "price": 99,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3580U": {
+            "link": "https://www.newegg.com/platinum-microsoft-surface-laptop-3-pml-00001-mainstream/p/N82E16834736223",
+            "price": 699,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3600": {
+            "link": "https://www.newegg.com/p/3D5-001U-001F1",
+            "price": 1049,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3600X": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3600x/p/N82E16819113568",
+            "price": 149,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 3600XT": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3600xt-ryzen-5-3rd-gen/p/N82E16819113653",
+            "price": 124,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 4400G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5600g-ryzen-5-5000-g-series/p/N82E16819113683",
+            "price": 149,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 4500": {
+            "link": "https://www.newegg.com/amd-ryzen-5-4500-ryzen-5-4000/p/N82E16819113738",
+            "price": 79,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 4600G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-4600g-ryzen-5-4000-g-series/p/N82E16819113744",
+            "price": 99,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 4600GE": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5600g-ryzen-5-5000-g-series/p/N82E16819113683",
+            "price": 149,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 4600H": {
+            "link": "https://www.newegg.com/p/2MG-000G-001N4",
+            "price": 125,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 4600HS": {
+            "link": "https://www.newegg.com/amd-ryzen-5-4600g-ryzen-5-4000-g-series/p/N82E16819113744",
+            "price": 99,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 4600U": {
+            "link": "https://www.newegg.com/p/3C6-0190-008N5",
+            "price": 1101,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5500": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5500-ryzen-5-5000-series/p/N82E16819113748",
+            "price": 99,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5500U": {
+            "link": "https://www.newegg.com/p/1TS-000D-12DJ1",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5560U": {
+            "link": "https://www.newegg.com/p/1VK-01TK-00179",
+            "price": 392,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5600": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5600-ryzen-5-5000-series/p/N82E16819113736",
+            "price": 134,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5600G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5600g-ryzen-5-5000-g-series/p/N82E16819113683",
+            "price": 149,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5600GE": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5600g-ryzen-5-5000-g-series/p/N82E16819113683",
+            "price": 149,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5600H": {
+            "link": "https://www.newegg.com/p/2WC-000J-01EG1",
+            "price": 759,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5600U": {
+            "link": "https://www.newegg.com/safari-gold-acer-swift-x-sfx14-41g-r7yt-everyday-value/p/1TS-000X-03CU0",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5600X": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666",
+            "price": 163,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5600X3D": {
+            "link": "https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666",
+            "price": 163,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 5625U": {
+            "link": "https://www.newegg.com/black-lenovo-v14-g3-aba-82tu0004us-home-personal/p/1TS-000E-10RE7",
+            "price": 480,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 6600H": {
+            "link": "https://www.newegg.com/p/2WC-0009-02HK6",
+            "price": 919,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 6600U": {
+            "link": "https://www.newegg.com/gray-lenovo-thinkbook-21as0018us-workstation/p/1TS-000E-10RW6",
+            "price": 480,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7500F": {
+            "link": "https://www.newegg.com/p/3D5-001U-001F8",
+            "price": 1049,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7520U": {
+            "link": "https://www.newegg.com/abyss-blue-lenovo-ideapad-slim-3-15amn8-home-personal-mainstream-work-business/p/N82E16834840348",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7530U": {
+            "link": "https://www.newegg.com/p/1XV-000B-024N6",
+            "price": 649,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7535HS": {
+            "link": "https://www.newegg.com/p/2WC-0001-04TV9",
+            "price": 756,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7535U": {
+            "link": "https://www.newegg.com/p/1TS-000E-18BP3",
+            "price": 480,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7540U": {
+            "link": "https://www.newegg.com/p/1TS-000D-1F1A2",
+            "price": 1385,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7600": {
+            "link": "https://www.newegg.com/amd-ryzen-5-7600/p/N82E16819113787",
+            "price": 226,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7600X": {
+            "link": "https://www.newegg.com/amd-ryzen-5-7600x-ryzen-5-7000-series/p/N82E16819113770",
+            "price": 254,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 7640HS": {
+            "link": "https://www.newegg.com/p/2WC-0001-04MM5",
+            "price": 1223,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 1500": {
+            "link": "https://www.newegg.com/p/1VK-0001-618S2",
+            "price": 339,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 2400G": {
+            "link": "https://www.newegg.com/p/1VK-004S-000C5",
+            "price": 149,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 2400GE": {
+            "link": "https://www.newegg.com/p/N82E16883451316",
+            "price": 105,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 2500U": {
+            "link": "https://www.newegg.com/p/36B-0007-007V8",
+            "price": 279,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 2600": {
+            "link": "https://www.newegg.com/amd-ryzen-5-2600/p/N82E16819113496",
+            "price": 69,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 3400G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-3400g/p/N82E16819113570",
+            "price": 129,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 3400GE": {
+            "link": "https://www.newegg.com/p/1VK-001E-4S995",
+            "price": 299,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 3500U": {
+            "link": "https://www.newegg.com/lenovo-thinkpad-t495s/p/36B-000D-00D79",
+            "price": 279,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 3600": {
+            "link": "https://www.newegg.com/p/3D5-001U-001F1",
+            "price": 1049,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 4500U": {
+            "link": "https://www.newegg.com/p/3D5-000W-09374",
+            "price": 4238,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 4650G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-pro-4650g-ryzen-5-pro-4000/p/N82E16819113728",
+            "price": 114,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 4650GE": {
+            "link": "https://www.newegg.com/p/1VK-0003-1EHS0",
+            "price": 725,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 4650U": {
+            "link": "https://www.newegg.com/p/1TS-000D-10W22",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 4655G": {
+            "link": "https://www.newegg.com/amd-ryzen-5-pro-4650g-ryzen-5-pro-4000/p/N82E16819113728",
+            "price": 114,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 4655GE": {
+            "link": "https://www.newegg.com/amd-ryzen-5-pro-4650g-ryzen-5-pro-4000/p/N82E16819113728",
+            "price": 114,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 5650G": {
+            "link": "https://www.newegg.com/p/1VK-0003-1NDE0",
+            "price": 680,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 5650GE": {
+            "link": "https://www.newegg.com/p/1VK-0003-1JE59",
+            "price": 672,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 5650U": {
+            "link": "https://www.newegg.com/lenovo-thinkpad-t14-gen-2-work-business/p/36B-000D-00CW1",
+            "price": 899,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 5675U": {
+            "link": "https://www.newegg.com/p/1TS-000D-18ZG2",
+            "price": 1669,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 6650H": {
+            "link": "https://www.newegg.com/thinkpad-21d4000fus-mainstream/p/1TS-000E-11U05",
+            "price": 1204,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 6650U": {
+            "link": "https://www.newegg.com/thunder-black-lenovo-thinkpad-t14-gen-3-21cf003uus-work-business/p/N82E16834646920",
+            "price": 811,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 7540U": {
+            "link": "https://www.newegg.com/p/1TS-000D-1F1A2",
+            "price": 1385,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 5 PRO 7640HS": {
+            "link": "https://www.newegg.com/hp-zbook-power-g10-a/p/N82E16834841489",
+            "price": 1469,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 1700": {
+            "link": "https://www.newegg.com/amd-ryzen-7-1700x/p/N82E16819113429",
+            "price": 70,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 1700X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-1700x/p/N82E16819113429",
+            "price": 70,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 1800X": {
+            "link": "https://www.newegg.com/p/183-006H-00096",
+            "price": 145,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 2700": {
+            "link": "https://www.newegg.com/amd-ryzen-7-2700/p/N82E16819113498",
+            "price": 89,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 2700E": {
+            "link": "https://www.newegg.com/amd-ryzen-7-2700/p/N82E16819113498",
+            "price": 89,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 2700U": {
+            "link": "https://www.newegg.com/p/2SW-002E-00011",
+            "price": 588,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 2700X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-2700x/p/N82E16819113499",
+            "price": 299,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 2800H": {
+            "link": "https://www.newegg.com/p/1B4-001S-05ND3",
+            "price": 284,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 3700C": {
+            "link": "https://www.newegg.com/p/1TS-000D-18ZC7",
+            "price": 907,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 3700U": {
+            "link": "https://www.newegg.com/p/1TS-000X-04NY2",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 3700X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-3700x-ryzen-7-3rd-gen/p/274-000M-001J5",
+            "price": 139,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 3750H": {
+            "link": "https://www.newegg.com/p/1VK-01TK-00161",
+            "price": 559,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 3780U": {
+            "link": "https://www.newegg.com/matte-black-microsoft-surface-laptop-3-pmf-00003-mainstream/p/N82E16834736215",
+            "price": 699,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 3800X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-3800x/p/N82E16819113104",
+            "price": 279,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 3800XT": {
+            "link": "https://www.newegg.com/amd-ryzen-7-3800xt-ryzen-7-3rd-gen/p/N82E16819113652",
+            "price": 289,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 4700G": {
+            "link": "https://www.newegg.com/p/1VK-001E-413C6",
+            "price": 719,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 4700GE": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5700g-ryzen-7-5000-g-series/p/N82E16819113682",
+            "price": 185,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 4700U": {
+            "link": "https://www.newegg.com/p/1TS-000E-0V0D9",
+            "price": 480,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 4800H": {
+            "link": "https://www.newegg.com/p/2MG-000G-001N5",
+            "price": 230,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 4800HS": {
+            "link": "https://www.newegg.com/black-asus-ga401ih-br7n2bl-mainstream/p/1TS-001A-0A2S5",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 4800U": {
+            "link": "https://www.newegg.com/asrock-4x4-box-4800u/p/N82E16856158069",
+            "price": 285,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 4980U Microsoft Surface Edition": {
+            "link": "https://www.newegg.com/matte-black-microsoft-surface-laptop-4/p/N82E16834736707",
+            "price": 1329,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5700": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665",
+            "price": 259,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5700G": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5700g-ryzen-7-5000-g-series/p/N82E16819113682",
+            "price": 185,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5700GE": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5700g-ryzen-7-5000-g-series/p/N82E16819113682",
+            "price": 185,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5700U": {
+            "link": "https://www.newegg.com/p/2AM-001A-00043",
+            "price": 159,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5700X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5700x-ryzen-7-5000-series/p/N82E16819113735",
+            "price": 178,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5800": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665",
+            "price": 259,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5800H": {
+            "link": "https://www.newegg.com/p/N82E16834156346",
+            "price": 799,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5800HS": {
+            "link": "https://www.newegg.com/p/2WC-000N-08HD3",
+            "price": 2269,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5800U": {
+            "link": "https://www.newegg.com/p/2SW-007E-00066",
+            "price": 649,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5800X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665",
+            "price": 259,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5800X3D": {
+            "link": "https://www.newegg.com/amd-ryzen-7-5800x3d-ryzen-7-5000-series/p/N82E16819113734",
+            "price": 322,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 5825U": {
+            "link": "https://www.newegg.com/charcoal-gray-lg-16u70q-n-apc7u1-home-personal/p/N82E16834325100",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 6800H": {
+            "link": "https://www.newegg.com/p/1TS-001A-07XS0",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 6800HS": {
+            "link": "https://www.newegg.com/lenovo-slim-7-prox-14arh7-mainstream/p/1TS-000E-14TX2",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 6800HS Creator Edition": {
+            "link": "https://www.newegg.com/lenovo-slim-7-prox-14arh7-mainstream/p/1TS-000E-14TX2",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 6800U": {
+            "link": "https://www.newegg.com/p/1TS-000X-04P60",
+            "price": 1214,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7700": {
+            "link": "https://www.newegg.com/amd-ryzen-7-7700/p/N82E16819113786",
+            "price": 327,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7700X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-7700x-ryzen-7-7000-series/p/N82E16819113768",
+            "price": 319,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7730U": {
+            "link": "https://www.newegg.com/classic-black-msi-modern-14-c7m-048us-work-business/p/N82E16834156444",
+            "price": 410,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7735H": {
+            "link": "https://www.newegg.com/geekom-as6/p/2SW-0070-00018",
+            "price": 779,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7735HS": {
+            "link": "https://www.newegg.com/p/2SW-002G-000C5",
+            "price": 285,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7745HX": {
+            "link": "https://www.newegg.com/p/2WC-000J-02DD3",
+            "price": 1349,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7800X3D": {
+            "link": "https://www.newegg.com/amd-ryzen-7-7800x3d-ryzen-7-7000-series/p/N82E16819113793",
+            "price": 369,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7840H": {
+            "link": "https://www.newegg.com/p/3D5-000G-042K7",
+            "price": 2360,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7840HS": {
+            "link": "https://www.newegg.com/p/2WC-000J-02HE7",
+            "price": 1109,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7840S": {
+            "link": "https://www.newegg.com/avgpc-hellfire-4070/p/3D5-002N-00045",
+            "price": 1999,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 7840U": {
+            "link": "https://www.newegg.com/hp-elitebook-865-g10/p/N82E16834841506",
+            "price": 1659,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 Extreme Edition": {
+            "link": "https://www.newegg.com/black-msi-bravo-17-c7vfk-039us-gaming-entertainment/p/2WC-000C-0GBF4",
+            "price": 1629,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 1700": {
+            "link": "https://www.newegg.com/cooler-master-rr-212s-20pk-r2/p/N82E16835103330",
+            "price": 28,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 1700X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-1700x/p/N82E16819113429",
+            "price": 70,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 2700": {
+            "link": "https://www.newegg.com/amd-ryzen-7-2700x/p/N82E16819113499",
+            "price": 299,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 2700X": {
+            "link": "https://www.newegg.com/amd-ryzen-7-2700x/p/N82E16819113499",
+            "price": 299,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 3700": {
+            "link": "https://www.newegg.com/amd-ryzen-7-3700x-ryzen-7-3rd-gen/p/274-000M-001J5",
+            "price": 139,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 3700U": {
+            "link": "https://www.newegg.com/black-lenovo-20qks2df00/p/1TS-000E-0MWM8",
+            "price": 480,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 4750G": {
+            "link": "https://www.newegg.com/amd-ryzen-7-pro-4750g/p/274-000M-001K8",
+            "price": 479,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 4750GE": {
+            "link": "https://www.newegg.com/p/1VK-0003-1KSK7",
+            "price": 1350,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 4750U": {
+            "link": "https://www.newegg.com/p/1TS-000E-18KY7",
+            "price": 984,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 5750G": {
+            "link": "https://www.newegg.com/p/1VK-0003-1NYG9",
+            "price": 836,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 5845": {
+            "link": "https://www.newegg.com/p/1VK-0003-1KXU1",
+            "price": 1786,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 5850U": {
+            "link": "https://www.newegg.com/black-lenovo-20xk001bus/p/1TS-000E-0SJX9",
+            "price": 1035,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 5875U": {
+            "link": "https://www.newegg.com/thinkpad-21b90016us-work-business/p/1TS-000E-10T01",
+            "price": 279,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 6850H": {
+            "link": "https://www.newegg.com/thinkpad-21d4000jus-content-creation/p/1TS-000E-10SY0",
+            "price": 279,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 6850HS": {
+            "link": "https://www.newegg.com/p/1TS-000D-12TU4",
+            "price": 1646,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 6850U": {
+            "link": "https://www.newegg.com/slate-blue-acer-travelmate-p4-tmp416-41-r4y0/p/N82E16834360229",
+            "price": 1074,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 7730U": {
+            "link": "https://www.newegg.com/p/N82E16834841469",
+            "price": 279,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 7840HS": {
+            "link": "https://www.newegg.com/hp-zbook-power-g10-a/p/N82E16834841486",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 7 PRO 7840U": {
+            "link": "https://www.newegg.com/p/1TS-000D-1FD97",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 3900": {
+            "link": "https://www.newegg.com/amd-ryzen-9-3900x/p/N82E16819113572",
+            "price": 229,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 3900X": {
+            "link": "https://www.newegg.com/amd-ryzen-9-3900x/p/N82E16819113572",
+            "price": 229,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 3900XT": {
+            "link": "https://www.newegg.com/amd-ryzen-9-3900x/p/N82E16819113572",
+            "price": 229,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 3950X": {
+            "link": "https://www.newegg.com/amd-ryzen-9-3950x/p/N82E16819113616",
+            "price": 449,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 4900H": {
+            "link": "https://www.newegg.com/p/2SW-002G-00067",
+            "price": 285,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 4900HS": {
+            "link": "https://www.newegg.com/white-asus-ga401iv-gs96-mainstream/p/1TS-001A-0A2S6",
+            "price": 1119,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5900": {
+            "link": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664",
+            "price": 349,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5900H": {
+            "link": "https://www.newegg.com/asus-pn52/p/2SW-0070-00016",
+            "price": 699,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5900HS": {
+            "link": "https://www.newegg.com/gray-asus-rog-zephyrus-g15-ga503qm-gaming-entertainment/p/2WC-000N-03ND3",
+            "price": 1749,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5900HX": {
+            "link": "https://www.newegg.com/black-asus-rog-strix-scar-15-g533qs-ds96-gaming-entertainment/p/N82E16834235896",
+            "price": 2487,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5900X": {
+            "link": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664",
+            "price": 349,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5950X": {
+            "link": "https://www.newegg.com/amd-ryzen-9-5950x/p/N82E16819113663",
+            "price": 471,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5980HS": {
+            "link": "https://www.newegg.com/off-black-asus-rog-flow-x13-gv301qh-xs98-b-gaming-entertainment/p/N82E16834235634",
+            "price": 3466,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 5980HX": {
+            "link": "https://www.newegg.com/black-asus-rog-strix-g15-advantage-edition-as-g513qy-sg15-r96800-gaming-entertainment/p/2WC-000N-06N08",
+            "price": 2859,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 6900HS": {
+            "link": "https://www.newegg.com/p/2WC-000N-0DZG6",
+            "price": 1454,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 6900HS Creator Edition": {
+            "link": "https://www.newegg.com/p/2WC-000J-02DU8",
+            "price": 889,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7845HX": {
+            "link": "https://www.newegg.com/gray-dell-alienware-m16-ryzen-edition-laptop-gaming/p/1TS-000A-0ZKE1",
+            "price": 1957,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7900": {
+            "link": "https://www.newegg.com/amd-ryzen-9-7900x-ryzen-9-7000-series/p/N82E16819113769",
+            "price": 407,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7900X": {
+            "link": "https://www.newegg.com/amd-ryzen-9-7900x-ryzen-9-7000-series/p/N82E16819113769",
+            "price": 407,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7900X3D": {
+            "link": "https://www.newegg.com/amd-ryzen-9-7900x3d-ryzen-9-7000-series/p/N82E16819113792",
+            "price": 499,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7940H": {
+            "link": "https://www.newegg.com/amd-ryzen-9-7900x-ryzen-9-7000-series/p/N82E16819113769",
+            "price": 407,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7940HS": {
+            "link": "https://www.newegg.com/mecha-gray-asus-tuf-gaming-f17-fa707xi-ns94/p/N82E16834236430",
+            "price": 1499,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7945HX": {
+            "link": "https://www.newegg.com/black-asus-rog-zephyrus-duo-16-gx650py-xs97-gaming/p/N82E16834236359",
+            "price": 3999,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7950X": {
+            "link": "https://www.newegg.com/amd-ryzen-9-7950x-ryzen-9-7000-series/p/N82E16819113771",
+            "price": 551,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 7950X3D": {
+            "link": "https://www.newegg.com/amd-ryzen-9-7950x3d-ryzen-9-7000-series/p/N82E16819113791",
+            "price": 662,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 PRO 3900": {
+            "link": "https://www.newegg.com/pricerightcomputers-born2game-gaming/p/3D5-000V-000S3",
+            "price": 1977,
+            "chipset": "AM4"
+      },
+      "AMD Ryzen 9 PRO 5945": {
+            "link": "https://www.newegg.com/p/1VK-0003-1KXT9",
+            "price": 2369,
+            "chipset": "AM4"
+      },
+      "Intel Core i5-1245U": {
+            "link": "https://www.newegg.com/grey-dell-latitude-7430-work-business/p/1TS-000A-0WB22",
+            "price": 819,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1245UE": {
+            "link": "https://www.newegg.com/intel-core-i5-12400f-core-i5-12th-gen/p/N82E16819118360",
+            "price": 149,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12490F": {
+            "link": "https://www.newegg.com/p/1JW-00NE-000E4",
+            "price": 299,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12500": {
+            "link": "https://www.newegg.com/intel-core-i5-12500-core-i5-12th-gen/p/N82E16819118374",
+            "price": 233,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12500E": {
+            "link": "https://www.newegg.com/p/1FR-00AK-00005",
+            "price": 6,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12500H": {
+            "link": "https://www.newegg.com/gray-lenovo-ideapad-3-15iah7-gaming/p/1TS-000E-0Z5G3",
+            "price": 480,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12500T": {
+            "link": "https://www.newegg.com/p/1VK-0001-68YT6",
+            "price": 789,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12500TE": {
+            "link": "https://www.newegg.com/intel-core-i5-12400f-core-i5-12th-gen/p/N82E16819118358",
+            "price": 172,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1250P": {
+            "link": "https://www.newegg.com/thinkpad-21ah001bus-mainstream/p/1TS-000E-10MB5",
+            "price": 1199,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1250PE": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12600": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12600H": {
+            "link": "https://www.newegg.com/p/1TS-000A-0T540",
+            "price": 1199,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12600HE": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12600HX": {
+            "link": "https://www.newegg.com/p/1TS-000A-0X9U3",
+            "price": 2946,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12600K": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12600KF": {
+            "link": "https://www.newegg.com/intel-core-i5-12600kf-core-i5-12th-gen/p/N82E16819118349",
+            "price": 219,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-12600T": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1334U": {
+            "link": "https://www.newegg.com/intel-core-i5-13400-core-i5-13th-gen/p/N82E16819118430",
+            "price": 230,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1335U": {
+            "link": "https://www.newegg.com/steel-gray-acer-aspire-5-a515-58m-54lg-home-personal/p/N82E16834360278",
+            "price": 410,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13400": {
+            "link": "https://www.newegg.com/intel-core-i5-13400-core-i5-13th-gen/p/N82E16819118430",
+            "price": 230,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13400F": {
+            "link": "https://www.newegg.com/intel-core-i5-13400f-core-i5-13th-gen/p/N82E16819118431",
+            "price": 207,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13400T": {
+            "link": "https://www.newegg.com/p/2NR-000D-00BJ6",
+            "price": 850,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1340P": {
+            "link": "https://www.newegg.com/p/2SW-000B-004J7",
+            "price": 599,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13420H": {
+            "link": "https://www.newegg.com/p/2WC-0001-04MK7",
+            "price": 899,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13450HX": {
+            "link": "https://www.newegg.com/eclipse-gray-asus-rog-strix-g16-g614ju-ns54-gaming/p/N82E16834236429",
+            "price": 999,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1345U": {
+            "link": "https://www.newegg.com/hp-elitebook-640-g10/p/N82E16834841434",
+            "price": 1199,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13500": {
+            "link": "https://www.newegg.com/intel-core-i5-13500-core-i5-13th-gen/p/N82E16819118429",
+            "price": 247,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13500H": {
+            "link": "https://www.newegg.com/indie-black-asus-f1605va-ds52-home-personal/p/N82E16834236436",
+            "price": 410,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13500HX": {
+            "link": "https://www.newegg.com/p/2WC-000J-02DD5",
+            "price": 1169,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13500T": {
+            "link": "https://www.newegg.com/dell-optiplex-optplex-micro-plus/p/N82E16883461797",
+            "price": 863,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-1350P": {
+            "link": "https://www.newegg.com/p/1TS-002J-003R8",
+            "price": 1119,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13600": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13600H": {
+            "link": "https://www.newegg.com/titan-gray-dell-precision-3000-3581/p/N82E16834833343",
+            "price": 2154,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13600HX": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13600K": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13600KF": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-13600T": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2300": {
+            "link": "https://www.newegg.com/warner-bros-middle-earth-shadow-of-war-expansion-pass-pc/p/N82E16832777236",
+            "price": 29,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2310": {
+            "link": "https://www.newegg.com/grey-box-rime/p/N82E16832856003",
+            "price": 29,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2320": {
+            "link": "https://www.newegg.com/p/1TS-000D-1DBM9",
+            "price": 480,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2380P": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2400S": {
+            "link": "https://www.newegg.com/intel-core-i5-2nd-gen-core-i5-2400s/p/N82E16819115075",
+            "price": 110,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-24050S": {
+            "link": "https://www.newegg.com/intel-core-i5-12400f-core-i5-12th-gen/p/N82E16819118360",
+            "price": 149,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2405S": {
+            "link": "https://www.newegg.com/core-i5-9th-gen-intel-core-i5-9600k/p/N82E16819117959",
+            "price": 145,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2410M": {
+            "link": "https://www.newegg.com/p/2NR-02JS-00026",
+            "price": 263,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2415M": {
+            "link": "https://www.newegg.com/p/2SN-0001-01JP6",
+            "price": 229,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2430M": {
+            "link": "https://www.newegg.com/p/1HD-00JE-01NN7",
+            "price": 43,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2435M": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2450M": {
+            "link": "https://www.newegg.com/p/1TS-000E-08CM1",
+            "price": 417,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2450P": {
+            "link": "https://www.newegg.com/intel-core-i5-13500-core-i5-13th-gen/p/N82E16819118429",
+            "price": 247,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2467M": {
+            "link": "https://www.newegg.com/p/22Z-007C-000R2",
+            "price": 423,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2500": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3550/p/N82E16819116505",
+            "price": 152,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2500K": {
+            "link": "https://www.newegg.com/p/1B0-017E-00358",
+            "price": 197,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2500S": {
+            "link": "https://www.newegg.com/dell-optiplex-790-business-desktops-workstations/p/1VK-0001-15UA8",
+            "price": 165,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2500T": {
+            "link": "https://www.newegg.com/intel-core-i5-12400f-core-i5-12th-gen/p/N82E16819118360",
+            "price": 149,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2510E": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2515E": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2520M": {
+            "link": "https://www.newegg.com/p/3B8-005D-00738",
+            "price": 56,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2537M": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2540M": {
+            "link": "https://www.newegg.com/p/22Z-007C-002B3",
+            "price": 382,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2550K": {
+            "link": "https://www.newegg.com/team-17-digital-planet-alpha/p/N82E16832751069",
+            "price": 9,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2557M": {
+            "link": "https://www.newegg.com/p/22Z-007C-000R2",
+            "price": 423,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-2560M": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3170K": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3210M": {
+            "link": "https://www.newegg.com/p/1B4-008A-003J4",
+            "price": 48,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3230M": {
+            "link": "https://www.newegg.com/iceberg-interactive-oriental-empires/p/N82E16832825033",
+            "price": 29,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3320M": {
+            "link": "https://www.newegg.com/black-silver-panasonic-toughbook-cf-31-mk3-workstation/p/1TS-000H-00F71",
+            "price": 410,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3330": {
+            "link": "https://www.newegg.com/intel-core-i5-3330/p/N82E16819117436",
+            "price": 135,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3330S": {
+            "link": "https://www.newegg.com/intel-core-i5-3330s/p/N82E16819117438",
+            "price": 339,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3335S": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3337U": {
+            "link": "https://www.newegg.com/p/1TS-000E-08ES5",
+            "price": 824,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3339Y": {
+            "link": "https://www.newegg.com/p/1JW-000M-01EZ0",
+            "price": 22,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3340": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3340/p/N82E16819116943",
+            "price": 250,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3340M": {
+            "link": "https://www.newegg.com/black-toshiba-protege-r930-mainstream/p/1TS-000F-00TR2",
+            "price": 99,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3340S": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3340s/p/N82E16819116954",
+            "price": 319,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3350P": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3350p/p/N82E16819116782",
+            "price": 223,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3360M": {
+            "link": "https://www.newegg.com/black-silver-dell-latitude-e6430-mainstream/p/1TS-000A-0HGG3",
+            "price": 189,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3380M": {
+            "link": "https://www.newegg.com/thinkpad-t430/p/N82E16834319224",
+            "price": 129,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3427U": {
+            "link": "https://www.newegg.com/p/1TS-000D-06DS8",
+            "price": 169,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3437U": {
+            "link": "https://www.newegg.com/platinum-hp-folio-elitebook-mainstream/p/1TS-000D-02KX3",
+            "price": 139,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3439Y": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3450": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3450/p/N82E16819116506",
+            "price": 99,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3450S": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3450s/p/N82E16819116507",
+            "price": 86,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3470": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3470/p/274-000A-01KC8",
+            "price": 34,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3470S": {
+            "link": "https://www.newegg.com/p/2RC-003G-01AW3",
+            "price": 199,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3470T": {
+            "link": "https://www.newegg.com/p/1VK-0003-1G166",
+            "price": 119,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3475S": {
+            "link": "https://www.newegg.com/dell-optiplex-7010-business-desktops-workstations/p/1VK-0001-51Z93",
+            "price": 129,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3550": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3550/p/N82E16819116505",
+            "price": 152,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3550S": {
+            "link": "https://www.newegg.com/dell-9010-optiplex-all-in-one-pc/p/2NR-000G-00F66",
+            "price": 540,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3570": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3570/p/N82E16819115233",
+            "price": 65,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3570K": {
+            "link": "https://www.newegg.com/intel-core-i5-3rd-gen-core-i5-3570k/p/N82E16819116504",
+            "price": 92,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3570S": {
+            "link": "https://www.newegg.com/p/2MN-0004-008W5",
+            "price": 93,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3570T": {
+            "link": "https://www.newegg.com/p/2S7-07JP-28SH9",
+            "price": 56,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-3610ME": {
+            "link": "https://www.newegg.com/supermicro-sys-5017p-tf-intel-core-i5-3610me-2-7ghz-2c-4t/p/N82E16816101770",
+            "price": 1070,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4200H": {
+            "link": "https://www.newegg.com/p/2WC-000C-07PN0",
+            "price": 649,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4200M": {
+            "link": "https://www.newegg.com/black-silver-hp-probook-650-g1/p/1TS-000D-03EX9",
+            "price": 119,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4200Y": {
+            "link": "https://www.newegg.com/p/1JW-000M-01F31",
+            "price": 27,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4202Y": {
+            "link": "https://www.newegg.com/p/N82E16834317594",
+            "price": 579,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4210H": {
+            "link": "https://www.newegg.com/p/2WC-0009-02KW3",
+            "price": 799,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4210M": {
+            "link": "https://www.newegg.com/black-toshiba-portege-r30-a-mainstream/p/1TS-000F-00UR3",
+            "price": 129,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4210Y": {
+            "link": "https://www.newegg.com/p/1JW-000M-01F76",
+            "price": 23,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4220Y": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4288U": {
+            "link": "https://www.newegg.com/silver-apple-macbook-pro-series-me864ll-a-work-business/p/2SN-0001-02UJ8",
+            "price": 329,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4300M": {
+            "link": "https://www.newegg.com/black-silver-dell-latitude-e6540-mainstream/p/1TS-000A-0HCZ9",
+            "price": 299,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4300U": {
+            "link": "https://www.newegg.com/p/1TS-000E-14PB6",
+            "price": 312,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4300Y": {
+            "link": "https://www.newegg.com/p/1VK-01U9-00D49",
+            "price": 232,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4302Y": {
+            "link": "https://www.newegg.com/p/2RC-001A-01Y88",
+            "price": 115,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4308U": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-430M": {
+            "link": "https://www.newegg.com/p/3C6-00M7-00515",
+            "price": 135,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-430UM": {
+            "link": "https://www.newegg.com/intel-core-i5-13600kf-core-i5-13th-gen/p/N82E16819118417",
+            "price": 286,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4310M": {
+            "link": "https://www.newegg.com/black-silver-dell-latitude-e6440-workstation/p/1TS-000A-0H4E9",
+            "price": 299,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4310U": {
+            "link": "https://www.newegg.com/black-dell-latitude-e5540-mainstream/p/1TS-000A-0GD27",
+            "price": 285,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4330M": {
+            "link": "https://www.newegg.com/black-lenovo-thinkpad-t440p-mainstream/p/1TS-000E-0UT69",
+            "price": 413,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4400E": {
+            "link": "https://www.newegg.com/core-i5-8th-gen-intel-core-i5-8400/p/N82E16819117824",
+            "price": 174,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4430": {
+            "link": "https://www.newegg.com/asus-z87-k-atx/p/2HK-006T-00008",
+            "price": 330,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4460": {
+            "link": "https://www.newegg.com/intel-core-i5-4th-gen-core-i5-4460/p/N82E16819117302",
+            "price": 42,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4460S": {
+            "link": "https://www.newegg.com/p/1VK-0001-68MX6",
+            "price": 149,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4460T": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4470S": {
+            "link": "https://www.newegg.com/intel-core-i5-4570/p/N82E16819117415",
+            "price": 29,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4570": {
+            "link": "https://www.newegg.com/intel-core-i5-4570/p/N82E16819117415",
+            "price": 29,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4570R": {
+            "link": "https://www.newegg.com/intel-core-i5-4570/p/N82E16819117415",
+            "price": 29,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4570S": {
+            "link": "https://www.newegg.com/intel-core-i5-4th-gen-core-i5-4570s/p/N82E16819116897",
+            "price": 100,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4590T": {
+            "link": "https://www.newegg.com/hp-elitedesk-800-g1-business-desktop-workstation/p/1VK-001E-2CY55",
+            "price": 143,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4670": {
+            "link": "https://www.newegg.com/intel-core-i5-4th-gen-core-i5-4670/p/N82E16819116898",
+            "price": 147,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4670K": {
+            "link": "https://www.newegg.com/intel-core-i5-4th-gen-core-i5-4670k/p/N82E16819116899",
+            "price": 158,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4670R": {
+            "link": "https://www.newegg.com/core-i5-9th-gen-intel-core-i5-9600k/p/N82E16819117959",
+            "price": 145,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4690": {
+            "link": "https://www.newegg.com/intel-core-i5-4th-gen-core-i5-4690/p/N82E16819116989",
+            "price": 96,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-4690T": {
+            "link": "https://www.newegg.com/intel-core-i5-4th-gen-core-i5-4690/p/N82E16819116989",
+            "price": 96,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-5200U": {
+            "link": "https://www.newegg.com/black-dell-latitude-e5550-workstation/p/1TS-000A-0C040",
+            "price": 199,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-520UM": {
+            "link": "https://www.newegg.com/core-i5-9th-gen-intel-core-i5-9600k/p/N82E16819117959",
+            "price": 145,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-5257U": {
+            "link": "https://www.newegg.com/p/2SW-003Z-00008",
+            "price": 179,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-560UM": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6198DU": {
+            "link": "https://www.newegg.com/intel-core-i5-12600k-core-i5-12th-gen/p/N82E16819118347",
+            "price": 214,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6200U": {
+            "link": "https://www.newegg.com/aluminum-black-hp-probook-440-g3/p/1TS-000D-0AK39",
+            "price": 417,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6267U": {
+            "link": "https://www.newegg.com/silver-apple-macbook-pro-a1706-home-personal/p/2SN-0001-02UT8",
+            "price": 575,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6300U": {
+            "link": "https://www.newegg.com/p/1TS-000E-14R77",
+            "price": 378,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6360U": {
+            "link": "https://www.newegg.com/p/1TS-000A-0D154",
+            "price": 175,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-650": {
+            "link": "https://www.newegg.com/intel-core-i5-650/p/N82E16819116456",
+            "price": 39,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6500T": {
+            "link": "https://www.newegg.com/lenovo-thinkcentre-m900-business-desktops-workstations/p/1VK-0003-067F3",
+            "price": 179,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6500TE": {
+            "link": "https://www.newegg.com/p/2U2-000V-00155",
+            "price": 1149,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-6600T": {
+            "link": "https://www.newegg.com/p/2MN-0004-00001",
+            "price": 228,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-7267U": {
+            "link": "https://www.newegg.com/p/1VK-01YR-00171",
+            "price": 450,
+            "chipset": "Z90"
+      },
+      "Intel Core i5-7300U": {
+            "link": "https://www.newegg.com/panasonic-toughbook-cf-54/p/1TS-000H-00EK8",
+            "price": 2599,
+            "chipset": "Z90"
+      }
+}
