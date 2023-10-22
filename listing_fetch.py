@@ -35,12 +35,22 @@ def fetch_model_listings(model):
     url = base_url + model
     resp = urllib.request.Request(url)
 
-    with urllib.request.urlopen(resp) as response:
-        html = response.read()
+    try:
+        with urllib.request.urlopen(resp) as response:
+            html = response.read()
+    except Exception as e:
+        print(f"Failed to load URL: {url}")
+        print(e)
     
     soup = BeautifulSoup(html, 'html.parser')
 
-    print(soup.find('div', class_='item-info').find_all('a'))
+    soup = soup.find('div', class_='item-info').find('a', class_='item-title')
 
+    if soup is None:
+        print(f"could not find product page: {model}")
+    else:
+        product_page_link = soup["href"]
+        print(product_page_link)
 
-fetch_model_listings(cpu_models[0])
+for model in cpu_models:
+    fetch_model_listings(model)
