@@ -3,6 +3,7 @@ from flask_cors import CORS
 import steam_game_id
 import benchmark_fetch
 from suggestion import suggestions
+from make_build import build_pc
 
 app = Flask(__name__)
 CORS(app) 
@@ -32,6 +33,10 @@ def generate_specs():
             gpu_name = specs['Graphics']
             
         score_dict = benchmark_fetch.fetch_particular_score(cpu_name, gpu_name) #closest_cpu, score, closest_gpu, score
+        gpu_score = score_dict["gpu_score"]
+        cpu_score = score_dict["cpu_score"]
+        build = build_pc(cpu_score, gpu_score)
+        
         return jsonify(specs | score_dict)
     except KeyError:
         return jsonify({"response": "Couldn't Find Game!"})

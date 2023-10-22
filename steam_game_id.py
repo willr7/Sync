@@ -1,5 +1,5 @@
 import json
-import urllib3
+import urllib.request
 from html.parser import HTMLParser
 
 
@@ -53,12 +53,13 @@ def fetch_specs(game_name):
     
     # App details API: 
     app_url = "http://store.steampowered.com/api/appdetails?appids="
-    resp = urllib3.request("GET", app_url + str(game_id) + "&l=english")
+    resp = urllib.request.urlopen(urllib.request.Request(app_url + str(game_id) + "&l=english"))
+    print(resp)
     OK = 200 #error code
     if resp.status == OK:
         print("request: success")
     
-    game_data_json = resp.data
+    game_data_json = resp.read()
     game_data = json.loads(game_data_json)
     game_specs_dict = game_data[str(game_id)]['data']['pc_requirements']
     
