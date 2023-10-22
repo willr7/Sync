@@ -93,17 +93,17 @@ def build_pc(cpu_score, gpu_score):
             min_gpu_link = result.link
         gpu_dict[result.model] = [result.price, result.link]
 
-    # cpu_results = session.query(CPUTable).filter(CPUTable.benchmark >= cpu_score).limit(10).all()
-    # cpu_dict = {}
-    # min_cpu_price = 10000000
-    # cheapest_cpu = ""
+    cpu_results = session.query(CPUTable).filter(CPUTable.benchmark >= cpu_score).limit(10).all()
+    cpu_dict = {}
+    min_cpu_price = 10000000
+    cheapest_cpu = ""
     
-    # for result in cpu_results:
-    #     if min_cpu_price > result.price:
-    #         min_cpu_price = result.price
-    #         cheapest_cpu = result.model
-    #         min_cpu_link = result.link
-    #     cpu_dict[result.model] = [result.price, result.link]
+    for result in cpu_results:
+        if min_cpu_price > result.price:
+            min_cpu_price = result.price
+            cheapest_cpu = result.model
+            min_cpu_link = result.link
+        cpu_dict[result.model] = [result.price, result.link]
     
     build = {
         "case": [],
@@ -134,9 +134,9 @@ def build_pc(cpu_score, gpu_score):
     build["gpu"].append(min_gpu_price)
     build["gpu"].append(min_gpu_link)
 
-    # build["cpu"].append(cheapest_cpu)
-    # build["cpu"].append(min_cpu_price)
-    # build["cpu"].append(min_cpu_link)
+    build["cpu"].append(cheapest_cpu)
+    build["cpu"].append(min_cpu_price)
+    build["cpu"].append(min_cpu_link)
     
     return build
 
