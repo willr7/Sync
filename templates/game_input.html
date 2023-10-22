@@ -11,6 +11,13 @@
         <input type="text" id="gameTitle" name="gameTitle" required>
         <button type="submit">Generate</button>
     </form>
+
+    <div id="search-bar">
+        <label for="gameTitle">Game Title:</label>
+        <input type="text" id="gameTitle" name="gameTitle" list="gameSuggestions" required placeholder="Enter a game title">
+        <datalist id="gameSuggestions"></datalist>
+        <button type="submit" id="searchButton">Search</button>
+    </div>
     
     <div id="CPU"></div>
     <div id="GPU"></div>
