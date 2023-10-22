@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Flask App</title>
+</head>
+<body>
+   <h1>Flask App</h1>
+   <p>Button clicks: <span id="counter">{{ counter }}</span></p>
+   <button id="popupButton">Click me</button>
+   <script>
+       document.getElementById('popupButton').addEventListener('click', function () {
+           fetch('/increment', { method: 'POST' })
+               .then(response => response.json())
+               .then(data => {
+                   document.getElementById('counter').textContent = data.counter;
+               });
+       });
+   </script>
+</body>
+</html>

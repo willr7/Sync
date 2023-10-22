@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SYNC</title>
+</head>
+<body>
+    <h1>SYNC</h1>
+    
+    <form id="gameTitleForm">
+        <label for="gameTitle">Enter a Game Title:</label>
+        <input type="text" id="gameTitle" name="gameTitle" required>
+        <button type="submit">Generate</button>
+    </form>
+    
+    <div id="CPU"></div>
+    <div id="GPU"></div>
+    <div id="Found Cpu"></div>
+    <div id="Found Gpu"></div>
+
+    <script>
+        // Event listener for input element
+        const gameTitleInput = document.getElementById('gameTitle');
+        const gameSuggestionsDatalist = document.getElementById('gameSuggestions');
+
+        gameTitleInput.addEventListener('input', function () {
+            const inputText = this.value;
+
+            // Clear existing suggestions
+            gameSuggestionsDatalist.innerHTML = '';
+
+            // Fetch and populate suggestions from your Flask backend
+            if (inputText.trim() !== '') {
+                fetch('/get_game_suggestions?query=' + inputText, {
+                    method: 'GET'
+                })
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(suggestion => {
+                        const option = document.createElement('option');
+                        option.value = suggestion;
+                        gameSuggestionsDatalist.appendChild(option);
+                    });
+                });
+            }
+        });
+        document.getElementById('gameTitleForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            const gameTitle = document.querySelector('input[name="gameTitle"]').value;
+            fetch('/get_specs', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ gameTitle: gameTitle })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('CPU').textContent = 'Recommended CPU(s): ' + data.Processor;
+                document.getElementById('GPU').textContent = 'Recommended GPU(s): ' + data.Graphics;
+                document.getElementById('Found Cpu').textContent = "Found CPU Name: " + data.cpu_name + " Score: " + data.cpu_score;
+                document.getElementById('Found Gpu').textContent = "Found GPU Name: " + data.gpu_name + " Score: " + data.gpu_score;
+            });
+
+        });
+    </script>
+</body>
+</html>
