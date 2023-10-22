@@ -38,13 +38,12 @@ class GPUBenchmarks(declarative_base()):
     benchmark = sqlalchemy.Column(sqlalchemy.INT)
 
 class CPUListings(declarative_base()):
-    __tablename__ = "GPU Listings"
+    __tablename__ = "CPU Listings"
 
     id = sqlalchemy.Column(sqlalchemy.BIGINT, autoincrement=True, primary_key=True)
     link = sqlalchemy.Column(sqlalchemy.VARCHAR(255))
     model = sqlalchemy.Column(sqlalchemy.VARCHAR(255))
     chipset = sqlalchemy.Column(sqlalchemy.VARCHAR(255))
-    wattage = sqlalchemy.Column(sqlalchemy.INT)
     price = sqlalchemy.Column(sqlalchemy.INT)
 
 class GPUListings(declarative_base()):
@@ -53,7 +52,6 @@ class GPUListings(declarative_base()):
     id = sqlalchemy.Column(sqlalchemy.BIGINT, autoincrement=True, primary_key=True)
     link = sqlalchemy.Column(sqlalchemy.VARCHAR(255))
     model = sqlalchemy.Column(sqlalchemy.VARCHAR(255))
-    wattage = sqlalchemy.Column(sqlalchemy.INT)
     price = sqlalchemy.Column(sqlalchemy.INT)
 
 class MotherboardListings(declarative_base()):
@@ -217,7 +215,8 @@ if __name__ == "__main__":
     # Added already: 
     # add_gpu_benchmarks("formatted_gpu_benchmarks.json")
     # add_cpu_benchmarks("formatted_cpu_benchmarks.json")
-    add_cpu_listings("cpu_listings.json")
-    add_gpu_listings("gpu_listings.json")
-    add_motherboard_listings("motherboard_listings.json")
-    add_power_supply_listings("power_supply_listings.json")
+    # add_cpu_listings("cpu_listings.json")
+    # add_gpu_listings("gpu_listings.json")
+    # add_motherboard_listings("motherboard_listings.json")
+    # add_power_supply_listings("power_supply_listings.json")
+    pass

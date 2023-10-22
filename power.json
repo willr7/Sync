@@ -1,0 +1,27 @@
+{
+    "CORSAIR HX850": {
+        "link": "https://www.newegg.com/corsair-hx-series-hx850-850-w/p/N82E16817139311?Item=N82E16817139311",
+        "price": 130,
+        "wattage": 850
+    },
+    "Segotep GM850 White": {
+        "link": "https://www.newegg.com/segotep-gm850-white/p/1HU-00Z0-000S2?Item=9SIBGX1JA26875&cm_sp=SP-_-1597042-_-0-_-1-_-9SIBGX1JA26875-_-power%20supply-_-power|supply-_-2",
+        "price": 100,
+        "wattage": 850
+    },
+    "be quiet! Dark Power 13": {
+        "link": "https://www.newegg.com/p/1HU-004H-000R8?Item=9SIA68VJJ74129",
+        "price": 289,
+        "wattage": 1000
+    },
+    "Segotep": {
+        "link": "https://www.newegg.com/segotep-gp-series-750w-fully-modular/p/1HU-00Z0-00006?Item=9SIBGX1JA26866&cm_sp=SP-_-1597044-_-0-_-1-_-9SIBGX1JA26866-_-power%20supply-_-power|supply-_-4",
+        "price": 90,
+        "wattage": 750
+    },
+    "be quiet! PURE POWER 12M": {
+        "link": "https://www.newegg.com/be-quiet-pure-power-1000w-1000-w/p/1HU-004H-000S1?Item=9SIA68VJJ74570",
+        "price": 165,
+        "wattage": 1000
+    }
+}
