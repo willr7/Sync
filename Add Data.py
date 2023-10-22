@@ -30,8 +30,6 @@ class CPUBenchmarks(declarative_base()):
 
 cpu_benchmarks = []
 
-
-
 insert_statement = insert(CPUBenchmarks).values(model="Intel Core i9-13900K", benchmark=100, originalprice=589)
 
 with engine.connect() as connection:
