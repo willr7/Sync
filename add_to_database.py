@@ -214,5 +214,10 @@ def add_power_supply_listings(filepath):
 
         
 if __name__ == "__main__":
-    add_gpu_benchmarks("formatted_gpu_benchmarks.json")
-    add_cpu_benchmarks("formatted_cpu_benchmarks.json")
+    # Added already: 
+    # add_gpu_benchmarks("formatted_gpu_benchmarks.json")
+    # add_cpu_benchmarks("formatted_cpu_benchmarks.json")
+    add_cpu_listings("cpu_listings.json")
+    add_gpu_listings("gpu_listings.json")
+    add_motherboard_listings("motherboard_listings.json")
+    add_power_supply_listings("power_supply_listings.json")
