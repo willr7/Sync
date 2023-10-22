@@ -76,7 +76,3 @@ def add_gpu_benchmarks(filepath):
 
 if __name__ == "__main__":
     add_gpu_benchmarks("gpu_benchmarks.json")
-
-# with engine.connect() as connection:
-#     connection.execute(insert_statement)
-#     connection.commit()
