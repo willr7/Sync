@@ -1,7 +1,9 @@
 from flask import Flask, render_template, jsonify, request
+from flask_cors import CORS
 import steam_game_id
 
 app = Flask(__name__)
+CORS(app) 
 
 # Initialize a counter
 counter = 0
@@ -20,7 +22,6 @@ def increment_counter():
 def generate_specs():
     try:
         specs = steam_game_id.fetch_specs(request.json.get('gameTitle'))
-        print(specs)
         return jsonify(specs)
     except KeyError:
         return jsonify({"response": "Couldn't Find Game!"})
