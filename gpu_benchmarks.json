@@ -1,202 +1,9874 @@
 {
-      "GeForce RTX 4090": [
-            38864,
-            1669.99
+      "256MB DDR Radeon 9800 XT": [
+            37,
+            "NA"
       ],
-      "GeForce RTX 3080 Ti": [
-            27327,
-            849.99
+      "7900 MOD - Radeon HD 6520G": [
+            610,
+            "NA"
       ],
-      "Radeon RX 6900 XT": [
-            26949,
-            779.99
+      "7900 MOD - Radeon HD 6550D": [
+            892,
+            "NA"
       ],
-      "GeForce RTX 3090": [
-            26911,
-            1449.0
+      "A10-8Q": [
+            7041,
+            "NA"
       ],
-      "GeForce RTX 3080": [
-            25362,
-            679.99
+      "A6 Micro-6500T Quad-Core APU with RadeonR4": [
+            220,
+            "NA"
       ],
-      "GeForce RTX 3070 Ti": [
-            23758,
-            499.99
+      "ABIT Siluro T400": [
+            3,
+            "NA"
       ],
-      "GeForce RTX 3070": [
-            22471,
-            434.99
+      "ALL-IN-WONDER 9000": [
+            4,
+            "NA"
       ],
-      "GeForce RTX 2080 Ti": [
-            21849,
-            1399.99
+      "ALL-IN-WONDER 9800": [
+            23,
+            "NA"
       ],
-      "GeForce RTX 3060 Ti": [
-            20589,
-            325.23
+      "ALL-IN-WONDER RADEON 8500DV": [
+            5,
+            "NA"
       ],
-      "Radeon RX 6700 XT": [
-            19871,
+      "All-in-Wonder X1800XL": [
+            30,
+            "NA"
+      ],
+      "All-in-Wonder X1900": [
+            127,
+            "NA"
+      ],
+      "ALL-IN-WONDER X800 GT": [
+            84,
+            "NA"
+      ],
+      "AMD Ryzen Z1 Extreme": [
+            6372,
+            "NA"
+      ],
+      "AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI": [
+            3,
+            "NA"
+      ],
+      "ASUS A7000": [
+            9,
+            "NA"
+      ],
+      "ASUS AGP-V3800PRO v31.40H": [
+            4,
+            "NA"
+      ],
+      "ASUS EAH4870x2": [
+            496,
+            "NA"
+      ],
+      "Asus GTX 650 FML II EC-EGPU": [
+            720,
+            "NA"
+      ],
+      "ASUS V9520-X V62.11": [
+            7,
+            "NA"
+      ],
+      "B8DKMDAP": [
+            4557,
+            "NA"
+      ],
+      "Barco MXRT 1450": [
+            205,
+            "NA"
+      ],
+      "Barco MXRT 2600": [
+            900,
+            199.0
+      ],
+      "Barco MXRT 5400": [
+            1161,
+            203.0
+      ],
+      "Barco MXRT 5450": [
+            1079,
+            199.99
+      ],
+      "Barco MXRT 5500": [
+            2701,
+            299.0
+      ],
+      "Barco MXRT 5600": [
+            2465,
+            704.0
+      ],
+      "Barco MXRT 7100": [
+            180,
+            "NA"
+      ],
+      "Barco MXRT 7400": [
+            900,
+            99.0
+      ],
+      "Barco MXRT 7500": [
+            3753,
+            299.0
+      ],
+      "Barco MXRT 7600": [
+            4943,
+            602.59
+      ],
+      "BASICDISPLAY": [
+            69,
+            "NA"
+      ],
+      "Citrix Indirect Display Adapter": [
+            4446,
+            "NA"
+      ],
+      "CONNECT 3D RADEON X300": [
+            36,
+            "NA"
+      ],
+      "Custom GPU 0405": [
+            2755,
+            "NA"
+      ],
+      "Dell 8100": [
+            2,
+            999.11
+      ],
+      "Dell 8200": [
+            4,
+            "NA"
+      ],
+      "Diamond X1300-PCIE 256MB": [
+            70,
+            "NA"
+      ],
+      "EAH5450": [
+            134,
+            109.99
+      ],
+      "EIZO Quadro MED-XN51LP": [
+            5048,
+            "NA"
+      ],
+      "Embedded Radeon E9173": [
+            1798,
+            "NA"
+      ],
+      "Eng Sample: 100-000000261-50_Y": [
+            2859,
+            "NA"
+      ],
+      "Extreme AX850 PRO": [
+            120,
+            "NA"
+      ],
+      "FireGL T2-128": [
+            30,
+            "NA"
+      ],
+      "FireGL V3100": [
+            52,
+            "NA"
+      ],
+      "FireGL V3200": [
+            84,
+            "NA"
+      ],
+      "FireGL V3300": [
+            70,
+            "NA"
+      ],
+      "FireGL V3350": [
+            68,
+            "NA"
+      ],
+      "FireGL V3400": [
+            103,
+            "NA"
+      ],
+      "FireGL V3600": [
+            179,
+            160.99
+      ],
+      "FireGL V5100": [
+            92,
+            114.96
+      ],
+      "FireGL V5200": [
+            114,
+            133.4
+      ],
+      "FireGL V5600": [
+            341,
+            225.0
+      ],
+      "FireGL V7100": [
+            71,
+            328.67
+      ],
+      "FireGL V7200": [
+            116,
+            "NA"
+      ],
+      "FireGL V7300": [
+            128,
+            1189.99
+      ],
+      "FireGL V7350": [
+            110,
+            119.42
+      ],
+      "FireGL V7600": [
+            615,
+            "NA"
+      ],
+      "FireGL V7700": [
+            660,
+            69.99
+      ],
+      "FireGL V8600": [
+            838,
+            "NA"
+      ],
+      "FireGL V8650": [
+            550,
+            298.99
+      ],
+      "FireGL X1": [
+            59,
+            "NA"
+      ],
+      "FireMV 2200 PCI": [
+            1,
+            "NA"
+      ],
+      "FireMV 2200 PCIe": [
+            36,
+            89.99
+      ],
+      "FireMV 2250": [
+            45,
+            104.0
+      ],
+      "FireMV 2260": [
+            117,
+            88.08
+      ],
+      "FireMV 2400 PCIe": [
+            11,
+            "NA"
+      ],
+      "FireMV 2450": [
+            73,
+            "NA"
+      ],
+      "FirePro 2260": [
+            112,
+            "NA"
+      ],
+      "FirePro 2270": [
+            144,
+            134.0
+      ],
+      "FirePro 2450": [
+            51,
+            89.99
+      ],
+      "FirePro 2460": [
+            170,
+            83.99
+      ],
+      "FirePro 3D V3700": [
+            178,
+            84.99
+      ],
+      "FirePro 3D V3750": [
+            341,
+            50.88
+      ],
+      "FirePro 3D V3800": [
+            472,
+            149.99
+      ],
+      "FirePro 3D V4800": [
+            853,
+            159.99
+      ],
+      "FirePro 3D V5700": [
+            546,
             319.99
       ],
-      "GeForce RTX 2080 SUPER": [
-            19596,
-            740.99
+      "FirePro 3D V5800": [
+            1231,
+            204.0
       ],
-      "GeForce RTX 2080": [
-            18800,
-            800.61
+      "FirePro 3D V7750": [
+            545,
+            350.0
       ],
-      "GeForce GTX 1080 Ti": [
-            18539,
-            483.82
+      "FirePro 3D V7800": [
+            1867,
+            599.99
       ],
-      "GeForce RTX 2070 SUPER": [
-            18263,
-            497.95
+      "FirePro 3D V8700": [
+            1206,
+            170.07
       ],
-      "GeForce RTX 3060": [
-            17114,
-            249.99
+      "FirePro 3D V8750": [
+            1271,
+            1230.99
       ],
-      "Radeon RX 5700 XT": [
-            16832,
-            363.12
+      "FirePro 3D V8800": [
+            2437,
+            424.99
       ],
-      "GeForce RTX 2060 SUPER": [
-            16585,
-            409.99
+      "FirePro 3D V9800": [
+            2811,
+            2499.0
       ],
-      "GeForce RTX 2070": [
-            16171,
-            519.99
-      ],
-      "GeForce RTX 3070 Laptop GPU": [
-            15520,
+      "FirePro M2000": [
+            423,
             "NA"
       ],
-      "GeForce GTX 1080": [
-            15484,
-            442.79
+      "FirePro M4000": [
+            1612,
+            72.83
       ],
-      "Radeon RX 6600": [
-            15147,
-            329.0
-      ],
-      "GeForce GTX 1070 Ti": [
-            14717,
-            569.99
-      ],
-      "GeForce RTX 2060": [
-            14117,
-            209.99
-      ],
-      "GeForce GTX 1070": [
-            13513,
-            488.09
-      ],
-      "GeForce RTX 3060 Laptop GPU": [
-            13407,
-            309.99
-      ],
-      "GeForce GTX 1660 Ti": [
-            12959,
-            252.2
-      ],
-      "GeForce GTX 1660 SUPER": [
-            12785,
-            197.99
-      ],
-      "GeForce RTX 3050 Ti Laptop GPU": [
-            10167,
+      "FirePro M4000 Mobility Pro": [
+            1628,
             "NA"
       ],
-      "GeForce GTX 1060": [
-            10071,
-            279.99
+      "FirePro M40003": [
+            1364,
+            "NA"
       ],
-      "GeForce GTX 1060 3GB": [
-            9753,
-            269.99
+      "Firepro M4100": [
+            1059,
+            "NA"
       ],
-      "GeForce GTX 970": [
-            9639,
-            237.99
+      "FirePro M4150": [
+            928,
+            "NA"
       ],
-      "GeForce RTX 3050 Laptop GPU": [
-            9391,
-            269.99
+      "FirePro M4170": [
+            1119,
+            "NA"
       ],
-      "Radeon RX 580": [
-            8907,
-            179.99
+      "FirePro M5100": [
+            2102,
+            "NA"
       ],
-      "Radeon RX 470/570": [
-            8046,
-            388.99
+      "FirePro M5100 FireGL V": [
+            1839,
+            "NA"
       ],
-      "GeForce GTX 1650": [
-            7859,
-            134.99
+      "FirePro M5950": [
+            1314,
+            "NA"
       ],
-      "GeForce GTX 1050 Ti": [
-            6302,
-            189.99
+      "FirePro M6000": [
+            1820,
+            325.99
       ],
-      "GeForce GTX 960": [
-            6041,
-            172.0
+      "FirePro M6000 Mobility Pro": [
+            1750,
+            "NA"
       ],
-      "Radeon HD 7970 / R9 280X": [
-            5247,
-            246.99
+      "FirePro M6100": [
+            2234,
+            "NA"
       ],
-      "GeForce GTX 1050": [
-            5046,
+      "FirePro M6100 FireGL V": [
+            2749,
+            "NA"
+      ],
+      "FirePro M7740": [
+            665,
+            "NA"
+      ],
+      "FirePro R5000": [
+            2646,
+            109.99
+      ],
+      "FirePro RG220": [
+            335,
+            650.18
+      ],
+      "FirePro S10000": [
+            4768,
+            "NA"
+      ],
+      "FirePro S7000": [
+            4523,
+            246.54
+      ],
+      "FirePro S7150": [
+            2726,
+            1697.99
+      ],
+      "FirePro S9000": [
+            5059,
+            "NA"
+      ],
+      "FirePro S9050": [
+            4901,
+            "NA"
+      ],
+      "FirePro V3800": [
+            320,
+            124.99
+      ],
+      "FirePro V3900": [
+            648,
+            238.44
+      ],
+      "FirePro V4900": [
+            977,
+            149.99
+      ],
+      "FirePro V5700": [
+            464,
+            188.06
+      ],
+      "FirePro V5800": [
+            1178,
+            53.0
+      ],
+      "FirePro V5900": [
+            1269,
+            86.0
+      ],
+      "FirePro V7000": [
+            3161,
+            "NA"
+      ],
+      "FirePro V7800": [
+            2028,
+            190.0
+      ],
+      "FirePro V7900": [
+            2304,
+            190.0
+      ],
+      "FirePro V8700": [
+            1538,
+            157.88
+      ],
+      "FirePro V8800": [
+            2280,
+            198.0
+      ],
+      "FirePro V9800": [
+            2726,
+            474.0
+      ],
+      "FirePro W2100": [
+            891,
+            59.0
+      ],
+      "FirePro W4100": [
+            1551,
+            184.0
+      ],
+      "FirePro W4170M": [
+            1039,
+            "NA"
+      ],
+      "Firepro W4190M": [
+            1170,
+            "NA"
+      ],
+      "FirePro W4300": [
+            2821,
             239.99
       ],
-      "Radeon HD 7950 / R9 280": [
-            4766,
-            132.2
+      "FirePro W5000": [
+            2964,
+            184.0
       ],
-      "Intel Iris Xe": [
-            2686,
+      "FirePro W5100": [
+            2973,
+            125.99
+      ],
+      "FirePro W5130M": [
+            1395,
+            "NA"
+      ],
+      "Firepro W5170M": [
+            1732,
+            "NA"
+      ],
+      "FirePro W600": [
+            1661,
+            414.99
+      ],
+      "FirePro W6150M": [
+            2358,
+            "NA"
+      ],
+      "FirePro W7000": [
+            4263,
+            278.05
+      ],
+      "FirePro W7000 Adapter": [
+            4361,
+            "NA"
+      ],
+      "FirePro W7100": [
+            5321,
+            389.3
+      ],
+      "FirePro W7170M": [
+            3161,
+            "NA"
+      ],
+      "FirePro W8000": [
+            4095,
+            573.0
+      ],
+      "FirePro W8100": [
+            7279,
+            704.0
+      ],
+      "FirePro W9000": [
+            6138,
+            845.0
+      ],
+      "FirePro W9100": [
+            7927,
+            1729.99
+      ],
+      "FireStream 9170": [
+            647,
+            "NA"
+      ],
+      "FireStream 9250": [
+            1164,
+            "NA"
+      ],
+      "FireStream 9270": [
+            1341,
+            "NA"
+      ],
+      "FireStream 9370": [
+            2528,
+            "NA"
+      ],
+      "GeCube RADEON 7000": [
+            8,
+            "NA"
+      ],
+      "GeForce 205": [
+            126,
+            "NA"
+      ],
+      "GeForce 210": [
+            103,
+            54.15
+      ],
+      "GeForce 240M GT": [
+            319,
+            "NA"
+      ],
+      "GeForce 256": [
+            5,
+            42.04
+      ],
+      "GeForce 305M": [
+            150,
+            "NA"
+      ],
+      "GeForce 310": [
+            119,
+            108.35
+      ],
+      "GeForce 310M": [
+            110,
+            "NA"
+      ],
+      "GeForce 315": [
+            158,
+            32.99
+      ],
+      "GeForce 315M": [
+            114,
+            "NA"
+      ],
+      "GeForce 320M": [
+            209,
+            "NA"
+      ],
+      "GeForce 405": [
+            120,
+            24.64
+      ],
+      "GeForce 410M": [
+            252,
+            "NA"
+      ],
+      "GeForce 505": [
+            118,
+            115.06
+      ],
+      "GeForce 510": [
+            259,
+            69.99
+      ],
+      "GeForce 605": [
+            308,
+            136.83
+      ],
+      "GeForce 6100": [
+            27,
+            "NA"
+      ],
+      "GeForce 6100 nForce 400": [
+            25,
+            "NA"
+      ],
+      "GeForce 6100 nForce 405": [
+            29,
+            "NA"
+      ],
+      "GeForce 6100 nForce 420": [
+            25,
+            "NA"
+      ],
+      "GeForce 6100 nForce 430": [
+            23,
+            "NA"
+      ],
+      "GeForce 610M": [
+            291,
+            "NA"
+      ],
+      "GeForce 615": [
+            545,
+            "NA"
+      ],
+      "GeForce 6150": [
+            21,
+            329.0
+      ],
+      "GeForce 6150 LE": [
+            33,
+            "NA"
+      ],
+      "GeForce 6150SE": [
+            24,
+            "NA"
+      ],
+      "GeForce 6150SE nForce 430": [
+            30,
+            "NA"
+      ],
+      "GeForce 6200": [
+            41,
+            99.99
+      ],
+      "GeForce 6200 A-LE": [
+            32,
+            "NA"
+      ],
+      "GeForce 6200 LE": [
+            29,
+            41.24
+      ],
+      "GeForce 6200 TurboCache": [
+            53,
+            "NA"
+      ],
+      "GeForce 6200A": [
+            3,
+            54.99
+      ],
+      "GeForce 6200SE TurboCache": [
+            37,
+            "NA"
+      ],
+      "GeForce 6500": [
+            38,
+            "NA"
+      ],
+      "GeForce 6600": [
+            86,
+            264.0
+      ],
+      "GeForce 6600 GT": [
+            137,
+            64.95
+      ],
+      "GeForce 6600 LE": [
+            51,
+            "NA"
+      ],
+      "GeForce 6610 XL": [
+            88,
+            "NA"
+      ],
+      "GeForce 6700 XL": [
+            95,
+            "NA"
+      ],
+      "GeForce 6800": [
+            112,
+            559.29
+      ],
+      "GeForce 6800 GS": [
+            188,
+            "NA"
+      ],
+      "GeForce 6800 GS/XT": [
+            102,
+            "NA"
+      ],
+      "GeForce 6800 GT": [
+            142,
+            "NA"
+      ],
+      "GeForce 6800 LE": [
+            109,
+            "NA"
+      ],
+      "GeForce 6800 Ultra": [
+            138,
+            "NA"
+      ],
+      "GeForce 6800 XE": [
+            58,
+            "NA"
+      ],
+      "GeForce 6800 XT": [
+            123,
+            "NA"
+      ],
+      "GeForce 7000M": [
+            13,
+            "NA"
+      ],
+      "GeForce 7000M / nForce 610M": [
+            12,
+            "NA"
+      ],
+      "GeForce 7025 / nForce 630a": [
+            32,
+            "NA"
+      ],
+      "GeForce 7050 / nForce 610i": [
+            25,
+            "NA"
+      ],
+      "GeForce 7050 / nForce 620i": [
+            41,
+            "NA"
+      ],
+      "GeForce 7050 / nForce 630i": [
+            37,
+            "NA"
+      ],
+      "GeForce 7050 PV / nForce 630a": [
+            31,
+            "NA"
+      ],
+      "GeForce 705M": [
+            455,
+            "NA"
+      ],
+      "GeForce 7100 / nForce 620i": [
+            26,
+            "NA"
+      ],
+      "GeForce 7100 / nForce 630i": [
+            35,
+            "NA"
+      ],
+      "GeForce 7100 GS": [
+            48,
+            "NA"
+      ],
+      "GeForce 710A": [
+            475,
+            "NA"
+      ],
+      "GeForce 710M": [
+            465,
+            "NA"
+      ],
+      "GeForce 7150 / nForce 630i": [
+            33,
+            "NA"
+      ],
+      "GeForce 7150M / nForce 630M": [
+            18,
+            "NA"
+      ],
+      "GeForce 7200 GS": [
+            23,
+            "NA"
+      ],
+      "GeForce 720A": [
+            614,
+            "NA"
+      ],
+      "GeForce 7300 GS": [
+            78,
+            "NA"
+      ],
+      "GeForce 7300 GT": [
+            136,
+            149.99
+      ],
+      "GeForce 7300 LE": [
+            80,
+            32.0
+      ],
+      "GeForce 7300 SE": [
+            39,
+            "NA"
+      ],
+      "GeForce 7300 SE/7200 GS": [
+            47,
+            "NA"
+      ],
+      "GeForce 730A": [
+            771,
+            "NA"
+      ],
+      "GeForce 7350 LE": [
+            74,
+            "NA"
+      ],
+      "GeForce 7500 LE": [
+            89,
+            "NA"
+      ],
+      "GeForce 7600 GS": [
+            157,
+            175.0
+      ],
+      "GeForce 7600 GT": [
+            201,
+            199.0
+      ],
+      "GeForce 7650 GS": [
+            134,
+            "NA"
+      ],
+      "GeForce 770M": [
+            3245,
+            176.99
+      ],
+      "GeForce 7800 GS": [
+            177,
+            "NA"
+      ],
+      "GeForce 7800 GT": [
+            244,
+            80.0
+      ],
+      "GeForce 7800 GTX": [
+            290,
+            71.6
+      ],
+      "GeForce 7900 GS": [
+            253,
+            "NA"
+      ],
+      "GeForce 7900 GT": [
+            258,
+            199.0
+      ],
+      "GeForce 7900 GT/GTO": [
+            247,
+            "NA"
+      ],
+      "GeForce 7900 GTX": [
+            387,
+            "NA"
+      ],
+      "GeForce 7950 GT": [
+            344,
+            203.99
+      ],
+      "GeForce 7950 GX2": [
+            201,
+            54.99
+      ],
+      "GeForce 7950 Xtreme": [
+            287,
+            "NA"
+      ],
+      "GeForce 800A": [
+            476,
+            "NA"
+      ],
+      "GeForce 800M": [
+            469,
+            "NA"
+      ],
+      "GeForce 8100 / nForce 720a": [
+            79,
+            "NA"
+      ],
+      "GeForce 810A": [
+            622,
+            "NA"
+      ],
+      "GeForce 810M": [
+            410,
+            "NA"
+      ],
+      "GeForce 8200": [
+            155,
+            "NA"
+      ],
+      "GeForce 8200M G": [
+            64,
+            "NA"
+      ],
+      "GeForce 820A": [
+            554,
+            "NA"
+      ],
+      "GeForce 820M": [
+            505,
+            "NA"
+      ],
+      "GeForce 825M": [
+            783,
+            "NA"
+      ],
+      "GeForce 8300": [
+            101,
+            22.68
+      ],
+      "GeForce 8300 GS": [
+            115,
+            "NA"
+      ],
+      "GeForce 830A": [
+            1138,
+            "NA"
+      ],
+      "GeForce 830M": [
+            1006,
+            "NA"
+      ],
+      "GeForce 8400": [
+            81,
+            589.99
+      ],
+      "GeForce 8400 GS": [
+            146,
+            85.97
+      ],
+      "GeForce 8400 SE": [
+            68,
+            "NA"
+      ],
+      "GeForce 8400M G": [
+            58,
+            "NA"
+      ],
+      "GeForce 8400M GS": [
+            112,
+            78.2
+      ],
+      "GeForce 8400M GT": [
+            66,
+            "NA"
+      ],
+      "GeForce 840A": [
+            1179,
+            "NA"
+      ],
+      "GeForce 840M": [
+            1081,
+            "NA"
+      ],
+      "GeForce 845M": [
+            1506,
+            "NA"
+      ],
+      "GeForce 8500 GT": [
+            123,
+            "NA"
+      ],
+      "GeForce 8600 GS": [
+            91,
+            "NA"
+      ],
+      "GeForce 8600 GT": [
+            116,
+            196.0
+      ],
+      "GeForce 8600 GTS": [
+            149,
+            241.99
+      ],
+      "GeForce 8600M GS": [
+            70,
+            "NA"
+      ],
+      "GeForce 8600M GT": [
+            89,
+            108.1
+      ],
+      "GeForce 8700M GT": [
+            124,
+            "NA"
+      ],
+      "GeForce 8800 GS": [
+            330,
+            "NA"
+      ],
+      "GeForce 8800 GT": [
+            494,
+            69.99
+      ],
+      "GeForce 8800 GTS": [
+            421,
+            79.99
+      ],
+      "GeForce 8800 GTS 512": [
+            575,
+            "NA"
+      ],
+      "GeForce 8800 GTX": [
+            595,
+            119.99
+      ],
+      "GeForce 8800 Ultra": [
+            642,
+            "NA"
+      ],
+      "GeForce 8800M GTS": [
+            382,
+            "NA"
+      ],
+      "GeForce 8800M GTX": [
+            462,
+            "NA"
+      ],
+      "GeForce 9100": [
+            81,
+            "NA"
+      ],
+      "GeForce 9100M G": [
+            68,
+            "NA"
+      ],
+      "GeForce 910M": [
+            591,
+            "NA"
+      ],
+      "GeForce 9200": [
+            165,
+            "NA"
+      ],
+      "GeForce 9200M GE": [
+            143,
+            "NA"
+      ],
+      "GeForce 9200M GS": [
+            111,
+            "NA"
+      ],
+      "GeForce 920A": [
+            849,
+            "NA"
+      ],
+      "GeForce 920M": [
+            726,
+            "NA"
+      ],
+      "GeForce 920MX": [
+            1084,
+            "NA"
+      ],
+      "GeForce 9300": [
+            126,
+            59.0
+      ],
+      "GeForce 9300 / nForce 730i": [
+            128,
+            "NA"
+      ],
+      "GeForce 9300 GE": [
+            76,
+            22.99
+      ],
+      "GeForce 9300 GS": [
+            102,
+            59.95
+      ],
+      "GeForce 9300 SE": [
+            81,
+            "NA"
+      ],
+      "GeForce 9300GE": [
+            97,
+            97.2
+      ],
+      "GeForce 9300M G": [
+            84,
+            "NA"
+      ],
+      "GeForce 9300M GS": [
+            89,
+            43.42
+      ],
+      "GeForce 930A": [
+            1309,
+            "NA"
+      ],
+      "GeForce 930M": [
+            1011,
+            "NA"
+      ],
+      "GeForce 930MX": [
+            1297,
+            "NA"
+      ],
+      "GeForce 9400": [
+            98,
+            "NA"
+      ],
+      "GeForce 9400 GT": [
+            128,
+            159.99
+      ],
+      "GeForce 9400M": [
+            67,
+            "NA"
+      ],
+      "GeForce 9400M G": [
+            67,
+            "NA"
+      ],
+      "GeForce 940A": [
+            1106,
+            "NA"
+      ],
+      "GeForce 940M": [
+            1118,
+            "NA"
+      ],
+      "GeForce 940MX": [
+            1510,
+            "NA"
+      ],
+      "GeForce 9450": [
+            104,
+            "NA"
+      ],
+      "GeForce 945A": [
+            1852,
+            "NA"
+      ],
+      "GeForce 945M": [
+            2063,
+            "NA"
+      ],
+      "GeForce 9500 GS": [
+            187,
+            "NA"
+      ],
+      "GeForce 9500 GT": [
+            146,
+            85.99
+      ],
+      "GeForce 9500M": [
+            103,
+            101.2
+      ],
+      "GeForce 9500M G": [
+            121,
+            "NA"
+      ],
+      "GeForce 9500M GS": [
+            102,
+            "NA"
+      ],
+      "GeForce 9600 GS": [
+            281,
+            "NA"
+      ],
+      "GeForce 9600 GSO": [
+            327,
+            49.99
+      ],
+      "GeForce 9600 GSO 512": [
+            329,
+            "NA"
+      ],
+      "GeForce 9600 GT": [
+            491,
+            64.99
+      ],
+      "GeForce 9600M GS": [
+            117,
+            "NA"
+      ],
+      "GeForce 9600M GT": [
+            137,
+            78.2
+      ],
+      "GeForce 9600M GT / GeForce GT 220M": [
+            293,
+            "NA"
+      ],
+      "GeForce 9650M GS": [
+            270,
+            "NA"
+      ],
+      "GeForce 9650M GT": [
+            137,
+            117.3
+      ],
+      "GeForce 9700M GT": [
+            208,
+            "NA"
+      ],
+      "GeForce 9700M GTS": [
+            278,
+            "NA"
+      ],
+      "GeForce 9800 GT": [
+            468,
+            74.99
+      ],
+      "GeForce 9800 GT 1024MB": [
+            134,
+            "NA"
+      ],
+      "GeForce 9800 GTX": [
+            769,
+            74.99
+      ],
+      "GeForce 9800 GTX+": [
+            506,
+            "NA"
+      ],
+      "GeForce 9800 GTX/9800 GTX+": [
+            608,
+            89.99
+      ],
+      "GeForce 9800 GX2": [
+            797,
+            195.0
+      ],
+      "GeForce 9800 S": [
+            635,
+            "NA"
+      ],
+      "GeForce 9800M GS": [
+            442,
+            "NA"
+      ],
+      "GeForce 9800M GT": [
+            381,
+            "NA"
+      ],
+      "GeForce 9800M GTS": [
+            401,
+            "NA"
+      ],
+      "GeForce 9800M GTX": [
+            454,
+            328.5
+      ],
+      "GeForce 999 GTX": [
+            83,
+            "NA"
+      ],
+      "GeForce FX 5100": [
+            7,
+            "NA"
+      ],
+      "GeForce FX 5200": [
+            7,
+            129.0
+      ],
+      "GeForce FX 5200 Ultra": [
+            12,
+            "NA"
+      ],
+      "GeForce FX 5200LE": [
+            7,
+            42.99
+      ],
+      "GeForce FX 5200SE": [
+            11,
+            "NA"
+      ],
+      "GeForce FX 5500": [
+            8,
+            153.97
+      ],
+      "GeForce FX 5600": [
+            12,
+            "NA"
+      ],
+      "GeForce FX 5600 Ultra": [
+            17,
+            "NA"
+      ],
+      "GeForce FX 5600XT": [
+            9,
+            "NA"
+      ],
+      "GeForce FX 5700": [
+            40,
+            "NA"
+      ],
+      "GeForce FX 5700 Ultra": [
+            34,
+            "NA"
+      ],
+      "GeForce FX 5700LE": [
+            24,
+            "NA"
+      ],
+      "GeForce FX 5700VE": [
+            33,
+            "NA"
+      ],
+      "GeForce FX 5900": [
+            34,
+            "NA"
+      ],
+      "GeForce FX 5900 Ultra": [
+            41,
+            "NA"
+      ],
+      "GeForce FX 5900XT": [
+            40,
+            "NA"
+      ],
+      "GeForce FX 5900ZT": [
+            32,
+            "NA"
+      ],
+      "GeForce FX 5950 Ultra": [
+            59,
+            "NA"
+      ],
+      "GeForce FX Go 5200": [
+            8,
+            "NA"
+      ],
+      "GeForce FX Go 5600": [
+            17,
+            "NA"
+      ],
+      "GeForce FX Go5300": [
+            12,
+            "NA"
+      ],
+      "GeForce FX Go5650": [
+            16,
+            "NA"
+      ],
+      "GeForce FX Go5700": [
+            51,
+            "NA"
+      ],
+      "GeForce G 103M": [
+            62,
+            "NA"
+      ],
+      "GeForce G 105M": [
+            62,
+            "NA"
+      ],
+      "GeForce G100": [
+            123,
+            19.99
+      ],
+      "GeForce G102M": [
+            167,
+            "NA"
+      ],
+      "GeForce G105M": [
+            107,
+            "NA"
+      ],
+      "GeForce G200": [
+            136,
+            "NA"
+      ],
+      "GeForce G205M": [
+            91,
+            "NA"
+      ],
+      "GeForce G210": [
+            98,
+            122.12
+      ],
+      "GeForce G210M": [
+            115,
+            "NA"
+      ],
+      "GeForce Go 6100": [
+            17,
+            "NA"
+      ],
+      "GeForce Go 6150": [
+            19,
+            "NA"
+      ],
+      "GeForce Go 6200": [
+            15,
+            "NA"
+      ],
+      "GeForce Go 6400": [
+            24,
+            "NA"
+      ],
+      "GeForce Go 6600": [
+            69,
+            "NA"
+      ],
+      "GeForce Go 6600 TE/6200 TE": [
+            44,
+            "NA"
+      ],
+      "GeForce Go 6800": [
+            106,
+            "NA"
+      ],
+      "GeForce Go 6800 Ultra": [
+            137,
+            "NA"
+      ],
+      "GeForce Go 7200": [
+            45,
+            "NA"
+      ],
+      "GeForce Go 7300": [
+            52,
+            "NA"
+      ],
+      "GeForce Go 7400": [
+            65,
+            "NA"
+      ],
+      "GeForce Go 7600": [
+            127,
+            "NA"
+      ],
+      "GeForce Go 7600 GT": [
+            210,
+            "NA"
+      ],
+      "GeForce Go 7700": [
+            147,
+            "NA"
+      ],
+      "GeForce Go 7800": [
+            114,
+            "NA"
+      ],
+      "GeForce Go 7800 GTX": [
+            209,
+            "NA"
+      ],
+      "GeForce Go 7900 GS": [
+            176,
+            "NA"
+      ],
+      "GeForce Go 7900 GTX": [
+            270,
+            "NA"
+      ],
+      "GeForce Go 7950 GTX": [
+            263,
+            "NA"
+      ],
+      "GeForce GPU": [
+            1199,
             "NA"
       ],
       "GeForce GT 1030": [
             2486,
             116.11
       ],
-      "Radeon Vega 8": [
-            1584,
-            126.86
+      "GeForce GT 120": [
+            168,
+            29.99
       ],
-      "Intel UHD Graphics": [
-            1477,
+      "GeForce GT 120 / 9500 GT": [
+            324,
             "NA"
       ],
-      "Intel UHD Graphics 630": [
-            1251,
+      "GeForce GT 120M": [
+            154,
             "NA"
       ],
-      "Intel UHD Graphics 620": [
-            1039,
+      "GeForce GT 130": [
+            381,
+            151.34
+      ],
+      "GeForce GT 130M": [
+            146,
             "NA"
       ],
-      "Intel HD Graphics 620": [
-            926,
+      "GeForce GT 140": [
+            657,
             "NA"
       ],
-      "Intel HD 520": [
-            871,
+      "GeForce GT 220": [
+            212,
+            39.99
+      ],
+      "GeForce GT 220M": [
+            121,
+            "NA"
+      ],
+      "GeForce GT 230": [
+            323,
+            43.99
+      ],
+      "GeForce GT 230M": [
+            203,
+            "NA"
+      ],
+      "GeForce GT 240": [
+            521,
+            160.97
+      ],
+      "GeForce GT 240M": [
+            203,
+            "NA"
+      ],
+      "GeForce GT 320": [
+            453,
+            32.69
+      ],
+      "GeForce GT 320M": [
+            105,
+            "NA"
+      ],
+      "GeForce GT 325M": [
+            169,
+            "NA"
+      ],
+      "GeForce GT 330": [
+            400,
+            39.99
+      ],
+      "GeForce GT 330M": [
+            211,
+            "NA"
+      ],
+      "GeForce GT 335M": [
+            391,
+            "NA"
+      ],
+      "GeForce GT 340": [
+            738,
+            52.99
+      ],
+      "GeForce GT 415": [
+            251,
+            "NA"
+      ],
+      "GeForce GT 415M": [
+            286,
+            "NA"
+      ],
+      "GeForce GT 420": [
+            425,
+            155.0
+      ],
+      "GeForce GT 420M": [
+            417,
+            "NA"
+      ],
+      "GeForce GT 425M": [
+            523,
+            "NA"
+      ],
+      "GeForce GT 430": [
+            602,
+            139.99
+      ],
+      "GeForce GT 435M": [
+            542,
+            "NA"
+      ],
+      "GeForce GT 440": [
+            774,
+            225.0
+      ],
+      "GeForce GT 445M": [
+            811,
+            "NA"
+      ],
+      "GeForce GT 520": [
+            306,
+            304.0
+      ],
+      "GeForce GT 520M": [
+            283,
+            29.95
+      ],
+      "GeForce GT 520MX": [
+            282,
+            "NA"
+      ],
+      "GeForce GT 525M": [
+            457,
+            "NA"
+      ],
+      "GeForce GT 530": [
+            679,
+            49.0
+      ],
+      "GeForce GT 540M": [
+            484,
+            87.95
+      ],
+      "GeForce GT 545": [
+            1103,
+            55.59
+      ],
+      "GeForce GT 550M": [
+            583,
+            "NA"
+      ],
+      "GeForce GT 555M": [
+            665,
+            177.2
+      ],
+      "GeForce GT 610": [
+            304,
+            139.99
+      ],
+      "GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT": [
+            368,
+            "NA"
+      ],
+      "GeForce GT 620": [
+            367,
+            154.0
+      ],
+      "GeForce GT 620M": [
+            439,
+            "NA"
+      ],
+      "GeForce GT 625": [
+            338,
+            "NA"
+      ],
+      "GeForce GT 625M": [
+            476,
+            "NA"
+      ],
+      "GeForce GT 630": [
+            682,
+            147.01
+      ],
+      "GeForce GT 630M": [
+            543,
+            "NA"
+      ],
+      "GeForce GT 635": [
+            836,
+            66.94
+      ],
+      "GeForce GT 635M": [
+            564,
+            "NA"
+      ],
+      "GeForce GT 640": [
+            1179,
+            109.99
+      ],
+      "GeForce GT 640M": [
+            915,
+            "NA"
+      ],
+      "GeForce GT 640M LE": [
+            681,
+            849.99
+      ],
+      "GeForce GT 645": [
+            2005,
+            "NA"
+      ],
+      "GeForce GT 645M": [
+            922,
+            "NA"
+      ],
+      "GeForce GT 650M": [
+            1206,
+            "NA"
+      ],
+      "GeForce GT 705": [
+            336,
+            296.76
+      ],
+      "GeForce GT 710": [
+            631,
+            249.99
+      ],
+      "GeForce GT 710M": [
+            445,
+            "NA"
+      ],
+      "GeForce GT 720": [
+            612,
+            99.99
+      ],
+      "GeForce GT 720A": [
+            600,
+            "NA"
+      ],
+      "GeForce GT 720M": [
+            464,
+            "NA"
+      ],
+      "GeForce GT 730": [
+            828,
+            109.99
+      ],
+      "GeForce GT 730A": [
+            742,
+            "NA"
+      ],
+      "GeForce GT 730M": [
+            813,
+            "NA"
+      ],
+      "GeForce GT 735M": [
+            625,
+            "NA"
+      ],
+      "GeForce GT 740": [
+            1493,
+            236.99
+      ],
+      "GeForce GT 740A": [
+            667,
+            "NA"
+      ],
+      "GeForce GT 740M": [
+            790,
+            "NA"
+      ],
+      "GeForce GT 745A": [
+            1201,
+            "NA"
+      ],
+      "GeForce GT 745M": [
+            1101,
+            "NA"
+      ],
+      "GeForce GT 750M": [
+            1312,
+            "NA"
+      ],
+      "GeForce GT 755M": [
+            1654,
+            "NA"
+      ],
+      "GeForce GT 820M": [
+            583,
+            "NA"
+      ],
+      "GeForce GT625M": [
+            457,
+            "NA"
+      ],
+      "GeForce GTS 150M": [
+            504,
+            "NA"
+      ],
+      "GeForce GTS 160M": [
+            678,
+            "NA"
+      ],
+      "GeForce GTS 240": [
+            577,
+            64.99
+      ],
+      "GeForce GTS 250": [
+            607,
+            69.99
+      ],
+      "GeForce GTS 250M": [
+            569,
+            "NA"
+      ],
+      "GeForce GTS 350M": [
+            407,
+            "NA"
+      ],
+      "GeForce GTS 360M": [
+            656,
+            "NA"
+      ],
+      "GeForce GTS 450": [
+            1311,
+            79.99
+      ],
+      "GeForce GTX 1050": [
+            5046,
+            239.99
+      ],
+      "GeForce GTX 1050 (Mobile)": [
+            4461,
+            "NA"
+      ],
+      "GeForce GTX 1050 3GB": [
+            5130,
+            "NA"
+      ],
+      "GeForce GTX 1050 Ti": [
+            6302,
+            189.99
+      ],
+      "GeForce GTX 1050 Ti (Mobile)": [
+            5918,
+            "NA"
+      ],
+      "GeForce GTX 1050 Ti with Max-Q Design": [
+            5370,
+            "NA"
+      ],
+      "GeForce GTX 1050 with Max-Q Design": [
+            3951,
+            "NA"
+      ],
+      "GeForce GTX 1060": [
+            10071,
+            279.99
+      ],
+      "GeForce GTX 1060 (Mobile)": [
+            8160,
+            "NA"
+      ],
+      "GeForce GTX 1060 3GB": [
+            9753,
+            269.99
+      ],
+      "GeForce GTX 1060 5GB": [
+            8972,
+            487.99
+      ],
+      "GeForce GTX 1060 with Max-Q Design": [
+            7899,
+            "NA"
+      ],
+      "GeForce GTX 1070": [
+            13513,
+            488.09
+      ],
+      "GeForce GTX 1070 (Mobile)": [
+            10465,
+            "NA"
+      ],
+      "GeForce GTX 1070 Ti": [
+            14718,
+            569.99
+      ],
+      "GeForce GTX 1070 with Max-Q Design": [
+            10051,
+            "NA"
+      ],
+      "GeForce GTX 1080": [
+            15484,
+            442.79
+      ],
+      "GeForce GTX 1080 Ti": [
+            18539,
+            483.82
+      ],
+      "GeForce GTX 1080 with Max-Q Design": [
+            11570,
+            "NA"
+      ],
+      "GeForce GTX 1630": [
+            4991,
+            129.99
+      ],
+      "GeForce GTX 1650": [
+            7859,
+            134.99
+      ],
+      "GeForce GTX 1650 (Mobile)": [
+            6968,
+            "NA"
+      ],
+      "GeForce GTX 1650 SUPER": [
+            10113,
+            184.05
+      ],
+      "GeForce GTX 1650 Ti": [
+            7572,
+            "NA"
+      ],
+      "GeForce GTX 1650 Ti with Max-Q Design": [
+            6422,
+            "NA"
+      ],
+      "GeForce GTX 1650 with Max-Q Design": [
+            6114,
+            "NA"
+      ],
+      "GeForce GTX 1660": [
+            11726,
+            286.97
+      ],
+      "GeForce GTX 1660 SUPER": [
+            12784,
+            197.99
+      ],
+      "GeForce GTX 1660 Ti": [
+            12959,
+            252.2
+      ],
+      "GeForce GTX 1660 Ti (Mobile)": [
+            10214,
+            "NA"
+      ],
+      "GeForce GTX 1660 Ti with Max-Q Design": [
+            8666,
+            "NA"
+      ],
+      "GeForce GTX 260": [
+            1231,
+            79.99
+      ],
+      "GeForce GTX 260M": [
+            379,
+            "NA"
+      ],
+      "GeForce GTX 275": [
+            1415,
+            431.72
+      ],
+      "GeForce GTX 280": [
+            1275,
+            522.78
+      ],
+      "GeForce GTX 280M": [
+            575,
+            "NA"
+      ],
+      "GeForce GTX 285": [
+            1516,
+            119.99
+      ],
+      "GeForce GTX 285M": [
+            650,
+            "NA"
+      ],
+      "GeForce GTX 295": [
+            1188,
+            159.99
+      ],
+      "GeForce GTX 460": [
+            2252,
+            89.99
+      ],
+      "GeForce GTX 460 SE": [
+            2011,
+            159.99
+      ],
+      "GeForce GTX 460 v2": [
+            1927,
+            199.99
+      ],
+      "GeForce GTX 460M": [
+            1231,
+            "NA"
+      ],
+      "GeForce GTX 465": [
+            2683,
+            195.0
+      ],
+      "GeForce GTX 470": [
+            3081,
+            59.99
+      ],
+      "GeForce GTX 470M": [
+            1953,
+            "NA"
+      ],
+      "GeForce GTX 480": [
+            4040,
+            169.99
+      ],
+      "GeForce GTX 480M": [
+            1617,
+            "NA"
+      ],
+      "GeForce GTX 485M": [
+            2359,
+            "NA"
+      ],
+      "GeForce GTX 550 Ti": [
+            1536,
+            99.99
+      ],
+      "GeForce GTX 555": [
+            1571,
+            "NA"
+      ],
+      "GeForce GTX 560": [
+            2717,
+            205.0
+      ],
+      "GeForce GTX 560 SE": [
+            1914,
+            89.99
+      ],
+      "GeForce GTX 560 Ti": [
+            3034,
+            129.99
+      ],
+      "GeForce GTX 560M": [
+            1221,
+            "NA"
+      ],
+      "GeForce GTX 570": [
+            3921,
+            149.99
+      ],
+      "GeForce GTX 570M": [
+            1874,
+            "NA"
+      ],
+      "GeForce GTX 580": [
+            4538,
+            139.92
+      ],
+      "GeForce GTX 580M": [
+            2074,
+            248.68
+      ],
+      "GeForce GTX 590": [
+            3341,
+            435.0
+      ],
+      "GeForce GTX 645": [
+            1869,
+            "NA"
+      ],
+      "GeForce GTX 650": [
+            1753,
+            109.98
+      ],
+      "GeForce GTX 650 Ti": [
+            2530,
+            93.05
+      ],
+      "GeForce GTX 650 Ti BOOST": [
+            3351,
+            "NA"
+      ],
+      "GeForce GTX 660": [
+            3998,
+            167.95
+      ],
+      "GeForce GTX 660 Ti": [
+            4375,
+            144.0
+      ],
+      "GeForce GTX 660M": [
+            1442,
+            78.99
+      ],
+      "GeForce GTX 670": [
+            5320,
+            193.98
+      ],
+      "GeForce GTX 670M": [
+            1745,
+            "NA"
+      ],
+      "GeForce GTX 670MX": [
+            1934,
+            "NA"
+      ],
+      "GeForce GTX 675M": [
+            1924,
+            "NA"
+      ],
+      "GeForce GTX 675MX": [
+            2744,
+            "NA"
+      ],
+      "GeForce GTX 680": [
+            5539,
+            399.0
+      ],
+      "GeForce GTX 680M": [
+            3205,
+            135.99
+      ],
+      "GeForce GTX 680M KY_Bullet Edition": [
+            3568,
+            "NA"
+      ],
+      "GeForce GTX 680MX": [
+            4142,
+            "NA"
+      ],
+      "GeForce GTX 690": [
+            5579,
+            280.99
+      ],
+      "GeForce GTX 745": [
+            2150,
+            284.95
+      ],
+      "GeForce GTX 750": [
+            3355,
+            79.99
+      ],
+      "GeForce GTX 750 Ti": [
+            3902,
+            88.11
+      ],
+      "GeForce GTX 760": [
+            4779,
+            149.0
+      ],
+      "GeForce GTX 760 Ti": [
+            5191,
+            297.5
+      ],
+      "GeForce GTX 760 Ti OEM": [
+            5427,
+            "NA"
+      ],
+      "GeForce GTX 760A": [
+            1226,
+            "NA"
+      ],
+      "GeForce GTX 760M": [
+            1701,
+            "NA"
+      ],
+      "GeForce GTX 765M": [
+            1983,
+            186.3
+      ],
+      "GeForce GTX 770": [
+            5902,
+            249.0
+      ],
+      "GeForce GTX 770M": [
+            2774,
+            138.0
+      ],
+      "GeForce GTX 775M": [
+            3551,
+            "NA"
+      ],
+      "GeForce GTX 780": [
+            8028,
+            279.99
+      ],
+      "GeForce GTX 780 Ti": [
+            9481,
+            339.99
+      ],
+      "GeForce GTX 780M": [
+            3871,
+            499.0
+      ],
+      "GeForce GTX 850A": [
+            1049,
+            "NA"
+      ],
+      "GeForce GTX 850M": [
+            2528,
+            "NA"
+      ],
+      "GeForce GTX 850M - MODDED": [
+            1091,
+            "NA"
+      ],
+      "GeForce GTX 860M": [
+            3030,
+            114.0
+      ],
+      "GeForce GTX 870M": [
+            3448,
+            "NA"
+      ],
+      "GeForce GTX 880M": [
+            3804,
+            "NA"
+      ],
+      "GeForce GTX 950": [
+            5344,
+            141.99
+      ],
+      "GeForce GTX 950A": [
+            2568,
+            "NA"
+      ],
+      "GeForce GTX 950M": [
+            2587,
+            567.0
+      ],
+      "GeForce GTX 960": [
+            6041,
+            172.0
+      ],
+      "GeForce GTX 960A": [
+            2410,
+            "NA"
+      ],
+      "GeForce GTX 960M": [
+            3397,
+            1169.0
+      ],
+      "GeForce GTX 965M": [
+            3730,
+            "NA"
+      ],
+      "GeForce GTX 970": [
+            9639,
+            237.99
+      ],
+      "GeForce GTX 970M": [
+            5720,
+            209.99
+      ],
+      "GeForce GTX 970XM FORCE": [
+            6706,
+            "NA"
+      ],
+      "GeForce GTX 980": [
+            11134,
+            247.35
+      ],
+      "GeForce GTX 980 Ti": [
+            13837,
+            634.39
+      ],
+      "GeForce GTX 980M": [
+            7349,
+            289.99
+      ],
+      "GeForce GTX Titan": [
+            8192,
+            745.0
+      ],
+      "GeForce GTX TITAN Black": [
+            9010,
+            524.99
+      ],
+      "GeForce GTX TITAN X": [
+            13055,
+            1096.99
+      ],
+      "GeForce GTX TITAN Z": [
+            8986,
+            1515.0
+      ],
+      "GeForce MX110": [
+            1454,
+            "NA"
+      ],
+      "GeForce MX130": [
+            1862,
+            "NA"
+      ],
+      "GeForce MX150": [
+            2277,
+            59.29
+      ],
+      "GeForce MX230": [
+            1834,
+            "NA"
+      ],
+      "GeForce MX250": [
+            2440,
+            "NA"
+      ],
+      "GeForce MX330": [
+            2462,
+            "NA"
+      ],
+      "GeForce MX350": [
+            2816,
+            "NA"
+      ],
+      "GeForce MX450": [
+            3733,
+            "NA"
+      ],
+      "GeForce MX550": [
+            4546,
+            "NA"
+      ],
+      "GeForce MX570": [
+            6020,
+            "NA"
+      ],
+      "GeForce MX570 A": [
+            6099,
+            "NA"
+      ],
+      "GeForce PCX 5300": [
+            6,
+            "NA"
+      ],
+      "GeForce PCX 5750": [
+            34,
+            "NA"
+      ],
+      "GeForce PCX 5900": [
+            34,
+            "NA"
+      ],
+      "GeForce RTX 2050": [
+            6941,
+            "NA"
+      ],
+      "GeForce RTX 2060": [
+            14117,
+            209.99
+      ],
+      "GeForce RTX 2060 (Mobile)": [
+            11354,
+            "NA"
+      ],
+      "GeForce RTX 2060 12GB": [
+            15860,
+            "NA"
+      ],
+      "GeForce RTX 2060 SUPER": [
+            16585,
+            409.99
+      ],
+      "GeForce RTX 2060 with Max-Q Design": [
+            9778,
+            "NA"
+      ],
+      "GeForce RTX 2070": [
+            16171,
+            519.99
+      ],
+      "GeForce RTX 2070 (Mobile)": [
+            12354,
+            "NA"
+      ],
+      "GeForce RTX 2070 SUPER": [
+            18262,
+            497.95
+      ],
+      "GeForce RTX 2070 Super with Max-Q Design": [
+            13915,
+            "NA"
+      ],
+      "GeForce RTX 2070 with Max-Q Design": [
+            11877,
+            "NA"
+      ],
+      "GeForce RTX 2080": [
+            18800,
+            800.61
+      ],
+      "GeForce RTX 2080 (Mobile)": [
+            15107,
+            "NA"
+      ],
+      "GeForce RTX 2080 SUPER": [
+            19596,
+            740.99
+      ],
+      "GeForce RTX 2080 Super with Max-Q Design": [
+            13836,
+            "NA"
+      ],
+      "GeForce RTX 2080 Ti": [
+            21849,
+            1399.99
+      ],
+      "GeForce RTX 2080 with Max-Q Design": [
+            13170,
+            2099.99
+      ],
+      "GeForce RTX 3050": [
+            12981,
+            215.99
+      ],
+      "GeForce RTX 3050 4GB Laptop GPU": [
+            7058,
+            "NA"
+      ],
+      "GeForce RTX 3050 6GB Laptop GPU": [
+            10755,
+            "NA"
+      ],
+      "GeForce RTX 3050 Laptop GPU": [
+            9391,
+            269.99
+      ],
+      "GeForce RTX 3050 OEM": [
+            12034,
+            "NA"
+      ],
+      "GeForce RTX 3050 Ti Laptop GPU": [
+            10167,
+            "NA"
+      ],
+      "GeForce RTX 3060": [
+            17114,
+            249.99
+      ],
+      "GeForce RTX 3060 Laptop GPU": [
+            13407,
+            309.99
+      ],
+      "GeForce RTX 3060 Ti": [
+            20589,
+            325.23
+      ],
+      "GeForce RTX 3070": [
+            22472,
+            434.99
+      ],
+      "GeForce RTX 3070 Laptop GPU": [
+            15520,
+            "NA"
+      ],
+      "GeForce RTX 3070 Ti": [
+            23758,
+            499.99
+      ],
+      "GeForce RTX 3070 Ti Laptop GPU": [
+            18342,
+            "NA"
+      ],
+      "GeForce RTX 3080": [
+            25362,
+            679.99
+      ],
+      "GeForce RTX 3080 12GB": [
+            26744,
+            "NA"
+      ],
+      "GeForce RTX 3080 Laptop GPU": [
+            16583,
+            "NA"
+      ],
+      "GeForce RTX 3080 Ti": [
+            27327,
+            849.99
+      ],
+      "GeForce RTX 3080 Ti Laptop GPU": [
+            20305,
+            "NA"
+      ],
+      "GeForce RTX 3090": [
+            26911,
+            1449.0
+      ],
+      "GeForce RTX 3090 Ti": [
+            29839,
+            1539.99
+      ],
+      "GeForce RTX 4050 Laptop GPU": [
+            14846,
+            "NA"
+      ],
+      "GeForce RTX 4060": [
+            19490,
+            289.99
+      ],
+      "GeForce RTX 4060 Laptop GPU": [
+            18109,
+            "NA"
+      ],
+      "GeForce RTX 4060 Ti": [
+            22582,
+            369.99
+      ],
+      "GeForce RTX 4060 Ti 16GB": [
+            22693,
+            499.0
+      ],
+      "GeForce RTX 4070": [
+            26798,
+            549.99
+      ],
+      "GeForce RTX 4070 Laptop GPU": [
+            19493,
+            "NA"
+      ],
+      "GeForce RTX 4070 Ti": [
+            31679,
+            769.99
+      ],
+      "GeForce RTX 4080": [
+            34718,
+            1089.99
+      ],
+      "GeForce RTX 4080 Laptop GPU": [
+            26419,
+            "NA"
+      ],
+      "GeForce RTX 4090": [
+            38864,
+            1669.99
+      ],
+      "GeForce RTX 4090 Laptop GPU": [
+            28924,
+            "NA"
+      ],
+      "GeForce2 Go": [
+            4,
+            "NA"
+      ],
+      "GeForce2 GTS/GeForce2 Pro": [
+            3,
+            "NA"
+      ],
+      "GeForce2 Integrated GPU": [
+            4,
+            "NA"
+      ],
+      "GeForce2 MX": [
+            2,
+            "NA"
+      ],
+      "GeForce2 MX 100/200": [
+            3,
+            "NA"
+      ],
+      "GeForce2 MX with DVI-D and TV-out": [
+            4,
+            "NA"
+      ],
+      "GeForce2 MX with TV Out": [
+            2,
+            "NA"
+      ],
+      "GeForce2 MX/MX 400": [
+            3,
+            "NA"
+      ],
+      "GeForce2 Ti": [
+            4,
+            "NA"
+      ],
+      "GeForce2 Ultra": [
+            6,
+            "NA"
+      ],
+      "GeForce3": [
+            4,
+            "NA"
+      ],
+      "GeForce3 Ti 200": [
+            4,
+            "NA"
+      ],
+      "GeForce3 Ti 500": [
+            2,
+            "NA"
+      ],
+      "GeForce4 420 Go": [
+            3,
+            "NA"
+      ],
+      "GeForce4 420 Go 32M": [
+            5,
+            "NA"
+      ],
+      "GeForce4 4200 Go": [
+            3,
+            "NA"
+      ],
+      "GeForce4 440": [
+            4,
+            "NA"
+      ],
+      "GeForce4 440 Go": [
+            3,
+            "NA"
+      ],
+      "GeForce4 440 Go 64M": [
+            5,
+            "NA"
+      ],
+      "GeForce4 448 Go": [
+            5,
+            "NA"
+      ],
+      "GeForce4 MX 4000": [
+            4,
+            "NA"
+      ],
+      "GeForce4 MX 420": [
+            4,
+            "NA"
+      ],
+      "GeForce4 MX 440": [
+            4,
+            "NA"
+      ],
+      "GeForce4 MX 440 with AGP8X": [
+            4,
+            "NA"
+      ],
+      "GeForce4 MX 440SE": [
+            4,
+            "NA"
+      ],
+      "GeForce4 MX 460": [
+            4,
+            "NA"
+      ],
+      "GeForce4 MX Integrated GPU": [
+            6,
+            "NA"
+      ],
+      "GeForce4 Ti 4200": [
+            5,
+            "NA"
+      ],
+      "GeForce4 Ti 4400": [
+            7,
+            "NA"
+      ],
+      "GeForce4 Ti 4600": [
+            5,
+            53.99
+      ],
+      "GeForce4 Ti 4800": [
+            5,
+            "NA"
+      ],
+      "GeForce4 Ti 4800 SE": [
+            6,
+            "NA"
+      ],
+      "GeForce9400M": [
+            105,
+            "NA"
+      ],
+      "GF117": [
+            554,
+            "NA"
+      ],
+      "GRID GTX P40-6": [
+            4340,
+            "NA"
+      ],
+      "GRID K1": [
+            650,
+            395.0
+      ],
+      "GRID K120Q": [
+            293,
+            "NA"
+      ],
+      "GRID K140Q": [
+            727,
+            "NA"
+      ],
+      "GRID K160Q": [
+            628,
+            "NA"
+      ],
+      "GRID K180Q": [
+            533,
+            "NA"
+      ],
+      "GRID K2": [
+            2736,
+            4449.99
+      ],
+      "GRID K220Q": [
+            912,
+            "NA"
+      ],
+      "GRID K240Q": [
+            2541,
+            "NA"
+      ],
+      "GRID K260Q": [
+            2949,
+            "NA"
+      ],
+      "GRID K280Q": [
+            2839,
+            "NA"
+      ],
+      "GRID K520": [
+            3516,
+            149.99
+      ],
+      "GRID M10-0Q": [
+            913,
+            "NA"
+      ],
+      "GRID M10-1B": [
+            2309,
+            "NA"
+      ],
+      "GRID M10-1Q": [
+            3351,
+            "NA"
+      ],
+      "GRID M10-2B": [
+            2333,
+            "NA"
+      ],
+      "GRID M10-2Q": [
+            2691,
+            "NA"
+      ],
+      "GRID M10-4Q": [
+            2976,
+            "NA"
+      ],
+      "GRID M10-8Q": [
+            2606,
+            "NA"
+      ],
+      "GRID M6-0B": [
+            911,
+            "NA"
+      ],
+      "GRID M6-1Q": [
+            2069,
+            "NA"
+      ],
+      "GRID M6-8Q": [
+            3568,
+            "NA"
+      ],
+      "GRID M60-0B": [
+            1838,
+            "NA"
+      ],
+      "GRID M60-0Q": [
+            827,
+            "NA"
+      ],
+      "GRID M60-1B": [
+            4456,
+            "NA"
+      ],
+      "GRID M60-1Q": [
+            4250,
+            "NA"
+      ],
+      "GRID M60-2Q": [
+            5203,
+            "NA"
+      ],
+      "GRID M60-4Q": [
+            3831,
+            "NA"
+      ],
+      "GRID M60-8A": [
+            5523,
+            "NA"
+      ],
+      "GRID M60-8Q": [
+            3883,
+            "NA"
+      ],
+      "GRID P100-16Q": [
+            5944,
+            "NA"
+      ],
+      "GRID P100-1B": [
+            2223,
+            "NA"
+      ],
+      "GRID P100-8Q": [
+            3841,
+            "NA"
+      ],
+      "GRID P40-24Q": [
+            4727,
+            "NA"
+      ],
+      "GRID P40-2B": [
+            9842,
+            "NA"
+      ],
+      "GRID P40-2Q": [
+            4843,
+            "NA"
+      ],
+      "GRID P40-3Q": [
+            681,
+            "NA"
+      ],
+      "GRID P40-4Q": [
+            5364,
+            "NA"
+      ],
+      "GRID P40-8Q": [
+            8967,
+            "NA"
+      ],
+      "GRID P6-2Q": [
+            3925,
+            "NA"
+      ],
+      "GRID P6-4Q": [
+            4429,
+            "NA"
+      ],
+      "GRID RTX6000-1B": [
+            8473,
+            "NA"
+      ],
+      "GRID RTX6000P-6Q": [
+            4777,
+            "NA"
+      ],
+      "GRID T4-1Q": [
+            2702,
+            "NA"
+      ],
+      "GRID T4-2B": [
+            2601,
+            "NA"
+      ],
+      "GRID T4-2Q": [
+            3450,
+            "NA"
+      ],
+      "GRID T4-4Q": [
+            3260,
+            "NA"
+      ],
+      "GRID T4-8Q": [
+            4518,
+            "NA"
+      ],
+      "GRID V100-8Q": [
+            16,
+            "NA"
+      ],
+      "GRID V100D-8Q": [
+            4155,
+            "NA"
+      ],
+      "GT 430": [
+            223,
+            142.88
+      ],
+      "IncrediblE HD": [
+            389,
+            "NA"
+      ],
+      "IncrediblE HD 4000": [
+            517,
+            "NA"
+      ],
+      "IncrediblE HD 4600": [
+            749,
+            "NA"
+      ],
+      "Intel - Express Chipset G41": [
+            56,
+            "NA"
+      ],
+      "Intel - Express Chipset Q45/Q43": [
+            57,
+            "NA"
+      ],
+      "Intel 2nd Generation SandyBridge HD": [
+            185,
+            "NA"
+      ],
+      "Intel 2nd Generation SandyBridge HD 3000": [
+            205,
+            "NA"
+      ],
+      "Intel 4th Generation Haswell HD": [
+            419,
+            "NA"
+      ],
+      "Intel 82845G Controller": [
+            2,
+            "NA"
+      ],
+      "Intel 82845G/GL Controller": [
+            2,
+            "NA"
+      ],
+      "Intel 82845G/GL/GE/PE/GV Controller": [
+            2,
+            "NA"
+      ],
+      "Intel 82852/82855 GM/GME Controller": [
+            1,
+            "NA"
+      ],
+      "Intel 82865G Controller": [
+            4,
+            "NA"
+      ],
+      "Intel 82915G Express": [
+            5,
+            "NA"
+      ],
+      "Intel 82915G/915GV/910GL": [
+            3,
+            "NA"
+      ],
+      "Intel 82915G/GV/910GL Advanced v3.5": [
+            2,
+            "NA"
+      ],
+      "Intel 82915G/GV/910GL Express": [
+            3,
+            "NA"
+      ],
+      "Intel 82945G Express": [
+            12,
+            "NA"
+      ],
+      "Intel 82945G Express-Chipsatzfamilie": [
+            8,
+            "NA"
+      ],
+      "Intel 865 Embedded Controller": [
+            3,
+            "NA"
+      ],
+      "Intel 915G,910G Express": [
+            4,
+            "NA"
+      ],
+      "Intel 915G/915GV/910GL Embedded Controller Functio": [
+            4,
+            "NA"
+      ],
+      "Intel 945G Embedded Chipset Function 0": [
+            4,
+            "NA"
+      ],
+      "Intel 946GZ Embedded Chipset": [
+            3,
+            "NA"
+      ],
+      "Intel 946GZ Express": [
+            2,
+            "NA"
+      ],
+      "Intel Arc A380": [
+            4423,
+            "NA"
+      ],
+      "Intel Arc A730M": [
+            6283,
+            "NA"
+      ],
+      "Intel Arc A750": [
+            8430,
+            199.99
+      ],
+      "Intel Arc A770": [
+            9247,
+            299.99
+      ],
+      "Intel Arc A770M": [
+            7357,
+            "NA"
+      ],
+      "Intel Arc Pro A40/A50": [
+            5223,
+            "NA"
+      ],
+      "Intel Arc Pro A60": [
+            9409,
+            "NA"
+      ],
+      "Intel B43 Express Chipset": [
+            109,
+            "NA"
+      ],
+      "Intel Coffee Lake UHD": [
+            1158,
+            "NA"
+      ],
+      "Intel Extreme Controller": [
+            1,
+            "NA"
+      ],
+      "Intel G33/G31 Express": [
+            54,
+            "NA"
+      ],
+      "Intel G35 Express": [
+            3090,
+            "NA"
+      ],
+      "Intel G41 Express Chipset": [
+            98,
+            "NA"
+      ],
+      "Intel G41 Express-Chipsatz": [
+            57,
+            "NA"
+      ],
+      "Intel G45/G43 Express Chipset": [
+            88,
+            "NA"
+      ],
+      "Intel G45/G43/G41 Express Chipset": [
+            67,
+            "NA"
+      ],
+      "Intel G965 Express": [
+            222,
+            "NA"
+      ],
+      "Intel GMA 3150 Express": [
+            2,
+            "NA"
+      ],
+      "Intel Haswell HD - GT1": [
+            123,
+            "NA"
+      ],
+      "Intel Haswell HD - GT2": [
+            139,
+            "NA"
+      ],
+      "Intel HD 2000": [
+            213,
+            "NA"
+      ],
+      "Intel HD 3000": [
+            255,
+            945.0
+      ],
+      "Intel HD 4000": [
+            343,
+            1592.95
+      ],
+      "Intel HD 4400": [
+            521,
             "NA"
       ],
       "Intel HD 4600": [
             629,
             "NA"
       ],
-      "Intel HD 4000": [
-            343,
-            1592.95
+      "Intel HD 500": [
+            298,
+            "NA"
+      ],
+      "Intel HD 5000": [
+            573,
+            625.0
+      ],
+      "Intel HD 505": [
+            352,
+            "NA"
+      ],
+      "Intel HD 510": [
+            627,
+            "NA"
+      ],
+      "Intel HD 515": [
+            629,
+            "NA"
+      ],
+      "Intel HD 520": [
+            871,
+            "NA"
+      ],
+      "Intel HD 5200": [
+            830,
+            "NA"
+      ],
+      "Intel HD 530": [
+            996,
+            "NA"
+      ],
+      "Intel HD 5300": [
+            394,
+            "NA"
+      ],
+      "Intel HD 5500": [
+            585,
+            "NA"
+      ],
+      "Intel HD 5600": [
+            2263,
+            "NA"
+      ],
+      "Intel HD 6000": [
+            859,
+            "NA"
+      ],
+      "Intel HD 610": [
+            695,
+            "NA"
+      ],
+      "Intel HD 615": [
+            725,
+            "NA"
+      ],
+      "Intel HD 630": [
+            1111,
+            "NA"
+      ],
+      "Intel HD Family": [
+            458,
+            "NA"
+      ],
+      "Intel HD Graphics 620": [
+            926,
+            "NA"
+      ],
+      "Intel HD manual-15.28-1861": [
+            62,
+            "NA"
+      ],
+      "Intel HD manual-gen9_2015-133271": [
+            165,
+            "NA"
+      ],
+      "Intel HD Modded": [
+            112,
+            "NA"
+      ],
+      "Intel HD P3000": [
+            286,
+            "NA"
+      ],
+      "Intel HD P4000": [
+            516,
+            "NA"
+      ],
+      "Intel HD P4600": [
+            604,
+            "NA"
+      ],
+      "Intel HD P4600/P4700": [
+            635,
+            "NA"
+      ],
+      "Intel HD P530": [
+            1153,
+            "NA"
+      ],
+      "Intel HD P630": [
+            1184,
+            "NA"
+      ],
+      "Intel Infoshock HD": [
+            193,
+            "NA"
+      ],
+      "Intel Iris 5100": [
+            744,
+            "NA"
+      ],
+      "Intel Iris 540": [
+            1250,
+            "NA"
+      ],
+      "Intel Iris 550": [
+            1404,
+            "NA"
+      ],
+      "Intel Iris 6100": [
+            913,
+            "NA"
+      ],
+      "Intel Iris 650": [
+            1432,
+            "NA"
+      ],
+      "Intel Iris Plus": [
+            1822,
+            "NA"
+      ],
+      "Intel Iris Plus 640": [
+            1342,
+            "NA"
+      ],
+      "Intel Iris Plus 645": [
+            1727,
+            "NA"
+      ],
+      "Intel Iris Plus 650": [
+            1581,
+            "NA"
+      ],
+      "Intel Iris Plus 655": [
+            1746,
+            "NA"
+      ],
+      "Intel Iris Pro 5200": [
+            1200,
+            "NA"
+      ],
+      "Intel Iris Pro 580": [
+            1981,
+            "NA"
+      ],
+      "Intel Iris Pro 6100": [
+            925,
+            "NA"
+      ],
+      "Intel Iris Pro Graphics 6200": [
+            1449,
+            "NA"
+      ],
+      "Intel Iris Pro P580": [
+            2231,
+            "NA"
+      ],
+      "Intel Iris Pro P6300": [
+            1625,
+            "NA"
+      ],
+      "Intel Iris Xe": [
+            2686,
+            "NA"
+      ],
+      "Intel Iris Xe MAX": [
+            1971,
+            "NA"
+      ],
+      "Intel Iris Xe MAX 100": [
+            1927,
+            "NA"
+      ],
+      "Intel Media Accelerator": [
+            32,
+            "NA"
+      ],
+      "Intel Media Accelerator 3150": [
+            2,
+            "NA"
+      ],
+      "Intel Media Accelerator 500": [
+            3,
+            "NA"
+      ],
+      "Intel Media Accelerator 600": [
+            6,
+            "NA"
+      ],
+      "Intel Media Accelerator HD": [
+            108,
+            "NA"
+      ],
+      "Intel Poison Ivy": [
+            738,
+            "NA"
+      ],
+      "Intel Q33 Express": [
+            5,
+            "NA"
+      ],
+      "Intel Q35 Embedded": [
+            8,
+            "NA"
+      ],
+      "Intel Q35 Express": [
+            90,
+            "NA"
+      ],
+      "Intel Q45/Q43 Express Chipset": [
+            211,
+            "NA"
+      ],
+      "Intel Q45/Q43 Express-Chipsatz": [
+            57,
+            "NA"
+      ],
+      "Intel Q965/Q963 Express": [
+            202,
+            "NA"
+      ],
+      "Intel Skylake HD DT GT2": [
+            576,
+            "NA"
+      ],
+      "Intel UHD Graphics": [
+            1477,
+            "NA"
+      ],
+      "Intel UHD Graphics 600": [
+            325,
+            "NA"
+      ],
+      "Intel UHD Graphics 605": [
+            368,
+            "NA"
+      ],
+      "Intel UHD Graphics 610": [
+            718,
+            "NA"
+      ],
+      "Intel UHD Graphics 615": [
+            754,
+            "NA"
+      ],
+      "Intel UHD Graphics 617": [
+            892,
+            "NA"
+      ],
+      "Intel UHD Graphics 620": [
+            1039,
+            "NA"
+      ],
+      "Intel UHD Graphics 630": [
+            1251,
+            "NA"
+      ],
+      "Intel UHD Graphics 710": [
+            1082,
+            "NA"
+      ],
+      "Intel UHD Graphics 730": [
+            1632,
+            "NA"
+      ],
+      "Intel UHD Graphics 750": [
+            1742,
+            "NA"
+      ],
+      "Intel UHD Graphics 770": [
+            1837,
+            "NA"
+      ],
+      "Intel UHD Graphics P630": [
+            2241,
+            "NA"
+      ],
+      "Intel UHD Graphics P750": [
+            1726,
+            "NA"
+      ],
+      "Intel US15 Embedded Media and Controller": [
+            7,
+            "NA"
+      ],
+      "ION": [
+            84,
+            229.99
+      ],
+      "ION LE": [
+            97,
+            "NA"
+      ],
+      "M860G with Mobility Radeon 4100": [
+            75,
+            "NA"
+      ],
+      "M880G with Mobility Radeon HD 4200": [
+            92,
+            "NA"
+      ],
+      "M880G with Mobility Radeon HD 4225": [
+            71,
+            "NA"
+      ],
+      "M880G with Mobility Radeon HD 4250": [
+            104,
+            "NA"
+      ],
+      "Master X3100 Driver": [
+            10,
+            "NA"
+      ],
+      "Matrox C420 LP PCIe x16": [
+            597,
+            "NA"
+      ],
+      "Matrox C680 PCIe x16": [
+            1903,
+            "NA"
+      ],
+      "Matrox C900 PCIe x16": [
+            1812,
+            "NA"
+      ],
+      "Matrox G200e WDDM 1.2": [
+            59,
+            "NA"
+      ],
+      "Matrox G200e WDDM 2.0": [
+            100,
+            "NA"
+      ],
+      "Matrox G200eh": [
+            40,
+            "NA"
+      ],
+      "Matrox G200eh WDDM 1.2": [
+            51,
+            "NA"
+      ],
+      "Matrox G200eh WDDM 2.0": [
+            46,
+            "NA"
+      ],
+      "Matrox G200eR": [
+            36,
+            "NA"
+      ],
+      "Matrox G200eR WDDM 1.2": [
+            45,
+            "NA"
+      ],
+      "Matrox G200eR WDDM 2.0": [
+            67,
+            "NA"
+      ],
+      "Matrox G200eW": [
+            39,
+            "NA"
+      ],
+      "Matrox G200eW WDDM 1.2": [
+            50,
+            "NA"
+      ],
+      "Matrox G200eW3 WDDM 2.0": [
+            94,
+            "NA"
+      ],
+      "Matrox LUMA A310": [
+            3690,
+            "NA"
+      ],
+      "Matrox LUMA A310F": [
+            4559,
+            "NA"
+      ],
+      "Matrox M9120 PCIe x16": [
+            19,
+            "NA"
+      ],
+      "Matrox M9120 Plus LP PCIe x16": [
+            25,
+            "NA"
+      ],
+      "Matrox M9125 PCIe x16": [
+            25,
+            "NA"
+      ],
+      "Matrox M9128 LP PCIe x16": [
+            31,
+            "NA"
+      ],
+      "Matrox M9138 LP PCIe x16": [
+            42,
+            "NA"
+      ],
+      "Matrox M9140 LP PCIe x16": [
+            23,
+            "NA"
+      ],
+      "Matrox M9148 LP PCIe x16": [
+            40,
+            "NA"
+      ],
+      "Matrox Millennium P650 PCIe 128": [
+            5,
+            "NA"
+      ],
+      "Matrox Millennium P690 PCIe x16": [
+            366,
+            "NA"
+      ],
+      "Matrox Millennium P690 Plus LP PCIe x16": [
+            6,
+            "NA"
+      ],
+      "Matrox Parhelia 128MB": [
+            3,
+            393.99
+      ],
+      "Matrox Parhelia 256MB": [
+            9,
+            "NA"
+      ],
+      "Matrox Parhelia APVe": [
+            5,
+            "NA"
+      ],
+      "MEDION RADEON 9800 XXL": [
+            71,
+            "NA"
+      ],
+      "MEDION RADEON X740XL": [
+            94,
+            "NA"
+      ],
+      "Microsoft Basic Display Adapter Ryzen 5 3550H": [
+            3536,
+            "NA"
+      ],
+      "MIRRORV3": [
+            1080,
+            "NA"
+      ],
+      "Mobile Intel - famiglia Express Chipset 45": [
+            38,
+            "NA"
+      ],
+      "Mobile Intel 4 Express-Chipsatzfamilie": [
+            44,
+            "NA"
+      ],
+      "Mobile Intel 45 Express": [
+            43,
+            "NA"
+      ],
+      "Mobile Intel 45 Express-Chipsatzfamilie": [
+            117,
+            "NA"
+      ],
+      "Mobile Intel 915GM/GMS/910GML Express": [
+            1,
+            "NA"
+      ],
+      "Mobile Intel 945 Express": [
+            1,
+            "NA"
+      ],
+      "Mobile Intel 945GM Express": [
+            5,
+            "NA"
+      ],
+      "Mobile Intel 945GM/GU Express": [
+            5,
+            "NA"
+      ],
+      "Mobile Intel 965 Express": [
+            49,
+            "NA"
+      ],
+      "Mobile Intel 965 Express - BR-0907-0461 v1839": [
+            8,
+            "NA"
+      ],
+      "Mobile Intel 965 Express-Chipsatzfamilie": [
+            24,
+            "NA"
+      ],
+      "Mobile Intel HD": [
+            284,
+            479.98
+      ],
+      "Mobile Intel serie 4 Express": [
+            44,
+            "NA"
+      ],
+      "Mobile Intel965 Express": [
+            17,
+            "NA"
+      ],
+      "MOBILITY FIREGL 7800": [
+            4,
+            "NA"
+      ],
+      "MOBILITY FIREGL T2": [
+            40,
+            "NA"
+      ],
+      "MOBILITY FIREGL T2/T2e": [
+            33,
+            "NA"
+      ],
+      "MOBILITY FireGL V3200": [
+            62,
+            "NA"
+      ],
+      "MOBILITY FireGL V5000": [
+            81,
+            "NA"
+      ],
+      "MOBILITY FireGL V5200": [
+            44,
+            "NA"
+      ],
+      "MOBILITY FireGL V5250": [
+            27,
+            "NA"
+      ],
+      "Mobility FireGL V5725": [
+            219,
+            "NA"
+      ],
+      "MOBILITY IGP 9000/9100": [
+            10,
+            "NA"
+      ],
+      "Mobility Radeon 4100": [
+            81,
+            "NA"
+      ],
+      "MOBILITY RADEON 7000 IGP": [
+            6,
+            "NA"
+      ],
+      "MOBILITY RADEON 7500": [
+            3,
+            "NA"
+      ],
+      "MOBILITY RADEON 9000": [
+            3,
+            "NA"
+      ],
+      "MOBILITY RADEON 9000 IGP": [
+            7,
+            "NA"
+      ],
+      "MOBILITY RADEON 9000/9100 IGP": [
+            5,
+            "NA"
+      ],
+      "MOBILITY RADEON 9100 IGP": [
+            2,
+            "NA"
+      ],
+      "MOBILITY RADEON 9200": [
+            3,
+            "NA"
+      ],
+      "MOBILITY RADEON 9550": [
+            30,
+            "NA"
+      ],
+      "MOBILITY RADEON 9600": [
+            36,
+            "NA"
+      ],
+      "MOBILITY RADEON 9600 PRO TURBO": [
+            24,
+            "NA"
+      ],
+      "MOBILITY RADEON 9600/9700": [
+            39,
+            "NA"
+      ],
+      "MOBILITY RADEON 9700": [
+            27,
+            "NA"
+      ],
+      "MOBILITY RADEON 9800": [
+            46,
+            "NA"
+      ],
+      "Mobility Radeon HD 2300": [
+            50,
+            "NA"
+      ],
+      "Mobility Radeon HD 2400": [
+            89,
+            "NA"
+      ],
+      "Mobility Radeon HD 2400 XT": [
+            102,
+            "NA"
+      ],
+      "Mobility Radeon HD 2600": [
+            167,
+            "NA"
+      ],
+      "Mobility Radeon HD 2600 XT": [
+            191,
+            "NA"
+      ],
+      "Mobility Radeon HD 3400 Serisi": [
+            111,
+            "NA"
+      ],
+      "Mobility Radeon HD 3410": [
+            62,
+            "NA"
+      ],
+      "Mobility Radeon HD 3430": [
+            98,
+            "NA"
+      ],
+      "Mobility Radeon HD 3450": [
+            91,
+            "NA"
+      ],
+      "Mobility Radeon HD 3470": [
+            93,
+            "NA"
+      ],
+      "Mobility Radeon HD 3470 Hybrid X2": [
+            93,
+            "NA"
+      ],
+      "Mobility Radeon HD 3650": [
+            129,
+            73.53
+      ],
+      "Mobility Radeon HD 3670": [
+            232,
+            "NA"
+      ],
+      "Mobility Radeon HD 3850": [
+            365,
+            "NA"
+      ],
+      "Mobility Radeon HD 3870": [
+            547,
+            "NA"
+      ],
+      "Mobility Radeon HD 3870 X2": [
+            477,
+            "NA"
+      ],
+      "Mobility Radeon HD 4200": [
+            90,
+            "NA"
+      ],
+      "Mobility Radeon HD 4225": [
+            66,
+            "NA"
+      ],
+      "Mobility Radeon HD 4250": [
+            98,
+            "NA"
+      ],
+      "Mobility Radeon HD 4270": [
+            92,
+            "NA"
+      ],
+      "Mobility Radeon HD 4300 Serisi": [
+            73,
+            "NA"
+      ],
+      "Mobility Radeon HD 4330": [
+            135,
+            "NA"
+      ],
+      "Mobility Radeon HD 4350": [
+            148,
+            "NA"
+      ],
+      "Mobility Radeon HD 4550": [
+            191,
+            "NA"
+      ],
+      "Mobility Radeon HD 4570": [
+            139,
+            75.9
+      ],
+      "Mobility Radeon HD 4650": [
+            401,
+            "NA"
+      ],
+      "Mobility Radeon HD 4670": [
+            463,
+            "NA"
+      ],
+      "Mobility Radeon HD 4830": [
+            511,
+            "NA"
+      ],
+      "Mobility Radeon HD 4850": [
+            866,
+            "NA"
+      ],
+      "Mobility Radeon HD 4870": [
+            719,
+            "NA"
+      ],
+      "Mobility Radeon HD 5000": [
+            773,
+            "NA"
+      ],
+      "Mobility Radeon HD 5000 Serisi": [
+            478,
+            "NA"
+      ],
+      "Mobility Radeon HD 5165": [
+            284,
+            "NA"
+      ],
+      "Mobility Radeon HD 530v": [
+            174,
+            "NA"
+      ],
+      "Mobility Radeon HD 540v": [
+            188,
+            "NA"
+      ],
+      "Mobility Radeon HD 5430": [
+            181,
+            "NA"
+      ],
+      "Mobility Radeon HD 5450": [
+            214,
+            "NA"
+      ],
+      "Mobility Radeon HD 545v": [
+            199,
+            "NA"
+      ],
+      "Mobility Radeon HD 5470": [
+            236,
+            "NA"
+      ],
+      "Mobility Radeon HD 550v": [
+            266,
+            "NA"
+      ],
+      "Mobility Radeon HD 5570": [
+            543,
+            "NA"
+      ],
+      "Mobility Radeon HD 560v": [
+            318,
+            "NA"
+      ],
+      "Mobility Radeon HD 5650": [
+            449,
+            "NA"
+      ],
+      "Mobility Radeon HD 565v": [
+            353,
+            "NA"
+      ],
+      "Mobility Radeon HD 5730": [
+            499,
+            "NA"
+      ],
+      "Mobility Radeon HD 5850": [
+            763,
+            "NA"
+      ],
+      "Mobility Radeon HD 5870": [
+            1091,
+            "NA"
+      ],
+      "Mobility Radeon HD serie 4200": [
+            96,
+            "NA"
+      ],
+      "Mobility Radeon X1300": [
+            39,
+            "NA"
+      ],
+      "Mobility Radeon X1350": [
+            39,
+            "NA"
+      ],
+      "Mobility Radeon X1400": [
+            42,
+            "NA"
+      ],
+      "Mobility Radeon X1450": [
+            33,
+            "NA"
+      ],
+      "Mobility Radeon X1600": [
+            92,
+            "NA"
+      ],
+      "Mobility Radeon X1700": [
+            104,
+            "NA"
+      ],
+      "MOBILITY RADEON X1800": [
+            130,
+            "NA"
+      ],
+      "Mobility Radeon X1900": [
+            134,
+            "NA"
+      ],
+      "Mobility Radeon X2300": [
+            48,
+            "NA"
+      ],
+      "Mobility Radeon X2300 HD": [
+            48,
+            "NA"
+      ],
+      "Mobility Radeon X2500": [
+            81,
+            "NA"
+      ],
+      "MOBILITY RADEON X300": [
+            33,
+            "NA"
+      ],
+      "MOBILITY RADEON X600": [
+            50,
+            "NA"
+      ],
+      "MOBILITY RADEON X600 SE": [
+            49,
+            "NA"
+      ],
+      "MOBILITY RADEON X700": [
+            66,
+            "NA"
+      ],
+      "MOBILITY RADEON X700 XL": [
+            59,
+            "NA"
+      ],
+      "MOBILITY RADEON XPRESS 200": [
+            27,
+            "NA"
+      ],
+      "Mobility Radeon. HD 5470": [
+            215,
+            "NA"
+      ],
+      "MOBILITY/RADEON 9000": [
+            4,
+            "NA"
+      ],
+      "MONSTER GeForce GTX 675M": [
+            2637,
+            "NA"
+      ],
+      "MxGPU": [
+            1826,
+            "NA"
+      ],
+      "N16P-GX": [
+            1204,
+            "NA"
+      ],
+      "N18E-Q1": [
+            2525,
+            "NA"
+      ],
+      "nForce 750a SLI": [
+            83,
+            "NA"
+      ],
+      "nForce 760i SLI": [
+            140,
+            "NA"
+      ],
+      "nForce 780a SLI": [
+            92,
+            "NA"
+      ],
+      "nForce 980a/780a SLI": [
+            81,
+            "NA"
+      ],
+      "NV44": [
+            15,
+            "NA"
+      ],
+      "NVIDIA A10": [
+            22064,
+            "NA"
+      ],
+      "NVIDIA A10-4Q": [
+            3424,
+            "NA"
+      ],
+      "NVIDIA A10G": [
+            18292,
+            "NA"
+      ],
+      "NVIDIA A40": [
+            9982,
+            "NA"
+      ],
+      "NVIDIA A40-8Q": [
+            4220,
+            "NA"
+      ],
+      "NVIDIA GeForce3 Ti200": [
+            5,
+            "NA"
+      ],
+      "NVIDIA TITAN X": [
+            13659,
+            608.1
+      ],
+      "NVIDIA TITAN Xp": [
+            18704,
+            1645.0
+      ],
+      "NVS 2100M": [
+            139,
+            "NA"
+      ],
+      "NVS 300": [
+            122,
+            62.97
+      ],
+      "NVS 310": [
+            249,
+            62.06
+      ],
+      "NVS 3100M": [
+            114,
+            "NA"
+      ],
+      "NVS 315": [
+            299,
+            69.99
+      ],
+      "NVS 4200M": [
+            268,
+            399.0
+      ],
+      "NVS 510": [
+            708,
+            143.26
+      ],
+      "NVS 5100M": [
+            188,
+            "NA"
+      ],
+      "NVS 5200M": [
+            515,
+            "NA"
+      ],
+      "NVS 5400M": [
+            631,
+            "NA"
+      ],
+      "NVS 810": [
+            1161,
+            624.99
+      ],
+      "OPAL XT/GL": [
+            1053,
+            "NA"
+      ],
+      "P104-100": [
+            3995,
+            299.99
+      ],
+      "P106-090": [
+            2342,
+            "NA"
+      ],
+      "P106-100": [
+            6207,
+            "NA"
+      ],
+      "PCI\\\\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C7 Ryzen": [
+            1766,
+            "NA"
+      ],
+      "PHDGD Ivy 4": [
+            374,
+            "NA"
+      ],
+      "PHDGD Ivy 5": [
+            445,
+            "NA"
+      ],
+      "PHDGD Quantic C3": [
+            116,
+            "NA"
+      ],
+      "PHDGD Sapphire GR for Mobile Intel 965": [
+            25,
+            "NA"
+      ],
+      "PHDGD Solo 1.2.0 x86": [
+            11,
+            "NA"
+      ],
+      "PHDGD Solo 2 x64": [
+            20,
+            "NA"
+      ],
+      "Q12U-1": [
+            5164,
+            "NA"
+      ],
+      "Quadro 1000M": [
+            570,
+            54.5
+      ],
+      "Quadro 1100M": [
+            755,
+            "NA"
+      ],
+      "Quadro 2000": [
+            944,
+            213.23
+      ],
+      "Quadro 2000 D": [
+            1239,
+            "NA"
+      ],
+      "Quadro 2000D": [
+            974,
+            140.0
+      ],
+      "Quadro 2000M": [
+            782,
+            229.74
+      ],
+      "Quadro 2100M": [
+            1100,
+            "NA"
+      ],
+      "Quadro 280 NVS PCIe": [
+            5,
+            "NA"
+      ],
+      "Quadro 3000M": [
+            1018,
+            69.99
+      ],
+      "Quadro 400": [
+            148,
+            211.0
+      ],
+      "Quadro 4000": [
+            1482,
+            1008.09
+      ],
+      "Quadro 4000M": [
+            1323,
+            232.06
+      ],
+      "Quadro 410": [
+            441,
+            129.0
+      ],
+      "Quadro 5000": [
+            1923,
+            943.0
+      ],
+      "Quadro 5000M": [
+            2059,
+            "NA"
+      ],
+      "Quadro 500M": [
+            570,
+            275.14
+      ],
+      "Quadro 5010M": [
+            1771,
+            235.95
+      ],
+      "Quadro 600": [
+            540,
+            76.0
+      ],
+      "Quadro 6000": [
+            2701,
+            4092.38
+      ],
+      "Quadro 7000": [
+            3505,
+            "NA"
+      ],
+      "Quadro CX": [
+            947,
+            149.95
+      ],
+      "Quadro FX 1000": [
+            34,
+            "NA"
+      ],
+      "Quadro FX 1100": [
+            35,
+            212.99
+      ],
+      "Quadro FX 1300": [
+            34,
+            "NA"
+      ],
+      "Quadro FX 1400": [
+            124,
+            245.01
+      ],
+      "Quadro FX 1500": [
+            197,
+            115.01
+      ],
+      "Quadro FX 1500M": [
+            171,
+            "NA"
+      ],
+      "Quadro FX 1600M": [
+            131,
+            149.9
+      ],
+      "Quadro FX 1700": [
+            115,
+            350.14
+      ],
+      "Quadro FX 1700M": [
+            172,
+            "NA"
+      ],
+      "Quadro FX 1800": [
+            399,
+            135.0
+      ],
+      "Quadro FX 1800M": [
+            466,
+            "NA"
+      ],
+      "Quadro FX 2000": [
+            18,
+            "NA"
+      ],
+      "Quadro FX 2500M": [
+            217,
+            17.5
+      ],
+      "Quadro FX 2700": [
+            543,
+            "NA"
+      ],
+      "Quadro FX 2700M": [
+            376,
+            99.95
+      ],
+      "Quadro FX 2800M": [
+            422,
+            190.0
+      ],
+      "Quadro FX 3000": [
+            69,
+            166.61
+      ],
+      "Quadro FX 3400/4400": [
+            104,
+            "NA"
+      ],
+      "Quadro FX 3450": [
+            148,
+            119.99
+      ],
+      "Quadro FX 3450/4000 SDI": [
+            179,
+            "NA"
+      ],
+      "Quadro FX 350": [
+            85,
+            "NA"
+      ],
+      "Quadro FX 3500": [
+            291,
+            68.98
+      ],
+      "Quadro FX 3500M": [
+            306,
+            99.99
+      ],
+      "Quadro FX 350M": [
+            44,
+            "NA"
+      ],
+      "Quadro FX 3600M": [
+            466,
+            "NA"
+      ],
+      "Quadro FX 360M": [
+            86,
+            "NA"
+      ],
+      "Quadro FX 370": [
+            83,
+            125.0
+      ],
+      "Quadro FX 370 Low Profile": [
+            102,
+            "NA"
+      ],
+      "Quadro FX 370 LP": [
+            108,
+            "NA"
+      ],
+      "Quadro FX 3700": [
+            380,
+            213.27
+      ],
+      "Quadro FX 3700M": [
+            456,
+            925.0
+      ],
+      "Quadro FX 370M": [
+            93,
+            "NA"
+      ],
+      "Quadro FX 380": [
+            162,
+            72.5
+      ],
+      "Quadro FX 380 LP": [
+            130,
+            "NA"
+      ],
+      "Quadro FX 3800": [
+            799,
+            259.13
+      ],
+      "Quadro FX 3800M": [
+            603,
+            "NA"
+      ],
+      "Quadro FX 380M": [
+            120,
+            "NA"
+      ],
+      "Quadro FX 4000": [
+            101,
+            "NA"
+      ],
+      "Quadro FX 4500": [
+            226,
+            169.0
+      ],
+      "Quadro FX 4500 X2": [
+            236,
+            "NA"
+      ],
+      "Quadro FX 4600": [
+            430,
+            333.25
+      ],
+      "Quadro FX 4700 X2": [
+            676,
+            "NA"
+      ],
+      "Quadro FX 4800": [
+            991,
+            204.0
+      ],
+      "Quadro FX 500/600 PCI": [
+            14,
+            "NA"
+      ],
+      "Quadro FX 500/FX 600": [
+            7,
+            "NA"
+      ],
+      "Quadro FX 540": [
+            80,
+            59.99
+      ],
+      "Quadro FX 550": [
+            63,
+            287.82
+      ],
+      "Quadro FX 5500": [
+            242,
+            1999.0
+      ],
+      "Quadro FX 560": [
+            113,
+            150.25
+      ],
+      "Quadro FX 5600": [
+            525,
+            295.0
+      ],
+      "Quadro FX 570": [
+            232,
+            115.0
+      ],
+      "Quadro FX 570M": [
+            104,
+            "NA"
+      ],
+      "Quadro FX 580": [
+            156,
+            130.0
+      ],
+      "Quadro FX 5800": [
+            1216,
+            274.0
+      ],
+      "Quadro FX 770M": [
+            170,
+            527.0
+      ],
+      "Quadro FX 880M": [
+            215,
+            "NA"
+      ],
+      "Quadro FX Go1400": [
+            101,
+            "NA"
+      ],
+      "Quadro GP100": [
+            15607,
+            "NA"
+      ],
+      "Quadro GV100": [
+            20599,
+            8999.0
+      ],
+      "Quadro K1000M": [
+            785,
+            69.95
+      ],
+      "Quadro K1100M": [
+            1082,
+            322.99
+      ],
+      "Quadro K1200": [
+            2896,
+            285.29
+      ],
+      "Quadro K2000": [
+            1568,
+            294.0
+      ],
+      "Quadro K2000D": [
+            1582,
+            339.99
+      ],
+      "Quadro K2000M": [
+            1015,
+            144.04
+      ],
+      "Quadro K2100M": [
+            1363,
+            415.99
+      ],
+      "Quadro K2200": [
+            3546,
+            268.3
+      ],
+      "Quadro K2200M": [
+            3440,
+            124.95
+      ],
+      "Quadro K3000M": [
+            1645,
+            407.56
+      ],
+      "Quadro K3100M": [
+            2270,
+            399.95
+      ],
+      "Quadro K4000": [
+            2702,
+            270.0
+      ],
+      "Quadro K4000M": [
+            1882,
+            254.0
+      ],
+      "Quadro K4100M": [
+            2649,
+            261.29
+      ],
+      "Quadro K420": [
+            762,
+            269.0
+      ],
+      "Quadro K4200": [
+            4314,
+            249.0
+      ],
+      "Quadro K5000": [
+            3977,
+            249.0
+      ],
+      "Quadro K5000M": [
+            2763,
+            508.91
+      ],
+      "Quadro K5100M": [
+            3151,
+            1108.84
+      ],
+      "Quadro K510M": [
+            610,
+            "NA"
+      ],
+      "Quadro K5200": [
+            6026,
+            415.0
+      ],
+      "Quadro K600": [
+            751,
+            60.24
+      ],
+      "Quadro K6000": [
+            8052,
+            210.66
+      ],
+      "Quadro K610M": [
+            724,
+            240.0
+      ],
+      "Quadro K620": [
+            2240,
+            2029.99
+      ],
+      "Quadro K620M": [
+            1162,
+            "NA"
+      ],
+      "Quadro M1000M": [
+            2898,
+            85.99
+      ],
+      "Quadro M1200": [
+            3270,
+            "NA"
+      ],
+      "Quadro M2000": [
+            3961,
+            264.24
+      ],
+      "Quadro M2000M": [
+            3461,
+            213.16
+      ],
+      "Quadro M2200": [
+            4295,
+            249.99
+      ],
+      "Quadro M3000M": [
+            5501,
+            159.95
+      ],
+      "Quadro M4000": [
+            6668,
+            362.0
+      ],
+      "Quadro M4000M": [
+            6250,
+            254.91
+      ],
+      "Quadro M5000": [
+            9389,
+            499.0
+      ],
+      "Quadro M5000M": [
+            7052,
+            546.92
+      ],
+      "Quadro M500M": [
+            1168,
+            "NA"
+      ],
+      "Quadro M520": [
+            1870,
+            "NA"
+      ],
+      "Quadro M5500": [
+            7915,
+            "NA"
+      ],
+      "Quadro M6000": [
+            11809,
+            4827.53
+      ],
+      "Quadro M6000 24GB": [
+            11785,
+            "NA"
+      ],
+      "Quadro M600M": [
+            2145,
+            251.99
+      ],
+      "Quadro M620": [
+            2832,
+            "NA"
+      ],
+      "Quadro NVS 110M": [
+            47,
+            "NA"
+      ],
+      "Quadro NVS 120M": [
+            46,
+            "NA"
+      ],
+      "Quadro NVS 130M": [
+            97,
+            "NA"
+      ],
+      "Quadro NVS 135M": [
+            66,
+            "NA"
+      ],
+      "Quadro NVS 140M": [
+            69,
+            "NA"
+      ],
+      "Quadro NVS 150M": [
+            70,
+            "NA"
+      ],
+      "Quadro NVS 160M": [
+            137,
+            "NA"
+      ],
+      "Quadro NVS 210S": [
+            23,
+            "NA"
+      ],
+      "Quadro NVS 210S / GeForce 6150LE": [
+            20,
+            "NA"
+      ],
+      "Quadro NVS 280 PCI": [
+            8,
+            130.0
+      ],
+      "Quadro NVS 280 SD": [
+            2,
+            "NA"
+      ],
+      "Quadro NVS 285": [
+            42,
+            169.86
+      ],
+      "Quadro NVS 285 128MB": [
+            38,
+            55.0
+      ],
+      "Quadro NVS 290": [
+            226,
+            59.0
+      ],
+      "Quadro NVS 295": [
+            79,
+            63.0
+      ],
+      "Quadro NVS 320M": [
+            208,
+            "NA"
+      ],
+      "Quadro NVS 420": [
+            69,
+            150.0
+      ],
+      "Quadro NVS 440": [
+            37,
+            228.87
+      ],
+      "Quadro NVS 450": [
+            66,
+            159.0
+      ],
+      "Quadro NVS 510M": [
+            253,
+            "NA"
+      ],
+      "Quadro NVS 55/280 PCI": [
+            6,
+            "NA"
+      ],
+      "Quadro P1000": [
+            4416,
+            289.99
+      ],
+      "Quadro P2000": [
+            6913,
+            439.6
+      ],
+      "Quadro P2000 with Max-Q Design": [
+            5131,
+            "NA"
+      ],
+      "Quadro P2200": [
+            9371,
+            459.8
+      ],
+      "Quadro P3000": [
+            6609,
+            "NA"
+      ],
+      "Quadro P3200": [
+            9008,
+            389.3
+      ],
+      "Quadro P3200 with Max-Q Design": [
+            9246,
+            "NA"
+      ],
+      "Quadro P400": [
+            1598,
+            201.17
+      ],
+      "Quadro P4000": [
+            11638,
+            556.19
+      ],
+      "Quadro P4000 with Max-Q Design": [
+            9082,
+            "NA"
+      ],
+      "Quadro P4200": [
+            10312,
+            "NA"
+      ],
+      "Quadro P4200 with Max-Q Design": [
+            11019,
+            "NA"
+      ],
+      "Quadro P500": [
+            1575,
+            "NA"
+      ],
+      "Quadro P5000": [
+            12199,
+            1868.99
+      ],
+      "Quadro P520": [
+            2104,
+            1499.0
+      ],
+      "Quadro P5200": [
+            12631,
+            "NA"
+      ],
+      "Quadro P5200 with Max-Q Design": [
+            12608,
+            "NA"
+      ],
+      "Quadro P600": [
+            3260,
+            211.36
+      ],
+      "Quadro P6000": [
+            15299,
+            3250.0
+      ],
+      "Quadro P620": [
+            3589,
+            574.55
+      ],
+      "Quadro RTX 3000": [
+            11106,
+            "NA"
+      ],
+      "Quadro RTX 3000 with Max-Q Design": [
+            8506,
+            "NA"
+      ],
+      "Quadro RTX 4000": [
+            15448,
+            899.0
+      ],
+      "Quadro RTX 4000 (Mobile)": [
+            12602,
+            "NA"
+      ],
+      "Quadro RTX 4000 with Max-Q Design": [
+            12533,
+            "NA"
+      ],
+      "Quadro RTX 5000": [
+            16060,
+            "NA"
+      ],
+      "Quadro RTX 5000 (Mobile)": [
+            14832,
+            "NA"
+      ],
+      "Quadro RTX 5000 with Max-Q Design": [
+            13592,
+            "NA"
+      ],
+      "Quadro RTX 6000": [
+            19240,
+            6300.0
+      ],
+      "Quadro RTX 8000": [
+            19402,
+            4741.49
+      ],
+      "Quadro T1000": [
+            6595,
+            378.99
+      ],
+      "Quadro T1000 with Max-Q Design": [
+            6676,
+            "NA"
+      ],
+      "Quadro T2000": [
+            7161,
+            528.35
+      ],
+      "Quadro T2000 with Max-Q Design": [
+            6930,
+            "NA"
+      ],
+      "Quadro2 MXR/EX": [
+            4,
+            "NA"
+      ],
+      "Quadro2 Pro": [
+            1,
+            "NA"
+      ],
+      "Quadro4 380 XGL": [
+            6,
+            "NA"
+      ],
+      "Quadro4 900 XGL": [
+            4,
+            "NA"
+      ],
+      "Quadro4 980 XGL": [
+            5,
+            341.43
+      ],
+      "Qualcomm Adreno 540 GPU": [
+            118,
+            "NA"
+      ],
+      "Qualcomm Adreno 618 GPU": [
+            124,
+            "NA"
+      ],
+      "Qualcomm Adreno 630 GPU": [
+            282,
+            "NA"
+      ],
+      "Qualcomm Adreno 675 GPU": [
+            539,
+            "NA"
+      ],
+      "Qualcomm Adreno 680 GPU": [
+            627,
+            "NA"
+      ],
+      "Qualcomm Adreno 685 GPU": [
+            892,
+            "NA"
+      ],
+      "Qualcomm Adreno 690 GPU": [
+            972,
+            "NA"
+      ],
+      "Qualcomm Adreno 7c+ Gen 3": [
+            591,
+            "NA"
+      ],
+      "Qualcomm Adreno 8cx Gen 3": [
+            1930,
+            "NA"
+      ],
+      "QXL KMDOD": [
+            18,
+            "NA"
+      ],
+      "Radeon 2100": [
+            59,
+            190.99
+      ],
+      "Radeon 3000": [
+            98,
+            319.0
+      ],
+      "Radeon 3015e": [
+            354,
+            "NA"
+      ],
+      "Radeon 3020e": [
+            471,
+            "NA"
+      ],
+      "Radeon 3100": [
+            73,
+            179.81
+      ],
+      "Radeon 520": [
+            860,
+            89.99
+      ],
+      "Radeon 530": [
+            1004,
+            "NA"
+      ],
+      "Radeon 535": [
+            1071,
+            "NA"
+      ],
+      "Radeon 535DX": [
+            799,
+            "NA"
+      ],
+      "Radeon 540": [
+            1352,
+            "NA"
+      ],
+      "Radeon 540X": [
+            1431,
+            "NA"
+      ],
+      "Radeon 550": [
+            1772,
+            74.99
+      ],
+      "Radeon 550X": [
+            1480,
+            "NA"
+      ],
+      "Radeon 610M": [
+            1102,
+            "NA"
+      ],
+      "Radeon 620": [
+            897,
+            "NA"
+      ],
+      "Radeon 625": [
+            1116,
+            "NA"
+      ],
+      "Radeon 630": [
+            1244,
+            "NA"
+      ],
+      "Radeon 6600M": [
+            518,
+            "NA"
+      ],
+      "Radeon 6750M": [
+            911,
+            "NA"
+      ],
+      "Radeon 680M Ryzen 7 7735HS": [
+            6179,
+            "NA"
+      ],
+      "Radeon 7000 / Radeon VE": [
+            2,
+            "NA"
+      ],
+      "RADEON 7000 / RADEON VE Family": [
+            3,
+            "NA"
+      ],
+      "RADEON 7200": [
+            2,
+            599.99
+      ],
+      "Radeon 740M": [
+            3376,
+            "NA"
+      ],
+      "RADEON 7500": [
+            3,
+            177.25
+      ],
+      "RADEON 7500 Family": [
+            4,
+            "NA"
+      ],
+      "Radeon 780M": [
+            7239,
+            "NA"
+      ],
+      "RADEON 8500 Family": [
+            6,
+            "NA"
+      ],
+      "RADEON 9000": [
+            4,
+            "NA"
+      ],
+      "RADEON 9000 Family": [
+            3,
+            "NA"
+      ],
+      "RADEON 9100 Family": [
+            6,
+            "NA"
+      ],
+      "RADEON 9100 IGP": [
+            5,
+            "NA"
+      ],
+      "RADEON 9200": [
+            3,
+            153.63
+      ],
+      "RADEON 9200 LE Family": [
+            2,
+            "NA"
+      ],
+      "RADEON 9200 PRO Family": [
+            2,
+            "NA"
+      ],
+      "RADEON 9200 SE": [
+            2,
+            "NA"
+      ],
+      "RADEON 9250": [
+            2,
+            194.0
+      ],
+      "RADEON 9500": [
+            36,
+            40.5
+      ],
+      "RADEON 9500 PRO / 9700": [
+            41,
+            "NA"
+      ],
+      "RADEON 9550": [
+            34,
+            291.74
+      ],
+      "Radeon 9550 / X1050": [
+            29,
+            "NA"
+      ],
+      "RADEON 9600 Family": [
+            25,
+            "NA"
+      ],
+      "RADEON 9600 PRO": [
+            42,
+            "NA"
+      ],
+      "RADEON 9600 PRO Family": [
+            26,
+            "NA"
+      ],
+      "RADEON 9600 TX Family": [
+            18,
+            "NA"
+      ],
+      "RADEON 9600 XT": [
+            35,
+            "NA"
+      ],
+      "RADEON 9600SE": [
+            27,
+            "NA"
+      ],
+      "RADEON 9700 PRO": [
+            53,
+            "NA"
+      ],
+      "Radeon 9700 TX w/TV-Out": [
+            44,
+            "NA"
+      ],
+      "RADEON 9800": [
+            57,
+            325.0
+      ],
+      "RADEON 9800 PRO": [
+            59,
+            "NA"
+      ],
+      "RADEON 9800 SE": [
+            23,
+            "NA"
+      ],
+      "RADEON 9800 XT": [
+            56,
+            "NA"
+      ],
+      "RADEON A9800XT": [
+            22,
+            "NA"
+      ],
+      "Radeon Athlon Gold 3150U": [
+            716,
+            "NA"
+      ],
+      "Radeon Athlon Gold PRO 4150GE": [
+            1573,
+            "NA"
+      ],
+      "Radeon Athlon PRO 3045B": [
+            429,
+            "NA"
+      ],
+      "Radeon Athlon Silver 3050U": [
+            681,
+            "NA"
+      ],
+      "RADEON E2400": [
+            51,
+            "NA"
+      ],
+      "RADEON E4690": [
+            405,
+            "NA"
+      ],
+      "Radeon E6460": [
+            323,
+            "NA"
+      ],
+      "Radeon E6465": [
+            231,
+            "NA"
+      ],
+      "Radeon E6760": [
+            876,
+            239.99
+      ],
+      "Radeon E8860": [
+            1686,
+            "NA"
+      ],
+      "Radeon E8870PCIe": [
+            3368,
+            "NA"
+      ],
+      "Radeon Eng Sample: 100-000000085-40_35/24_Y": [
+            1440,
+            "NA"
+      ],
+      "Radeon Eng Sample: 100-000000262-30_Y": [
+            2415,
+            "NA"
+      ],
+      "Radeon Eng Sample: 100-000000285-40_Y": [
+            2365,
+            "NA"
+      ],
+      "Radeon Eng Sample: 100-000000287-40_Y": [
+            1861,
+            "NA"
+      ],
+      "Radeon Eng Sample: 100-000000300-40_Y": [
+            2670,
+            "NA"
+      ],
+      "Radeon Eng Sample: 100-000000371-40_42/18_Y": [
+            2479,
+            "NA"
+      ],
+      "Radeon Eng Sample: 100-000000561-40_Y": [
+            4543,
+            "NA"
+      ],
+      "Radeon HD 2350": [
+            76,
+            "NA"
+      ],
+      "Radeon HD 2400": [
+            120,
+            88.2
+      ],
+      "Radeon HD 2400 PCI": [
+            14,
+            "NA"
+      ],
+      "Radeon HD 2400 Pro": [
+            114,
+            "NA"
+      ],
+      "Radeon HD 2400 XT": [
+            118,
+            "NA"
+      ],
+      "Radeon HD 2600 PRO": [
+            211,
+            188.44
+      ],
+      "Radeon HD 2600 Pro AGP": [
+            110,
+            "NA"
+      ],
+      "Radeon HD 2600 XT": [
+            282,
+            159.0
+      ],
+      "Radeon HD 2900 GT": [
+            292,
+            "NA"
+      ],
+      "Radeon HD 2900 PRO": [
+            627,
+            "NA"
+      ],
+      "Radeon HD 2900 XT": [
+            659,
+            "NA"
+      ],
+      "Radeon HD 3000": [
+            95,
+            "NA"
+      ],
+      "Radeon HD 3200": [
+            82,
+            "NA"
+      ],
+      "Radeon HD 3300": [
+            126,
+            "NA"
+      ],
+      "Radeon HD 3450": [
+            155,
+            89.0
+      ],
+      "Radeon HD 3470": [
+            128,
+            109.65
+      ],
+      "Radeon HD 3650 AGP": [
+            150,
+            185.0
+      ],
+      "Radeon HD 3670": [
+            151,
+            "NA"
+      ],
+      "Radeon HD 3850": [
+            399,
+            "NA"
+      ],
+      "Radeon HD 3850 AGP": [
+            432,
+            "NA"
+      ],
+      "Radeon HD 3850 X2": [
+            822,
+            "NA"
+      ],
+      "Radeon HD 3870": [
+            559,
+            69.99
+      ],
+      "Radeon HD 3870 X2": [
+            708,
+            "NA"
+      ],
+      "Radeon HD 4200": [
+            111,
+            "NA"
+      ],
+      "Radeon HD 4250": [
+            122,
+            "NA"
+      ],
+      "Radeon HD 4270": [
+            109,
+            "NA"
+      ],
+      "Radeon HD 4290": [
+            140,
+            "NA"
+      ],
+      "Radeon HD 4300/4500 Serisi": [
+            155,
+            "NA"
+      ],
+      "Radeon HD 4330": [
+            108,
+            "NA"
+      ],
+      "Radeon HD 4350": [
+            116,
+            102.24
+      ],
+      "Radeon HD 4550": [
+            235,
+            156.0
+      ],
+      "Radeon HD 4650": [
+            228,
+            69.99
+      ],
+      "Radeon HD 4650 AGP": [
+            207,
+            "NA"
+      ],
+      "Radeon HD 4670": [
+            380,
+            142.96
+      ],
+      "Radeon HD 4770": [
+            894,
+            59.99
+      ],
+      "Radeon HD 4810": [
+            769,
+            "NA"
+      ],
+      "Radeon HD 4830": [
+            835,
+            59.99
+      ],
+      "Radeon HD 4850": [
+            938,
+            378.0
+      ],
+      "Radeon HD 4850 X2": [
+            1132,
+            "NA"
+      ],
+      "Radeon HD 4870": [
+            1388,
+            79.99
+      ],
+      "Radeon HD 4870 X2": [
+            1309,
+            "NA"
+      ],
+      "Radeon HD 4890": [
+            1514,
+            89.99
+      ],
+      "Radeon HD 5450": [
+            136,
+            94.96
+      ],
+      "Radeon HD 5470": [
+            268,
+            "NA"
+      ],
+      "Radeon HD 5550": [
+            370,
+            54.99
+      ],
+      "Radeon HD 5570": [
+            482,
+            179.99
+      ],
+      "Radeon HD 5600/5700": [
+            646,
+            "NA"
+      ],
+      "Radeon HD 5670": [
+            794,
+            67.0
+      ],
+      "Radeon HD 5750": [
+            1161,
+            69.99
+      ],
+      "Radeon HD 5770": [
+            1342,
+            189.99
+      ],
+      "Radeon HD 5830": [
+            1730,
+            258.99
+      ],
+      "Radeon HD 5850": [
+            1979,
+            288.99
+      ],
+      "Radeon HD 5870": [
+            2217,
+            295.0
+      ],
+      "Radeon HD 5970": [
+            2307,
+            179.99
+      ],
+      "Radeon HD 6230": [
+            179,
+            "NA"
+      ],
+      "Radeon HD 6250": [
+            93,
+            "NA"
+      ],
+      "Radeon HD 6290": [
+            105,
+            "NA"
+      ],
+      "Radeon HD 6290M": [
+            140,
+            "NA"
+      ],
+      "Radeon HD 6300M": [
+            143,
+            "NA"
+      ],
+      "Radeon HD 6310": [
+            122,
+            "NA"
+      ],
+      "Radeon HD 6320": [
+            148,
+            554.99
+      ],
+      "Radeon HD 6320 Graphic": [
+            216,
+            "NA"
+      ],
+      "Radeon HD 6320M": [
+            198,
+            "NA"
+      ],
+      "RADEON HD 6350": [
+            140,
+            59.0
+      ],
+      "Radeon HD 6370D": [
+            254,
+            "NA"
+      ],
+      "Radeon HD 6370M": [
+            275,
+            "NA"
+      ],
+      "Radeon HD 6380G": [
+            207,
+            399.99
+      ],
+      "Radeon HD 6410D": [
+            238,
+            "NA"
+      ],
+      "Radeon HD 6430M": [
+            192,
+            "NA"
+      ],
+      "Radeon HD 6450": [
+            198,
+            89.0
+      ],
+      "Radeon HD 6450 + 8470D Dual": [
+            762,
+            "NA"
+      ],
+      "Radeon HD 6450A": [
+            260,
+            "NA"
+      ],
+      "Radeon HD 6470M": [
+            227,
+            569.99
+      ],
+      "Radeon HD 6480G": [
+            260,
+            "NA"
+      ],
+      "Radeon HD 6480M": [
+            353,
+            "NA"
+      ],
+      "Radeon HD 6490M": [
+            377,
+            1193.03
+      ],
+      "Radeon HD 6520G": [
+            298,
+            "NA"
+      ],
+      "Radeon HD 6530D": [
+            336,
+            "NA"
+      ],
+      "Radeon HD 6550A": [
+            707,
+            "NA"
+      ],
+      "Radeon HD 6550D": [
+            401,
+            "NA"
+      ],
+      "Radeon HD 6570": [
+            559,
+            64.99
+      ],
+      "Radeon HD 6610M": [
+            565,
+            "NA"
+      ],
+      "Radeon HD 6620G": [
+            351,
+            "NA"
+      ],
+      "Radeon HD 6630M": [
+            684,
+            "NA"
+      ],
+      "Radeon HD 6650A": [
+            835,
+            "NA"
+      ],
+      "Radeon HD 6650M": [
+            753,
+            "NA"
+      ],
+      "Radeon HD 6670": [
+            729,
+            68.99
+      ],
+      "Radeon HD 6670 + 6670 Dual": [
+            646,
+            "NA"
+      ],
+      "Radeon HD 6670 + 7660D Dual": [
+            1492,
+            "NA"
+      ],
+      "Radeon HD 6670/7670": [
+            945,
+            "NA"
+      ],
+      "Radeon HD 6700M": [
+            1016,
+            "NA"
+      ],
+      "Radeon HD 6750": [
+            1035,
+            79.99
+      ],
+      "Radeon HD 6750M": [
+            937,
+            "NA"
+      ],
+      "Radeon HD 6770": [
+            1244,
+            264.99
+      ],
+      "Radeon HD 6770M": [
+            964,
+            "NA"
+      ],
+      "Radeon HD 6790": [
+            1601,
+            294.0
+      ],
+      "Radeon HD 6800M": [
+            798,
+            "NA"
+      ],
+      "Radeon HD 6850": [
+            1971,
+            85.0
+      ],
+      "Radeon HD 6850 X2": [
+            2534,
+            "NA"
+      ],
+      "Radeon HD 6870": [
+            2218,
+            275.0
+      ],
+      "Radeon HD 6900M": [
+            1711,
+            "NA"
+      ],
+      "Radeon HD 6950": [
+            2630,
+            139.99
+      ],
+      "Radeon HD 6970": [
+            2832,
+            149.99
+      ],
+      "Radeon HD 6970M": [
+            2270,
+            215.99
+      ],
+      "Radeon HD 6990": [
+            3013,
+            498.49
+      ],
+      "Radeon HD 7290": [
+            111,
+            "NA"
+      ],
+      "Radeon HD 7290M": [
+            123,
+            "NA"
+      ],
+      "Radeon HD 7310": [
+            128,
+            "NA"
+      ],
+      "Radeon HD 7310 - Carte graphique": [
+            174,
+            "NA"
+      ],
+      "Radeon HD 7310G": [
+            180,
+            "NA"
+      ],
+      "Radeon HD 7310M": [
+            166,
+            "NA"
+      ],
+      "Radeon HD 7340": [
+            153,
+            552.69
+      ],
+      "Radeon HD 7340G": [
+            196,
+            "NA"
+      ],
+      "Radeon HD 7340M": [
+            221,
+            "NA"
+      ],
+      "Radeon HD 7350": [
+            165,
+            "NA"
+      ],
+      "Radeon HD 7400G": [
+            267,
+            "NA"
+      ],
+      "Radeon HD 7420G": [
+            308,
+            "NA"
+      ],
+      "Radeon HD 7450": [
+            223,
+            49.99
+      ],
+      "Radeon HD 7450A": [
+            288,
+            "NA"
+      ],
+      "Radeon HD 7450M": [
+            329,
+            "NA"
+      ],
+      "Radeon HD 7470": [
+            289,
+            81.37
+      ],
+      "Radeon HD 7470M": [
+            407,
+            "NA"
+      ],
+      "Radeon HD 7480D": [
+            281,
+            "NA"
+      ],
+      "Radeon HD 7500G": [
+            301,
+            "NA"
+      ],
+      "Radeon HD 7500G + 7500M/7600M Dual": [
+            616,
+            "NA"
+      ],
+      "Radeon HD 7500G + 7550M Dual": [
+            497,
+            "NA"
+      ],
+      "Radeon HD 7500G + HD 7500M/7600M Dual": [
+            355,
+            "NA"
+      ],
+      "Radeon HD 7520G": [
+            315,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7400M Dual": [
+            486,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7470M Dual": [
+            542,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7500/7600 Dual": [
+            582,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7600M Dual": [
+            591,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7610M Dual": [
+            588,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7650M Dual": [
+            453,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7670M Dual": [
+            523,
+            "NA"
+      ],
+      "Radeon HD 7520G + 7700M Dual": [
+            1060,
+            "NA"
+      ],
+      "Radeon HD 7520G + 8600/8700M Dual": [
+            311,
+            "NA"
+      ],
+      "Radeon HD 7520G + 8750M Dual": [
+            376,
+            "NA"
+      ],
+      "Radeon HD 7520G + HD 7400M Dual": [
+            544,
+            "NA"
+      ],
+      "Radeon HD 7520G + HD 7500/7600 Dual": [
+            832,
+            "NA"
+      ],
+      "Radeon HD 7520G + HD 7600M Dual": [
+            447,
+            "NA"
+      ],
+      "Radeon HD 7520G + HD 7670M Dual": [
+            495,
+            "NA"
+      ],
+      "Radeon HD 7520G + HD 7700M Dual": [
+            574,
+            "NA"
+      ],
+      "Radeon HD 7520G + HD 8600/8700M Dual": [
+            623,
+            "NA"
+      ],
+      "Radeon HD 7520G + HD 8750M Dual": [
+            651,
+            "NA"
+      ],
+      "Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760": [
+            574,
+            "NA"
+      ],
+      "Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D": [
+            364,
+            "NA"
+      ],
+      "Radeon HD 7540D": [
+            330,
+            "NA"
+      ],
+      "Radeon HD 7540D + 6570 Dual": [
+            719,
+            "NA"
+      ],
+      "Radeon HD 7540D + 7500 Dual": [
+            821,
+            "NA"
+      ],
+      "Radeon HD 7540D + HD 6450 Dual": [
+            643,
+            "NA"
+      ],
+      "Radeon HD 7550M": [
+            464,
+            "NA"
+      ],
+      "Radeon HD 7550M/7650M": [
+            728,
+            "NA"
+      ],
+      "Radeon HD 7560D": [
+            461,
+            "NA"
+      ],
+      "Radeon HD 7560D + 6450 Dual": [
+            568,
+            "NA"
+      ],
+      "Radeon HD 7560D + 6570 Dual": [
+            833,
+            "NA"
+      ],
+      "Radeon HD 7560D + 6670 Dual": [
+            1130,
+            "NA"
+      ],
+      "Radeon HD 7560D + 7560D Dual": [
+            982,
+            "NA"
+      ],
+      "Radeon HD 7560D + 7570 Dual": [
+            985,
+            "NA"
+      ],
+      "Radeon HD 7560D + 7670 Dual": [
+            1426,
+            "NA"
+      ],
+      "Radeon HD 7560D + 7700 Dual": [
+            1919,
+            "NA"
+      ],
+      "Radeon HD 7560D + HD 6570 Dual": [
+            1237,
+            "NA"
+      ],
+      "Radeon HD 7560D + HD 6670 Dual": [
+            1554,
+            "NA"
+      ],
+      "Radeon HD 7560D + HD 7000 Dual": [
+            534,
+            "NA"
+      ],
+      "Radeon HD 7560D + HD 7600 Dual": [
+            1258,
+            "NA"
+      ],
+      "Radeon HD 7560D + HD 7670 Dual": [
+            1380,
+            "NA"
+      ],
+      "Radeon HD 7560D + HD 7700 Dual": [
+            1346,
+            "NA"
+      ],
+      "Radeon HD 7560D + HD 8570 Dual": [
+            935,
+            "NA"
+      ],
+      "Radeon HD 7560D + R5 235 Dual": [
+            563,
+            "NA"
+      ],
+      "Radeon HD 7570": [
+            626,
+            102.49
+      ],
+      "Radeon HD 7570M": [
+            430,
+            "NA"
+      ],
+      "Radeon HD 7570M/HD 7670M": [
+            699,
+            "NA"
+      ],
+      "Radeon HD 7580D": [
+            350,
+            "NA"
+      ],
+      "Radeon HD 7600G": [
+            309,
+            "NA"
+      ],
+      "Radeon HD 7600G + 6400M Dual": [
+            376,
+            "NA"
+      ],
+      "Radeon HD 7600G + 7450M Dual": [
+            389,
+            "NA"
+      ],
+      "Radeon HD 7600G + 7500M/7600M Dual": [
+            405,
+            "NA"
+      ],
+      "Radeon HD 7600G + 7550M Dual": [
+            423,
+            "NA"
+      ],
+      "Radeon HD 7600G + 8500M/8700M Dual": [
+            333,
+            "NA"
+      ],
+      "Radeon HD 7600G + HD 7400M Dual": [
+            328,
+            "NA"
+      ],
+      "Radeon HD 7600G + HD 7500M/7600M Dual": [
+            476,
+            "NA"
+      ],
+      "Radeon HD 7600G + HD 7550M Dual": [
+            509,
+            "NA"
+      ],
+      "Radeon HD 7600G + HD 8670M Dual": [
+            543,
+            "NA"
+      ],
+      "Radeon HD 7600G + HD Dual": [
+            435,
+            "NA"
+      ],
+      "Radeon HD 7600G N HD 7600G + HD ON HD Dual": [
+            526,
+            "NA"
+      ],
+      "Radeon HD 7600M + 7600M Dual": [
+            773,
+            "NA"
+      ],
+      "Radeon HD 7610M": [
+            632,
+            "NA"
+      ],
+      "Radeon HD 7620G": [
+            359,
+            "NA"
+      ],
+      "Radeon HD 7620G + 8600M Dual": [
+            508,
+            "NA"
+      ],
+      "Radeon HD 7620G + 8670M Dual": [
+            577,
+            "NA"
+      ],
+      "Radeon HD 7620G + HD 8600M Dual": [
+            442,
+            "NA"
+      ],
+      "Radeon HD 7620G + HD 8670M Dual": [
+            507,
+            "NA"
+      ],
+      "Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D": [
+            451,
+            "NA"
+      ],
+      "Radeon HD 7640G": [
+            461,
+            "NA"
+      ],
+      "Radeon HD 7640G + 6400M Dual": [
+            526,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7400M Dual": [
+            637,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7450M Dual": [
+            754,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7470M Dual": [
+            595,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7500/7600 Dual": [
+            627,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7500M/7600M Dual": [
+            775,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7600M Dual": [
+            705,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7610M Dual": [
+            510,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7650M Dual": [
+            747,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7670M Dual": [
+            644,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7690M Dual": [
+            945,
+            "NA"
+      ],
+      "Radeon HD 7640G + 7700M Dual": [
+            690,
+            "NA"
+      ],
+      "Radeon HD 7640G + 8500M Dual": [
+            585,
+            "NA"
+      ],
+      "Radeon HD 7640G + 8570M Dual": [
+            558,
+            "NA"
+      ],
+      "Radeon HD 7640G + 8600/8700M Dual": [
+            688,
+            "NA"
+      ],
+      "Radeon HD 7640G + 8600M Dual": [
+            249,
+            "NA"
+      ],
+      "Radeon HD 7640G + 8670M Dual": [
+            558,
+            "NA"
+      ],
+      "Radeon HD 7640G + 8750M Dual": [
+            654,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 7400M Dual": [
+            621,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 7500/7600 Dual": [
+            423,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 7600M Dual": [
+            704,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 7600M N HD 7600M Dual": [
+            406,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 7670M Dual": [
+            518,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 7700M Dual": [
+            589,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 7700M N HD 7700M Dual": [
+            630,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 8500M Dual": [
+            607,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 8500M N HD 8500M Dual": [
+            665,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 8570M Dual": [
+            474,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 8600/8700M Dual": [
+            586,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 8670M Dual": [
+            677,
+            "NA"
+      ],
+      "Radeon HD 7640G + HD 8750M Dual": [
+            996,
+            "NA"
+      ],
+      "Radeon HD 7640G + R5 M200 Dual": [
+            559,
+            "NA"
+      ],
+      "Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D": [
+            824,
+            "NA"
+      ],
+      "Radeon HD 7640G N HD 7640G + HD 7670M Dual": [
+            679,
+            "NA"
+      ],
+      "Radeon HD 7640G N HD 7640G + HD 8570M Dual": [
+            422,
+            "NA"
+      ],
+      "Radeon HD 7650A": [
+            572,
+            262.0
+      ],
+      "Radeon HD 7650M": [
+            441,
+            "NA"
+      ],
+      "Radeon HD 7660D": [
+            502,
+            "NA"
+      ],
+      "Radeon HD 7660D + 6570 Dual": [
+            1100,
+            "NA"
+      ],
+      "Radeon HD 7660D + 6670 Dual": [
+            1238,
+            "NA"
+      ],
+      "Radeon HD 7660D + 7470 Dual": [
+            465,
+            "NA"
+      ],
+      "Radeon HD 7660D + 7500 Dual": [
+            1121,
+            "NA"
+      ],
+      "Radeon HD 7660D + 7540D Dual": [
+            1204,
+            "NA"
+      ],
+      "Radeon HD 7660D + 7670 Dual": [
+            1061,
+            "NA"
+      ],
+      "Radeon HD 7660D + HD 6670 Dual": [
+            1484,
+            "NA"
+      ],
+      "Radeon HD 7660D + HD 7000 Dual": [
+            633,
+            "NA"
+      ],
+      "Radeon HD 7660D + HD 7400 Dual": [
+            339,
+            "NA"
+      ],
+      "Radeon HD 7660D + HD 7700 Dual": [
+            1958,
+            "NA"
+      ],
+      "Radeon HD 7660D + R5 235 Dual": [
+            523,
+            "NA"
+      ],
+      "Radeon HD 7660D + R7 240 Dual": [
+            941,
+            "NA"
+      ],
+      "Radeon HD 7660G": [
+            473,
+            "NA"
+      ],
+      "Radeon HD 7660G + 7400M Dual": [
+            588,
+            "NA"
+      ],
+      "Radeon HD 7660G + 7470M Dual": [
+            630,
+            "NA"
+      ],
+      "Radeon HD 7660G + 7600M Dual": [
+            831,
+            "NA"
+      ],
+      "Radeon HD 7660G + 7610M Dual": [
+            745,
+            "NA"
+      ],
+      "Radeon HD 7660G + 7670M Dual": [
+            743,
+            "NA"
+      ],
+      "Radeon HD 7660G + 7700M Dual": [
+            757,
+            "NA"
+      ],
+      "Radeon HD 7660G + 7730M Dual": [
+            931,
+            "NA"
+      ],
+      "Radeon HD 7660G + 8600M Dual": [
+            445,
+            "NA"
+      ],
+      "Radeon HD 7660G + 8670M Dual": [
+            587,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7500/7600 7500/7600 Dual": [
+            1002,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7500/7600 Dual": [
+            760,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7500M/7600M Dual": [
+            999,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7600M Dual": [
+            523,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7600M N HD 7600M Dual": [
+            460,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7670M Dual": [
+            706,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7700M Dual": [
+            777,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 7730M Dual": [
+            881,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 8500M Dual": [
+            758,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 8600/8700M Dual": [
+            747,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 8600M Dual": [
+            363,
+            "NA"
+      ],
+      "Radeon HD 7660G + HD 8670M Dual": [
+            711,
+            "NA"
+      ],
+      "Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D": [
+            722,
+            "NA"
+      ],
+      "Radeon HD 7660G N HD 7660G + HD 7670M Dual": [
+            704,
+            "NA"
+      ],
+      "Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D": [
+            966,
+            "NA"
+      ],
+      "Radeon HD 7670": [
+            820,
+            "NA"
+      ],
+      "Radeon HD 7670A": [
+            1050,
+            "NA"
+      ],
+      "Radeon HD 7670M": [
+            473,
+            629.99
+      ],
+      "Radeon HD 7670M + 7670M Dual": [
+            738,
+            "NA"
+      ],
+      "Radeon HD 7690M": [
+            1003,
+            "NA"
+      ],
+      "Radeon HD 7690M XT": [
+            1009,
+            "NA"
+      ],
+      "Radeon HD 7700-serie": [
+            1899,
+            "NA"
+      ],
+      "Radeon HD 7730": [
+            1208,
+            232.7
+      ],
+      "Radeon HD 7730M": [
+            749,
+            "NA"
+      ],
+      "Radeon HD 7750": [
+            1701,
+            99.99
+      ],
+      "Radeon HD 7750M": [
+            1191,
+            "NA"
+      ],
+      "Radeon HD 7770": [
+            2172,
+            300.0
+      ],
+      "Radeon HD 7790": [
+            3090,
+            139.99
+      ],
+      "Radeon HD 7800-serie": [
+            4029,
+            "NA"
+      ],
+      "Radeon HD 7850": [
+            3853,
+            169.99
+      ],
+      "Radeon HD 7850M": [
+            1372,
+            "NA"
+      ],
+      "Radeon HD 7870": [
+            4638,
+            176.0
+      ],
+      "Radeon HD 7870 XT": [
+            4469,
+            "NA"
+      ],
+      "Radeon HD 7870M": [
+            1507,
+            "NA"
+      ],
+      "Radeon HD 7950 / R9 280": [
+            4764,
+            132.2
+      ],
+      "Radeon HD 7970 / R9 280X": [
+            5247,
+            246.99
+      ],
+      "Radeon HD 7970M": [
+            3846,
+            "NA"
+      ],
+      "Radeon HD 7990": [
+            5565,
+            399.99
+      ],
+      "Radeon HD 8180": [
+            138,
+            "NA"
+      ],
+      "Radeon HD 8210": [
+            184,
+            "NA"
+      ],
+      "Radeon HD 8210E": [
+            193,
+            "NA"
+      ],
+      "Radeon HD 8240": [
+            238,
+            "NA"
+      ],
+      "Radeon HD 8250": [
+            217,
+            "NA"
+      ],
+      "Radeon HD 8280": [
+            286,
+            "NA"
+      ],
+      "Radeon HD 8280E": [
+            236,
+            "NA"
+      ],
+      "Radeon HD 8280G": [
+            269,
+            "NA"
+      ],
+      "Radeon HD 8310E": [
+            340,
+            "NA"
+      ],
+      "Radeon HD 8330": [
+            251,
+            "NA"
+      ],
+      "Radeon HD 8330E": [
+            266,
+            "NA"
+      ],
+      "Radeon HD 8350": [
+            162,
+            99.81
+      ],
+      "Radeon HD 8350G": [
+            304,
+            "NA"
+      ],
+      "Radeon HD 8370D": [
+            319,
+            "NA"
+      ],
+      "Radeon HD 8400": [
+            261,
+            "NA"
+      ],
+      "Radeon HD 8400E": [
+            268,
+            "NA"
+      ],
+      "Radeon HD 8410G": [
+            435,
+            "NA"
+      ],
+      "Radeon HD 8450G": [
+            364,
+            "NA"
+      ],
+      "Radeon HD 8450G + 8600/8700M Dual": [
+            1070,
+            "NA"
+      ],
+      "Radeon HD 8450G + 8600M Dual": [
+            545,
+            "NA"
+      ],
+      "Radeon HD 8450G + 8670M Dual": [
+            474,
+            "NA"
+      ],
+      "Radeon HD 8450G + 8750M Dual": [
+            637,
+            "NA"
+      ],
+      "Radeon HD 8450G + HD 8600M Dual": [
+            452,
+            "NA"
+      ],
+      "Radeon HD 8450G + HD 8670M Dual": [
+            574,
+            "NA"
+      ],
+      "Radeon HD 8450G + HD 8750M Dual": [
+            503,
+            "NA"
+      ],
+      "Radeon HD 8450G + R5 M230 Dual": [
+            578,
+            "NA"
+      ],
+      "Radeon HD 8470": [
+            251,
+            "NA"
+      ],
+      "Radeon HD 8470D": [
+            361,
+            "NA"
+      ],
+      "Radeon HD 8470D + 6450 Dual": [
+            717,
+            "NA"
+      ],
+      "Radeon HD 8470D + 6570 Dual": [
+            837,
+            "NA"
+      ],
+      "Radeon HD 8470D + HD 6450 Dual": [
+            862,
+            "NA"
+      ],
+      "Radeon HD 8470D + HD 6670 Dual": [
+            1435,
+            "NA"
+      ],
+      "Radeon HD 8470D + HD 7500 Dual": [
+            1545,
+            "NA"
+      ],
+      "Radeon HD 8490": [
+            263,
+            89.99
+      ],
+      "Radeon HD 8500M": [
+            411,
+            "NA"
+      ],
+      "Radeon HD 8500M/8700M": [
+            852,
+            "NA"
+      ],
+      "Radeon HD 8510G": [
+            365,
+            "NA"
+      ],
+      "Radeon HD 8510G + 8500M Dual": [
+            596,
+            "NA"
+      ],
+      "Radeon HD 8510G + HD 8500M Dual": [
+            629,
+            "NA"
+      ],
+      "Radeon HD 8550D": [
+            685,
+            "NA"
+      ],
+      "Radeon HD 8550G": [
+            409,
+            "NA"
+      ],
+      "Radeon HD 8550G + 7600M Dual": [
+            901,
+            "NA"
+      ],
+      "Radeon HD 8550G + 8500M Dual": [
+            602,
+            "NA"
+      ],
+      "Radeon HD 8550G + 8570M Dual": [
+            532,
+            "NA"
+      ],
+      "Radeon HD 8550G + 8600/8700M Dual": [
+            802,
+            "NA"
+      ],
+      "Radeon HD 8550G + 8600M Dual": [
+            617,
+            "NA"
+      ],
+      "Radeon HD 8550G + 8670M Dual": [
+            579,
+            "NA"
+      ],
+      "Radeon HD 8550G + 8690M Dual": [
+            664,
+            "NA"
+      ],
+      "Radeon HD 8550G + 8750M Dual": [
+            795,
+            "NA"
+      ],
+      "Radeon HD 8550G + HD 7600M Dual": [
+            854,
+            "NA"
+      ],
+      "Radeon HD 8550G + HD 8500M Dual": [
+            558,
+            "NA"
+      ],
+      "Radeon HD 8550G + HD 8570M Dual": [
+            529,
+            "NA"
+      ],
+      "Radeon HD 8550G + HD 8600/8700M Dual": [
+            654,
+            "NA"
+      ],
+      "Radeon HD 8550G + HD 8600M Dual": [
+            593,
+            "NA"
+      ],
+      "Radeon HD 8550G + HD 8670M Dual": [
+            546,
+            "NA"
+      ],
+      "Radeon HD 8550G + HD 8750M Dual": [
+            819,
+            "NA"
+      ],
+      "Radeon HD 8550G + R5 M200 Dual": [
+            619,
+            "NA"
+      ],
+      "Radeon HD 8550G + R5 M230 Dual": [
+            487,
+            "NA"
+      ],
+      "Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D": [
+            611,
+            "NA"
+      ],
+      "Radeon HD 8570": [
+            962,
+            98.68
+      ],
+      "Radeon HD 8570 + 8670D Dual": [
+            620,
+            "NA"
+      ],
+      "Radeon HD 8570 + HD 7660D Dual": [
+            949,
+            "NA"
+      ],
+      "Radeon HD 8570D": [
+            436,
+            "NA"
+      ],
+      "Radeon HD 8570D + 6570 Dual": [
+            1239,
+            "NA"
+      ],
+      "Radeon HD 8570D + 6670 Dual": [
+            1039,
+            "NA"
+      ],
+      "Radeon HD 8570D + HD 6570 Dual": [
+            868,
+            "NA"
+      ],
+      "Radeon HD 8570D + HD 6670 Dual": [
+            1260,
+            "NA"
+      ],
+      "Radeon HD 8570D + HD 7000 Dual": [
+            753,
+            "NA"
+      ],
+      "Radeon HD 8570D + HD 7700 Dual": [
+            1834,
+            "NA"
+      ],
+      "Radeon HD 8570D + HD 8470 Dual": [
+            338,
+            "NA"
+      ],
+      "Radeon HD 8570D + HD 8570 Dual": [
+            1032,
+            "NA"
+      ],
+      "Radeon HD 8570D + HD8490 Dual": [
+            374,
+            "NA"
+      ],
+      "Radeon HD 8570D + R5 235 Dual": [
+            470,
+            "NA"
+      ],
+      "Radeon HD 8570D + R7 200 Dual": [
+            999,
+            "NA"
+      ],
+      "Radeon HD 8570D + R7 240 Dual": [
+            963,
+            "NA"
+      ],
+      "Radeon HD 8570M": [
+            421,
+            "NA"
+      ],
+      "Radeon HD 8600/8700M": [
+            1029,
+            "NA"
+      ],
+      "Radeon HD 8610G": [
+            428,
+            "NA"
+      ],
+      "Radeon HD 8610G + 8500M Dual": [
+            610,
+            "NA"
+      ],
+      "Radeon HD 8610G + 8600M Dual": [
+            588,
+            "NA"
+      ],
+      "Radeon HD 8610G + 8670M Dual": [
+            599,
+            "NA"
+      ],
+      "Radeon HD 8610G + HD 8500M Dual": [
+            645,
+            "NA"
+      ],
+      "Radeon HD 8610G + HD 8600M Dual": [
+            480,
+            "NA"
+      ],
+      "Radeon HD 8610G + HD 8670M Dual": [
+            577,
+            "NA"
+      ],
+      "Radeon HD 8610G + R5 M200 Dual": [
+            676,
+            "NA"
+      ],
+      "Radeon HD 8650D": [
+            396,
+            "NA"
+      ],
+      "Radeon HD 8650G": [
+            542,
+            "NA"
+      ],
+      "Radeon HD 8650G + 7600M Dual": [
+            741,
+            "NA"
+      ],
+      "Radeon HD 8650G + 7670M Dual": [
+            883,
+            "NA"
+      ],
+      "Radeon HD 8650G + 7700M Dual": [
+            1126,
+            "NA"
+      ],
+      "Radeon HD 8650G + 8500M Dual": [
+            626,
+            "NA"
+      ],
+      "Radeon HD 8650G + 8570M Dual": [
+            654,
+            "NA"
+      ],
+      "Radeon HD 8650G + 8600/8700M Dual": [
+            831,
+            "NA"
+      ],
+      "Radeon HD 8650G + 8600M Dual": [
+            613,
+            "NA"
+      ],
+      "Radeon HD 8650G + 8670M Dual": [
+            635,
+            "NA"
+      ],
+      "Radeon HD 8650G + 8750M Dual": [
+            786,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 7600M Dual": [
+            819,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 7670M Dual": [
+            634,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 8570M Dual": [
+            716,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 8600/8700M Dual": [
+            763,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 8600M Dual": [
+            606,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 8600M N HD 8600M Dual": [
+            757,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 8670M Dual": [
+            585,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 8750M Dual": [
+            778,
+            "NA"
+      ],
+      "Radeon HD 8650G + HD 8790M Dual": [
+            799,
+            "NA"
+      ],
+      "Radeon HD 8650G + R5 M200 Dual": [
+            722,
+            "NA"
+      ],
+      "Radeon HD 8650G + R5 M230 Dual": [
+            686,
+            "NA"
+      ],
+      "Radeon HD 8650G N HD 8650G + HD 8570M Dual": [
+            773,
+            "NA"
+      ],
+      "Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual": [
+            796,
+            "NA"
+      ],
+      "Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D": [
+            679,
+            "NA"
+      ],
+      "Radeon HD 8670D": [
+            535,
+            "NA"
+      ],
+      "Radeon HD 8670D + 6670 Dual": [
+            1361,
+            "NA"
+      ],
+      "Radeon HD 8670D + 7000 Dual": [
+            811,
+            "NA"
+      ],
+      "Radeon HD 8670D + 7700 Dual": [
+            1788,
+            "NA"
+      ],
+      "Radeon HD 8670D + 8570 Dual": [
+            974,
+            "NA"
+      ],
+      "Radeon HD 8670D + HD 6670 Dual": [
+            1221,
+            "NA"
+      ],
+      "Radeon HD 8670D + HD 7000 Dual": [
+            718,
+            "NA"
+      ],
+      "Radeon HD 8670D + HD 7600 Dual": [
+            1317,
+            "NA"
+      ],
+      "Radeon HD 8670D + HD 7700 Dual": [
+            1892,
+            "NA"
+      ],
+      "Radeon HD 8670D + R5 235 Dual": [
+            836,
+            "NA"
+      ],
+      "Radeon HD 8670D + R5 330 Dual": [
+            746,
+            "NA"
+      ],
+      "Radeon HD 8670D + R7 200 Dual": [
+            949,
+            "NA"
+      ],
+      "Radeon HD 8670D + R7 240 Dual": [
+            1020,
+            "NA"
+      ],
+      "Radeon HD 8670D N HD 8670D + HD 8670D Dual": [
+            488,
+            "NA"
+      ],
+      "Radeon HD 8670M": [
+            520,
+            "NA"
+      ],
+      "Radeon HD 8690A": [
+            487,
+            "NA"
+      ],
+      "Radeon HD 8690M": [
+            984,
+            "NA"
+      ],
+      "Radeon HD 8730M": [
+            724,
+            "NA"
+      ],
+      "Radeon HD 8750M": [
+            960,
+            "NA"
+      ],
+      "Radeon HD 8790M": [
+            1305,
+            "NA"
+      ],
+      "Radeon HD 8790M / R9 M290X": [
+            1210,
+            "NA"
+      ],
+      "Radeon HD 8850M": [
+            973,
+            "NA"
+      ],
+      "Radeon HD 8850M / R9 M265X": [
+            1139,
+            "NA"
+      ],
+      "Radeon HD 8870M": [
+            1638,
+            "NA"
+      ],
+      "Radeon HD 8870M / R9 M270X / M370X": [
+            1799,
+            "NA"
+      ],
+      "Radeon HD 8950": [
+            2717,
+            "NA"
+      ],
+      "Radeon HD 8970M": [
+            3876,
+            139.99
+      ],
+      "Radeon HD 8990": [
+            5214,
+            "NA"
+      ],
+      "Radeon HD HD7850M": [
+            1651,
+            "NA"
+      ],
+      "Radeon HD4650": [
+            239,
+            152.9
+      ],
+      "Radeon HD4670": [
+            365,
+            "NA"
+      ],
+      "RADEON HD6370D": [
+            320,
+            "NA"
+      ],
+      "RADEON HD6410D": [
+            422,
+            "NA"
+      ],
+      "RADEON HD6530D": [
+            531,
+            "NA"
+      ],
+      "RADEON HD7450": [
+            199,
+            22.25
+      ],
+      "Radeon HD8530M": [
+            490,
+            "NA"
+      ],
+      "Radeon HD8970M": [
+            3368,
+            "NA"
+      ],
+      "Radeon HDG 4670": [
+            170,
+            "NA"
+      ],
+      "RADEON IGP 320": [
+            3,
+            "NA"
+      ],
+      "Radeon IGP 320M": [
+            3,
+            "NA"
+      ],
+      "Radeon IGP 340M": [
+            2,
+            "NA"
+      ],
+      "RADEON IGP 345M": [
+            2,
+            "NA"
+      ],
+      "RADEON IGP 34xM": [
+            1,
+            "NA"
+      ],
+      "RADEON IGP 350M": [
+            6,
+            "NA"
+      ],
+      "Radeon Infoshock 3000": [
+            106,
+            "NA"
+      ],
+      "Radeon Instinct MI25 MxGPU": [
+            4978,
+            "NA"
+      ],
+      "Radeon M535DX": [
+            749,
+            "NA"
+      ],
+      "Radeon Pro": [
+            2324,
+            554.22
+      ],
+      "Radeon Pro 450": [
+            2722,
+            "NA"
+      ],
+      "Radeon Pro 455": [
+            3112,
+            449.0
+      ],
+      "Radeon Pro 460": [
+            3452,
+            "NA"
+      ],
+      "Radeon Pro 465": [
+            4537,
+            "NA"
+      ],
+      "Radeon Pro 5300": [
+            7229,
+            "NA"
+      ],
+      "Radeon Pro 5300M": [
+            5986,
+            "NA"
+      ],
+      "Radeon Pro 5500 XT": [
+            8264,
+            "NA"
+      ],
+      "Radeon Pro 5500M": [
+            6816,
+            "NA"
+      ],
+      "Radeon Pro 555": [
+            3140,
+            1049.0
+      ],
+      "Radeon Pro 560": [
+            3475,
+            "NA"
+      ],
+      "Radeon Pro 5600M": [
+            9380,
+            "NA"
+      ],
+      "Radeon Pro 560X": [
+            3677,
+            "NA"
+      ],
+      "Radeon Pro 570": [
+            6336,
+            "NA"
+      ],
+      "Radeon Pro 5700": [
+            11844,
+            "NA"
+      ],
+      "Radeon Pro 5700 XT": [
+            12690,
+            "NA"
+      ],
+      "Radeon Pro 580": [
+            7753,
+            "NA"
+      ],
+      "Radeon Pro 580X": [
+            7540,
+            "NA"
+      ],
+      "Radeon Pro Duo": [
+            8296,
+            3970.36
+      ],
+      "Radeon PRO Ryzen 5 PRO 6650U": [
+            4066,
+            "NA"
+      ],
+      "Radeon PRO Ryzen 7 PRO 6850U": [
+            5659,
+            "NA"
+      ],
+      "Radeon Pro SSG": [
+            10497,
+            2410.15
+      ],
+      "Radeon Pro V340 MxGPU": [
+            2853,
+            "NA"
+      ],
+      "Radeon Pro V520 MxGPU": [
+            12257,
+            "NA"
+      ],
+      "Radeon Pro Vega 16": [
+            4682,
+            "NA"
+      ],
+      "Radeon Pro Vega 20": [
+            5299,
+            "NA"
+      ],
+      "Radeon Pro Vega 48": [
+            11299,
+            "NA"
+      ],
+      "Radeon Pro Vega 56": [
+            12353,
+            "NA"
+      ],
+      "Radeon Pro Vega 64": [
+            12984,
+            "NA"
+      ],
+      "Radeon Pro Vega II": [
+            15667,
+            "NA"
+      ],
+      "Radeon Pro VII": [
+            15441,
+            "NA"
+      ],
+      "Radeon Pro W5500": [
+            9131,
+            409.99
+      ],
+      "Radeon Pro W5500M": [
+            2010,
+            "NA"
+      ],
+      "Radeon Pro W5700": [
+            15447,
+            649.99
+      ],
+      "Radeon PRO W6400": [
+            7991,
+            "NA"
+      ],
+      "Radeon PRO W6600": [
+            16153,
+            "NA"
+      ],
+      "Radeon PRO W6600X": [
+            13113,
+            "NA"
+      ],
+      "Radeon PRO W6800": [
+            19841,
+            1849.99
+      ],
+      "Radeon PRO W7600": [
+            17479,
+            "NA"
+      ],
+      "Radeon PRO W7800": [
+            32145,
+            "NA"
+      ],
+      "Radeon PRO W7900": [
+            30892,
+            "NA"
+      ],
+      "Radeon Pro WX 2100": [
+            1817,
+            "NA"
+      ],
+      "Radeon Pro WX 3100": [
+            2495,
+            "NA"
+      ],
+      "Radeon Pro WX 3200": [
+            2408,
+            212.89
+      ],
+      "Radeon Pro WX 4100": [
+            3760,
+            499.99
+      ],
+      "Radeon Pro WX 4130": [
+            1928,
+            "NA"
+      ],
+      "Radeon Pro WX 4150": [
+            2380,
+            610.04
+      ],
+      "Radeon Pro WX 4170": [
+            1409,
+            "NA"
+      ],
+      "Radeon Pro WX 5100": [
+            5621,
+            359.99
+      ],
+      "Radeon Pro WX 7100": [
+            7925,
+            1047.99
+      ],
+      "Radeon Pro WX 7130": [
+            6577,
+            "NA"
+      ],
+      "Radeon Pro WX 8200": [
+            13925,
+            1599.39
+      ],
+      "Radeon Pro WX 9100": [
+            13192,
+            "NA"
+      ],
+      "Radeon Pro WX Vega M GL": [
+            4643,
+            "NA"
+      ],
+      "Radeon R1E": [
+            301,
+            "NA"
+      ],
+      "Radeon R2": [
+            240,
+            "NA"
+      ],
+      "Radeon R2E": [
+            212,
+            "NA"
+      ],
+      "Radeon R3": [
+            301,
+            "NA"
+      ],
+      "Radeon R3E": [
+            205,
+            "NA"
+      ],
+      "Radeon R4": [
+            332,
+            396.99
+      ],
+      "Radeon R4E": [
+            487,
+            "NA"
+      ],
+      "Radeon R5 220": [
+            133,
+            85.26
+      ],
+      "Radeon R5 230": [
+            221,
+            81.1
+      ],
+      "Radeon R5 235": [
+            341,
+            60.13
+      ],
+      "Radeon R5 235 + HD 7560D Dual": [
+            743,
+            "NA"
+      ],
+      "Radeon R5 235 + HD 8570D Dual": [
+            737,
+            "NA"
+      ],
+      "Radeon R5 235X": [
+            277,
+            "NA"
+      ],
+      "Radeon R5 240": [
+            529,
+            85.0
+      ],
+      "Radeon R5 310": [
+            331,
+            499.0
+      ],
+      "Radeon R5 330": [
+            512,
+            339.99
+      ],
+      "Radeon R5 340": [
+            984,
+            "NA"
+      ],
+      "Radeon R5 420": [
+            574,
+            39.95
+      ],
+      "Radeon R5 430": [
+            937,
+            59.0
+      ],
+      "Radeon R5 435": [
+            840,
+            "NA"
+      ],
+      "Radeon R5 A10-9600P 4C+6G": [
+            619,
+            "NA"
+      ],
+      "Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C": [
+            703,
+            "NA"
+      ],
+      "Radeon R5 A10-9620P 4C+6G": [
+            731,
+            "NA"
+      ],
+      "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C": [
+            686,
+            "NA"
+      ],
+      "Radeon R5 A10-9630P 4C+6G": [
+            977,
+            "NA"
+      ],
+      "Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C": [
+            825,
+            "NA"
+      ],
+      "Radeon R5 A240": [
+            576,
+            "NA"
+      ],
+      "Radeon R5 A6-7480": [
+            676,
+            "NA"
+      ],
+      "Radeon R5 A6-8500P": [
+            586,
+            "NA"
+      ],
+      "Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G": [
+            605,
+            "NA"
+      ],
+      "Radeon R5 A6-9500 2C+6G": [
+            853,
+            "NA"
+      ],
+      "Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G": [
+            901,
+            "NA"
+      ],
+      "Radeon R5 A6-9500E 2C+4G": [
+            1014,
+            "NA"
+      ],
+      "Radeon R5 A6-9500E RADEON R5, 6 COMPUTE CORES 2C+4": [
+            712,
+            "NA"
+      ],
+      "Radeon R5 M230": [
+            413,
+            "NA"
+      ],
+      "Radeon R5 M240": [
+            424,
+            "NA"
+      ],
+      "Radeon R5 M255": [
+            532,
+            "NA"
+      ],
+      "Radeon R5 M315": [
+            473,
+            "NA"
+      ],
+      "Radeon R5 M320": [
+            439,
+            "NA"
+      ],
+      "Radeon R5 M330": [
+            595,
+            "NA"
+      ],
+      "Radeon R5 M335": [
+            548,
+            "NA"
+      ],
+      "Radeon R5 M420": [
+            488,
+            "NA"
+      ],
+      "Radeon R5 M430": [
+            648,
+            "NA"
+      ],
+      "Radeon R5 M435": [
+            801,
+            "NA"
+      ],
+      "Radeon R5 Opteron X3216": [
+            394,
+            "NA"
+      ],
+      "Radeon R5 PRO A10-8730B 4C+6G": [
+            695,
+            "NA"
+      ],
+      "Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G": [
+            642,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-8500B 2C+4G": [
+            508,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-8500B R5, 6 Compute Cores 2C+4G": [
+            472,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-8530B 2C+4G": [
+            689,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-8570 2C+6G": [
+            847,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G": [
+            984,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-8570E 2C+4G": [
+            637,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G": [
+            799,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-9500 2C+6G": [
+            1096,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G": [
+            832,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-9500B 2C+4G": [
+            693,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G": [
+            408,
+            "NA"
+      ],
+      "Radeon R5 PRO A6-9500E 2C+4G": [
+            770,
+            "NA"
+      ],
+      "Radeon R5 PRO A8-9600B 4C+6G": [
+            658,
+            "NA"
+      ],
+      "Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G": [
+            562,
+            "NA"
+      ],
+      "Radeon R5E": [
+            296,
+            "NA"
+      ],
+      "Radeon R6": [
+            615,
+            "NA"
+      ],
+      "Radeon R6 + R7 M265DX Dual": [
+            570,
+            "NA"
+      ],
+      "Radeon R6 A10-8700P": [
+            541,
+            "NA"
+      ],
+      "Radeon R6 A10-9600P 4C+6G": [
+            970,
+            "NA"
+      ],
+      "Radeon R6 A8-8600P": [
+            474,
+            "NA"
+      ],
+      "Radeon R6 M255DX": [
+            605,
+            "NA"
+      ],
+      "Radeon R6 Opteron X3418": [
+            955,
+            "NA"
+      ],
+      "Radeon R6 PRO A10-8700B 4C+6G": [
+            538,
+            "NA"
+      ],
+      "Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G": [
+            531,
+            "NA"
+      ],
+      "Radeon R6 PRO A8-8600B 4C+6G": [
+            531,
+            "NA"
+      ],
+      "Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G": [
+            590,
+            "NA"
+      ],
+      "Radeon R7 + HD 7700 Dual": [
+            1962,
+            "NA"
+      ],
+      "Radeon R7 + R5 330 Dual": [
+            1028,
+            "NA"
+      ],
+      "Radeon R7 + R5 340 Dual": [
+            1234,
+            "NA"
+      ],
+      "Radeon R7 + R5 435 Dual A10-9700 RADEON": [
+            885,
+            "NA"
+      ],
+      "Radeon R7 + R5 Dual": [
+            897,
+            "NA"
+      ],
+      "Radeon R7 + R7 200 Dual": [
+            1077,
+            "NA"
+      ],
+      "Radeon R7 + R7 240 Dual": [
+            1045,
+            "NA"
+      ],
+      "Radeon R7 + R7 250 Dual": [
+            1232,
+            "NA"
+      ],
+      "Radeon R7 + R7 350 Dual": [
+            1982,
+            "NA"
+      ],
+      "Radeon R7 +8G": [
+            1190,
+            "NA"
+      ],
+      "Radeon R7 240": [
+            887,
+            109.99
+      ],
+      "Radeon R7 240 + HD 8570D Dual": [
+            917,
+            "NA"
+      ],
+      "Radeon R7 240 + HD 8670D Dual": [
+            930,
+            "NA"
+      ],
+      "Radeon R7 250": [
+            1085,
+            189.97
+      ],
+      "Radeon R7 250X": [
+            2268,
+            194.0
+      ],
+      "Radeon R7 260": [
+            2891,
+            89.99
+      ],
+      "Radeon R7 260X": [
+            3168,
+            139.99
+      ],
+      "Radeon R7 340": [
+            1027,
+            "NA"
+      ],
+      "Radeon R7 360": [
+            3059,
+            145.99
+      ],
+      "Radeon R7 370": [
+            4512,
+            "NA"
+      ],
+      "Radeon R7 430": [
+            1101,
+            150.58
+      ],
+      "Radeon R7 450": [
+            1938,
+            299.0
+      ],
+      "Radeon R7 7850A10-7850K": [
+            551,
+            "NA"
+      ],
+      "Radeon R7 A10 Extreme Edition": [
+            816,
+            "NA"
+      ],
+      "Radeon R7 A10 PRO-7800B": [
+            835,
+            "NA"
+      ],
+      "Radeon R7 A10 PRO-7850B": [
+            882,
+            "NA"
+      ],
+      "Radeon R7 A10-7700K": [
+            787,
+            "NA"
+      ],
+      "Radeon R7 A10-7800": [
+            715,
+            "NA"
+      ],
+      "Radeon R7 A10-7850K": [
+            980,
+            "NA"
+      ],
+      "Radeon R7 A10-7860K": [
+            907,
+            "NA"
+      ],
+      "Radeon R7 A10-7870K": [
+            1137,
+            "NA"
+      ],
+      "Radeon R7 A10-7890K": [
+            807,
+            "NA"
+      ],
+      "Radeon R7 A10-8750": [
+            843,
+            "NA"
+      ],
+      "Radeon R7 A10-8850": [
+            773,
+            "NA"
+      ],
+      "Radeon R7 A10-9700 RADEON": [
+            924,
+            "NA"
+      ],
+      "Radeon R7 A10-9700E RADEON": [
+            1108,
+            "NA"
+      ],
+      "Radeon R7 A12-9700P RADEON": [
+            740,
+            435.92
+      ],
+      "Radeon R7 A12-9720P RADEON": [
+            741,
+            365.48
+      ],
+      "Radeon R7 A12-9730P RADEON": [
+            1047,
+            "NA"
+      ],
+      "Radeon R7 A12-9800 RADEON": [
+            1118,
+            "NA"
+      ],
+      "Radeon R7 A12-9800E RADEON": [
+            891,
+            139.19
+      ],
+      "Radeon R7 A265": [
+            993,
+            "NA"
+      ],
+      "Radeon R7 A360": [
+            629,
+            "NA"
+      ],
+      "Radeon R7 A365": [
+            781,
+            "NA"
+      ],
+      "Radeon R7 A370": [
+            1281,
+            "NA"
+      ],
+      "Radeon R7 A8 PRO-7600B": [
+            666,
+            "NA"
+      ],
+      "Radeon R7 A8-7500": [
+            907,
+            "NA"
+      ],
+      "Radeon R7 A8-7500 4C+6G": [
+            853,
+            "NA"
+      ],
+      "Radeon R7 A8-7600": [
+            781,
+            "NA"
+      ],
+      "Radeon R7 A8-7650K": [
+            733,
+            "NA"
+      ],
+      "Radeon R7 A8-7670K": [
+            848,
+            "NA"
+      ],
+      "Radeon R7 A8-7680": [
+            821,
+            "NA"
+      ],
+      "Radeon R7 A8-8650": [
+            912,
+            "NA"
+      ],
+      "Radeon R7 A8-9600 RADEON": [
+            840,
+            "NA"
+      ],
+      "Radeon R7 FX-8800P": [
+            829,
+            "NA"
+      ],
+      "Radeon R7 FX-9800P RADEON": [
+            740,
+            530.0
+      ],
+      "Radeon R7 FX-9830P RADEON": [
+            1507,
+            "NA"
+      ],
+      "Radeon R7 G": [
+            869,
+            "NA"
+      ],
+      "Radeon R7 M260": [
+            488,
+            799.0
+      ],
+      "Radeon R7 M260DX": [
+            816,
+            "NA"
+      ],
+      "Radeon R7 M260X": [
+            1011,
+            "NA"
+      ],
+      "Radeon R7 M265": [
+            543,
+            "NA"
+      ],
+      "Radeon R7 M265DX": [
+            498,
+            "NA"
+      ],
+      "Radeon R7 M270": [
+            766,
+            "NA"
+      ],
+      "Radeon R7 M340": [
+            663,
+            "NA"
+      ],
+      "Radeon R7 M350": [
+            1115,
+            "NA"
+      ],
+      "Radeon R7 M360": [
+            563,
+            "NA"
+      ],
+      "Radeon R7 M365X": [
+            768,
+            "NA"
+      ],
+      "Radeon R7 M370": [
+            1417,
+            "NA"
+      ],
+      "Radeon R7 M380": [
+            1668,
+            "NA"
+      ],
+      "Radeon R7 M440": [
+            895,
+            "NA"
+      ],
+      "Radeon R7 M445": [
+            945,
+            744.0
+      ],
+      "Radeon R7 M460": [
+            1116,
+            "NA"
+      ],
+      "Radeon R7 M465": [
+            1150,
+            "NA"
+      ],
+      "Radeon R7 M465X": [
+            1623,
+            "NA"
+      ],
+      "Radeon R7 Opteron X3421": [
+            1168,
+            "NA"
+      ],
+      "Radeon R7 PRO A10-8750B": [
+            758,
+            "NA"
+      ],
+      "Radeon R7 PRO A10-8770": [
+            885,
+            "NA"
+      ],
+      "Radeon R7 PRO A10-8770E": [
+            826,
+            "NA"
+      ],
+      "Radeon R7 PRO A10-8850B": [
+            945,
+            "NA"
+      ],
+      "Radeon R7 PRO A10-9700": [
+            805,
+            "NA"
+      ],
+      "Radeon R7 PRO A10-9700B": [
+            669,
+            "NA"
+      ],
+      "Radeon R7 PRO A10-9700E": [
+            971,
+            529.0
+      ],
+      "Radeon R7 PRO A12-8800B": [
+            597,
+            "NA"
+      ],
+      "Radeon R7 PRO A12-8830B": [
+            593,
+            "NA"
+      ],
+      "Radeon R7 PRO A12-8870": [
+            857,
+            "NA"
+      ],
+      "Radeon R7 PRO A12-8870E": [
+            966,
+            "NA"
+      ],
+      "Radeon R7 PRO A12-9800": [
+            933,
+            "NA"
+      ],
+      "Radeon R7 PRO A12-9800B": [
+            669,
+            "NA"
+      ],
+      "Radeon R7 PRO A12-9800E": [
+            942,
+            "NA"
+      ],
+      "Radeon R7 PRO A6-9500 2C+6G": [
+            781,
+            "NA"
+      ],
+      "Radeon R7 PRO A8-8650B": [
+            728,
+            "NA"
+      ],
+      "Radeon R7 PRO A8-8670E": [
+            1309,
+            "NA"
+      ],
+      "Radeon R7 PRO A8-9600": [
+            962,
+            "NA"
+      ],
+      "Radeon R7E": [
+            564,
+            "NA"
+      ],
+      "Radeon R8 M365DX": [
+            599,
+            "NA"
+      ],
+      "Radeon R8 M445DX": [
+            795,
+            "NA"
+      ],
+      "Radeon R8 M535DX": [
+            670,
+            "NA"
+      ],
+      "Radeon R9 255": [
+            1456,
+            344.16
+      ],
+      "Radeon R9 260": [
+            3181,
+            "NA"
+      ],
+      "Radeon R9 270": [
+            4306,
+            "NA"
+      ],
+      "Radeon R9 270 / R7 370": [
+            4259,
+            213.16
+      ],
+      "Radeon R9 270X": [
+            4909,
+            326.5
+      ],
+      "Radeon R9 280": [
+            5589,
+            "NA"
+      ],
+      "Radeon R9 280X": [
+            6239,
+            "NA"
+      ],
+      "Radeon R9 285 / 380": [
+            5549,
+            485.0
+      ],
+      "Radeon R9 290": [
+            8364,
+            "NA"
+      ],
+      "Radeon R9 290 / 390": [
+            8150,
+            380.0
+      ],
+      "Radeon R9 290X": [
+            8659,
+            "NA"
+      ],
+      "Radeon R9 290X / 390X": [
+            8389,
+            319.99
+      ],
+      "Radeon R9 295X2": [
+            8637,
+            499.1
+      ],
+      "Radeon R9 350": [
+            2018,
+            299.0
+      ],
+      "Radeon R9 360": [
+            3031,
+            133.89
+      ],
+      "Radeon R9 370": [
+            4722,
+            159.99
+      ],
+      "Radeon R9 380": [
+            6214,
+            89.99
+      ],
+      "Radeon R9 380X": [
+            6241,
+            349.99
+      ],
+      "Radeon R9 390": [
+            8995,
+            "NA"
+      ],
+      "Radeon R9 390X": [
+            9452,
+            "NA"
+      ],
+      "Radeon R9 Fury": [
+            9618,
+            443.1
+      ],
+      "Radeon R9 Fury + Fury X": [
+            9741,
+            449.99
+      ],
+      "Radeon R9 Fury X": [
+            10061,
+            "NA"
+      ],
+      "Radeon R9 M265X": [
+            1111,
+            "NA"
+      ],
+      "Radeon R9 M270X": [
+            1204,
+            "NA"
+      ],
+      "Radeon R9 M275": [
+            1114,
+            699.99
+      ],
+      "Radeon R9 M275X": [
+            1537,
+            "NA"
+      ],
+      "Radeon R9 M275X / M375": [
+            1574,
+            "NA"
+      ],
+      "Radeon R9 M280X": [
+            813,
+            "NA"
+      ],
+      "Radeon R9 M290X": [
+            3233,
+            "NA"
+      ],
+      "Radeon R9 M295X": [
+            5150,
+            1449.0
+      ],
+      "Radeon R9 M360": [
+            1824,
+            "NA"
+      ],
+      "Radeon R9 M365X": [
+            1481,
+            "NA"
+      ],
+      "Radeon R9 M370X": [
+            1513,
+            889.0
+      ],
+      "Radeon R9 M375": [
+            940,
+            "NA"
+      ],
+      "Radeon R9 M375X": [
+            1771,
+            "NA"
+      ],
+      "Radeon R9 M380": [
+            2770,
+            "NA"
+      ],
+      "Radeon R9 M385": [
+            1853,
+            "NA"
+      ],
+      "Radeon R9 M385X": [
+            1993,
+            "NA"
+      ],
+      "Radeon R9 M390X": [
+            3346,
+            "NA"
+      ],
+      "Radeon R9 M395": [
+            5023,
+            "NA"
+      ],
+      "Radeon R9 M395X": [
+            5037,
+            "NA"
+      ],
+      "Radeon R9 M470": [
+            2330,
+            "NA"
+      ],
+      "Radeon R9 M470X": [
+            3400,
+            "NA"
+      ],
+      "Radeon R9 M485X": [
+            3660,
+            "NA"
+      ],
+      "Radeon RX 460": [
+            4113,
+            166.81
+      ],
+      "Radeon RX 470/570": [
+            8046,
+            388.99
+      ],
+      "Radeon RX 480": [
+            8665,
+            339.99
+      ],
+      "Radeon RX 5300": [
+            7665,
+            "NA"
+      ],
+      "Radeon RX 5300M": [
+            4307,
+            "NA"
+      ],
+      "Radeon RX 540": [
+            1878,
+            "NA"
+      ],
+      "Radeon RX 550": [
+            2697,
+            169.65
+      ],
+      "Radeon RX 5500": [
+            8825,
+            "NA"
+      ],
+      "Radeon RX 5500 XT": [
+            9183,
+            184.99
+      ],
+      "Radeon RX 5500M": [
+            5382,
+            "NA"
+      ],
+      "Radeon RX 550X": [
+            2242,
+            "NA"
+      ],
+      "Radeon RX 560": [
+            3644,
+            208.2
+      ],
+      "Radeon RX 5600": [
+            11470,
+            "NA"
+      ],
+      "Radeon RX 5600 OEM": [
+            12019,
+            "NA"
+      ],
+      "Radeon RX 5600 XT": [
+            13783,
+            545.0
+      ],
+      "Radeon RX 5600M": [
+            8267,
+            "NA"
+      ],
+      "Radeon RX 560X": [
+            3194,
+            "NA"
+      ],
+      "Radeon RX 5700": [
+            14627,
+            309.99
+      ],
+      "Radeon RX 5700 XT": [
+            16831,
+            363.12
+      ],
+      "Radeon RX 5700 XT 50th Anniversary": [
+            16640,
+            "NA"
+      ],
+      "Radeon RX 570X": [
+            1923,
+            236.71
+      ],
+      "Radeon RX 580": [
+            8907,
+            179.99
+      ],
+      "Radeon RX 580 2048SP": [
+            7737,
+            "NA"
+      ],
+      "Radeon RX 580X": [
+            7798,
+            "NA"
+      ],
+      "Radeon RX 590": [
+            9500,
+            549.99
+      ],
+      "Radeon RX 640": [
+            1883,
+            "NA"
+      ],
+      "Radeon RX 6400": [
+            7442,
+            159.0
+      ],
+      "Radeon RX 6500": [
+            7366,
+            "NA"
+      ],
+      "Radeon RX 6500 XT": [
+            9478,
+            169.0
+      ],
+      "Radeon RX 6500M": [
+            7936,
+            "NA"
+      ],
+      "Radeon RX 6600": [
+            15147,
+            329.0
+      ],
+      "Radeon RX 6600 XT": [
+            16455,
+            349.99
+      ],
+      "Radeon RX 6600M": [
+            13613,
+            209.99
+      ],
+      "Radeon RX 6600S": [
+            14896,
+            "NA"
+      ],
+      "Radeon RX 6650 XT": [
+            17498,
+            229.99
+      ],
+      "Radeon RX 6650M": [
+            13565,
+            "NA"
+      ],
+      "Radeon RX 6700": [
+            18703,
+            "NA"
+      ],
+      "Radeon RX 6700 XT": [
+            19871,
+            319.99
+      ],
+      "Radeon RX 6700M": [
+            13284,
+            280.57
+      ],
+      "Radeon RX 6700S": [
+            14846,
+            "NA"
+      ],
+      "Radeon RX 6750 XT": [
+            21018,
+            349.99
+      ],
+      "Radeon RX 6800": [
+            22342,
+            399.99
+      ],
+      "Radeon RX 6800 XT": [
+            25151,
+            499.99
+      ],
+      "Radeon RX 6800M": [
+            13081,
+            "NA"
+      ],
+      "Radeon RX 6800S": [
+            15558,
+            "NA"
+      ],
+      "Radeon RX 6850M": [
+            12274,
+            "NA"
+      ],
+      "Radeon RX 6850M XT": [
+            18235,
+            "NA"
+      ],
+      "Radeon RX 6900 XT": [
+            26949,
+            779.99
+      ],
+      "Radeon RX 6950 XT": [
+            28606,
+            1078.58
+      ],
+      "Radeon RX 7600": [
+            16520,
+            249.99
+      ],
+      "Radeon RX 7600M XT": [
+            14118,
+            "NA"
+      ],
+      "Radeon RX 7600S": [
+            12951,
+            "NA"
+      ],
+      "Radeon RX 7700 XT": [
+            21618,
+            439.99
+      ],
+      "Radeon RX 7800 XT": [
+            23888,
+            509.99
+      ],
+      "Radeon RX 7900 GRE": [
+            25524,
+            "NA"
+      ],
+      "Radeon RX 7900 XT": [
+            28892,
+            799.99
+      ],
+      "Radeon RX 7900 XTX": [
+            31273,
+            949.99
+      ],
+      "Radeon RX Vega 10": [
+            1647,
+            "NA"
+      ],
+      "Radeon RX Vega 10 Ryzen 7 3700U": [
+            1518,
+            "NA"
+      ],
+      "Radeon RX Vega 10 Ryzen 7 3750H": [
+            1824,
+            "NA"
+      ],
+      "Radeon RX Vega 10 Ryzen 7 PRO 3700U w/": [
+            1323,
+            "NA"
+      ],
+      "Radeon RX Vega 11": [
+            2123,
+            1002.0
+      ],
+      "Radeon RX Vega 11 PRD": [
+            2401,
+            "NA"
+      ],
+      "Radeon RX Vega 11 Processor": [
+            1828,
+            "NA"
+      ],
+      "Radeon RX Vega 11 Ryzen 5 3350G": [
+            1572,
+            "NA"
+      ],
+      "Radeon RX Vega 11 Ryzen 5 3400G": [
+            2173,
+            "NA"
+      ],
+      "Radeon RX Vega 11 Ryzen 5 3400GE": [
+            2056,
+            "NA"
+      ],
+      "Radeon RX Vega 56": [
+            13448,
+            752.99
+      ],
+      "Radeon RX Vega 64": [
+            14503,
+            749.99
+      ],
+      "Radeon RX Vega 8": [
+            1487,
+            "NA"
+      ],
+      "Radeon RX Vega M GH": [
+            6578,
+            "NA"
+      ],
+      "Radeon RX Vega M GL": [
+            3631,
+            "NA"
+      ],
+      "Radeon RX Vega11": [
+            1605,
+            "NA"
+      ],
+      "Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition": [
+            1356,
+            "NA"
+      ],
+      "Radeon RX590 GME": [
+            8595,
+            "NA"
+      ],
+      "Radeon Ryzen 3 3250U": [
+            810,
+            "NA"
+      ],
+      "Radeon Ryzen 3 5300U": [
+            1565,
+            "NA"
+      ],
+      "Radeon Ryzen 3 5425U": [
+            1596,
+            "NA"
+      ],
+      "Radeon Ryzen 3 7330U": [
+            1723,
+            "NA"
+      ],
+      "Radeon Ryzen 3 PRO 4355GE": [
+            1431,
+            "NA"
+      ],
+      "Radeon Ryzen 3 PRO 5450U": [
+            1781,
+            "NA"
+      ],
+      "Radeon Ryzen 3 PRO 7330U": [
+            2126,
+            "NA"
+      ],
+      "Radeon Ryzen 5 3450U": [
+            1063,
+            "NA"
+      ],
+      "Radeon Ryzen 5 4600GE with Radeon Graphics": [
+            1792,
+            "NA"
+      ],
+      "Radeon Ryzen 5 5500U": [
+            2122,
+            "NA"
+      ],
+      "Radeon Ryzen 5 5560U": [
+            1994,
+            "NA"
+      ],
+      "Radeon Ryzen 5 5600GE": [
+            2489,
+            "NA"
+      ],
+      "Radeon Ryzen 5 5600H": [
+            2433,
+            "NA"
+      ],
+      "Radeon Ryzen 5 5600U": [
+            2080,
+            "NA"
+      ],
+      "Radeon Ryzen 5 5625U": [
+            2152,
+            "NA"
+      ],
+      "Radeon Ryzen 5 6600H": [
+            4088,
+            "NA"
+      ],
+      "Radeon Ryzen 5 6600HS Creator Edition": [
+            3851,
+            "NA"
+      ],
+      "Radeon Ryzen 5 6600U": [
+            3589,
+            "NA"
+      ],
+      "Radeon Ryzen 5 7530U": [
+            2247,
+            "NA"
+      ],
+      "Radeon Ryzen 5 7535HS": [
+            4168,
+            "NA"
+      ],
+      "Radeon Ryzen 5 7535U": [
+            3849,
+            "NA"
+      ],
+      "Radeon Ryzen 5 7600 6-Core": [
+            2007,
+            "NA"
+      ],
+      "Radeon Ryzen 5 7600X 6-Core": [
+            1752,
+            "NA"
+      ],
+      "Radeon Ryzen 5 Microsoft Surface Edition": [
+            2088,
+            "NA"
+      ],
+      "Radeon Ryzen 5 PRO 4655G": [
+            2375,
+            "NA"
+      ],
+      "Radeon Ryzen 5 PRO 4655GE": [
+            2361,
+            "NA"
+      ],
+      "Radeon Ryzen 5 PRO 5650G": [
+            2147,
+            "NA"
+      ],
+      "Radeon Ryzen 5 PRO 5650GE": [
+            2281,
+            "NA"
+      ],
+      "Radeon Ryzen 5 PRO 5675U": [
+            1796,
+            "NA"
+      ],
+      "Radeon Ryzen 5 PRO 6650U": [
+            3663,
+            "NA"
+      ],
+      "Radeon Ryzen 7 3700U": [
+            1400,
+            "NA"
+      ],
+      "Radeon Ryzen 7 4700G": [
+            2596,
+            "NA"
+      ],
+      "Radeon Ryzen 7 4700GE": [
+            2610,
+            "NA"
+      ],
+      "Radeon Ryzen 7 4700U": [
+            2055,
+            "NA"
+      ],
+      "Radeon Ryzen 7 4800H": [
+            4010,
+            "NA"
+      ],
+      "Radeon Ryzen 7 4800HS": [
+            4983,
+            "NA"
+      ],
+      "Radeon Ryzen 7 4800U": [
+            2289,
+            "NA"
+      ],
+      "Radeon Ryzen 7 5700U": [
+            2278,
+            "NA"
+      ],
+      "Radeon Ryzen 7 5800H": [
+            2746,
+            "NA"
+      ],
+      "Radeon Ryzen 7 5800HS": [
+            2780,
+            "NA"
+      ],
+      "Radeon Ryzen 7 5800U": [
+            2404,
+            "NA"
+      ],
+      "Radeon Ryzen 7 5825U": [
+            2379,
+            "NA"
+      ],
+      "Radeon Ryzen 7 6800H": [
+            5500,
+            "NA"
+      ],
+      "Radeon Ryzen 7 6800HS": [
+            6566,
+            "NA"
+      ],
+      "Radeon Ryzen 7 6800HS Creator Edition": [
+            5385,
+            "NA"
+      ],
+      "Radeon Ryzen 7 6800U": [
+            4595,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7700 8-Core": [
+            1697,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7700X 8-Core": [
+            2409,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7730U": [
+            2465,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7735H": [
+            5609,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7735HS": [
+            5388,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7735U": [
+            5109,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7736U": [
+            5790,
+            "NA"
+      ],
+      "Radeon Ryzen 7 7800X3D 8-Core": [
+            1669,
+            "NA"
+      ],
+      "Radeon Ryzen 7 Microsoft Surface Edition": [
+            2277,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 4750G": [
+            2602,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 4750GE": [
+            2252,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 4750U": [
+            2036,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 5875U": [
+            2036,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 6850H": [
+            5750,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 6850HS": [
+            5165,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 6850U": [
+            5165,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 6860Z": [
+            4636,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 7730U": [
+            2591,
+            "NA"
+      ],
+      "Radeon Ryzen 7 PRO 7745 8-Core": [
+            1486,
+            "NA"
+      ],
+      "Radeon Ryzen 9 4900H": [
+            2571,
+            "NA"
+      ],
+      "Radeon Ryzen 9 4900HS": [
+            7185,
+            "NA"
+      ],
+      "Radeon Ryzen 9 6900HS": [
+            7763,
+            "NA"
+      ],
+      "Radeon Ryzen 9 6900HX": [
+            5283,
+            "NA"
+      ],
+      "Radeon Ryzen 9 7900 12-Core": [
+            3350,
+            "NA"
+      ],
+      "Radeon Ryzen 9 7900X 12-Core": [
+            3326,
+            "NA"
+      ],
+      "Radeon Ryzen 9 7950X 16-Core": [
+            5875,
+            "NA"
+      ],
+      "Radeon Ryzen 9 7950X3D 16-Core": [
+            1570,
+            "NA"
+      ],
+      "Radeon Ryzen 9 PRO 6950HS": [
+            4558,
+            "NA"
+      ],
+      "Radeon Ryzen 9 PRO 7945 12-Core": [
+            1731,
+            "NA"
+      ],
+      "Radeon Ryzen Embedded R2514": [
+            1060,
+            "NA"
+      ],
+      "Radeon Ryzen Embedded R2544": [
+            1747,
+            "NA"
+      ],
+      "Radeon Ryzen Embedded V2516": [
+            1163,
+            "NA"
+      ],
+      "Radeon Ryzen Embedded V2718": [
+            1981,
+            "NA"
+      ],
+      "Radeon Ryzen Embedded V2748": [
+            1842,
+            "NA"
+      ],
+      "Radeon Sky 500": [
+            4763,
+            "NA"
+      ],
+      "Radeon TM R9 A360": [
+            2105,
+            "NA"
+      ],
+      "Radeon VE": [
+            2,
+            "NA"
+      ],
+      "Radeon Vega 10": [
+            1567,
+            "NA"
+      ],
+      "Radeon Vega 10 Mobile": [
+            1472,
+            "NA"
+      ],
+      "Radeon Vega 10 Ryzen 7 PRO 3700U w/": [
+            1581,
+            "NA"
+      ],
+      "Radeon Vega 11": [
+            1824,
+            "NA"
+      ],
+      "Radeon Vega 11 Ryzen 5 PRO 3400G": [
+            1964,
+            "NA"
+      ],
+      "Radeon Vega 11 Ryzen 5 PRO 3400GE w/": [
+            1800,
+            "NA"
+      ],
+      "Radeon Vega 2": [
+            506,
+            "NA"
+      ],
+      "Radeon Vega 3": [
+            887,
+            2677.99
+      ],
+      "Radeon Vega 3 3020e": [
+            604,
+            "NA"
+      ],
+      "Radeon Vega 3 Athlon 3000G": [
+            1033,
+            "NA"
+      ],
+      "Radeon Vega 3 Athlon 300GE": [
+            1044,
+            "NA"
+      ],
+      "Radeon Vega 3 Athlon 300U": [
+            861,
+            "NA"
+      ],
+      "Radeon Vega 3 Athlon 320GE": [
+            714,
+            "NA"
+      ],
+      "Radeon Vega 3 Athlon Gold 3150U": [
+            612,
+            "NA"
+      ],
+      "Radeon Vega 3 Athlon Silver 3050e": [
+            552,
+            "NA"
+      ],
+      "Radeon Vega 3 Athlon Silver 3050U": [
+            844,
+            "NA"
+      ],
+      "Radeon Vega 3 Mobile": [
+            1025,
+            "NA"
+      ],
+      "Radeon Vega 3 Ryzen 3 3200U": [
+            850,
+            "NA"
+      ],
+      "Radeon Vega 3 Ryzen 3 3250U": [
+            806,
+            "NA"
+      ],
+      "Radeon Vega 3 Ryzen Embedded R1305G": [
+            358,
+            "NA"
+      ],
+      "Radeon Vega 3 Ryzen Embedded R1505G": [
+            771,
+            "NA"
+      ],
+      "Radeon Vega 6": [
+            1310,
+            1799.99
+      ],
+      "Radeon Vega 6 Ryzen 3 3300U": [
+            1289,
+            "NA"
+      ],
+      "Radeon Vega 6 Ryzen 3 3350U": [
+            1526,
+            "NA"
+      ],
+      "Radeon Vega 6 Ryzen 3 PRO 3300U w/": [
+            1377,
+            "NA"
+      ],
+      "Radeon Vega 8": [
+            1584,
+            126.86
+      ],
+      "Radeon Vega 8 Mobile": [
+            1419,
+            "NA"
+      ],
+      "Radeon Vega 8 Ryzen 3 3200G": [
+            1936,
+            "NA"
+      ],
+      "Radeon Vega 8 Ryzen 3 PRO 3200G": [
+            1710,
+            "NA"
+      ],
+      "Radeon Vega 8 Ryzen 3 PRO 3200GE w/": [
+            1622,
+            "NA"
+      ],
+      "Radeon Vega 8 Ryzen 5 3450U": [
+            1270,
+            "NA"
+      ],
+      "Radeon Vega 8 Ryzen 5 3500U": [
+            1403,
+            "NA"
+      ],
+      "Radeon Vega 8 Ryzen 5 3550H": [
+            1689,
+            "NA"
+      ],
+      "Radeon Vega 8 Ryzen 5 PRO 3500U w/": [
+            1390,
+            "NA"
+      ],
+      "Radeon Vega 9": [
+            1581,
+            "NA"
+      ],
+      "Radeon Vega 9 Ryzen 5 3550H": [
+            1287,
+            "NA"
+      ],
+      "Radeon Vega 9 Ryzen 5 Microsoft Surface Edition": [
+            1435,
+            "NA"
+      ],
+      "Radeon Vega Frontier Edition": [
+            13337,
+            1679.99
+      ],
+      "Radeon VII": [
+            16765,
+            1899.95
+      ],
+      "Radeon X1050": [
+            49,
+            "NA"
+      ],
+      "Radeon X1200": [
+            32,
+            "NA"
+      ],
+      "Radeon X1250": [
+            37,
+            "NA"
+      ],
+      "Radeon X1270": [
+            31,
+            "NA"
+      ],
+      "Radeon X1300": [
+            58,
+            95.78
+      ],
+      "Radeon X1300 PRO": [
+            84,
+            "NA"
+      ],
+      "Radeon X1550": [
+            66,
+            155.0
+      ],
+      "Radeon X1550 64-bit": [
+            47,
+            "NA"
+      ],
+      "Radeon X1600": [
+            49,
+            "NA"
+      ],
+      "Radeon X1600 Pro": [
+            98,
+            "NA"
+      ],
+      "Radeon X1600 Pro / X1300XT": [
+            69,
+            "NA"
+      ],
+      "Radeon X1600 XT": [
+            115,
+            "NA"
+      ],
+      "Radeon X1650 GTO": [
+            74,
+            "NA"
+      ],
+      "Radeon X1650 Pro": [
+            84,
+            160.89
+      ],
+      "Radeon X1650 SE": [
+            71,
+            "NA"
+      ],
+      "Radeon X1700 Targa Edition": [
+            116,
+            "NA"
+      ],
+      "Radeon X1800 GTO": [
+            140,
+            "NA"
+      ],
+      "Radeon X1900 CrossFire Edition": [
+            137,
+            "NA"
+      ],
+      "Radeon X1900 GT": [
+            145,
+            "NA"
+      ],
+      "Radeon X1950 CrossFire Edition": [
+            151,
+            "NA"
+      ],
+      "Radeon X1950 GT": [
+            106,
+            "NA"
+      ],
+      "Radeon X1950 Pro": [
+            112,
+            "NA"
+      ],
+      "RADEON X300SE": [
+            38,
+            "NA"
+      ],
+      "RADEON X550": [
+            50,
+            "NA"
+      ],
+      "RADEON X550XT": [
+            56,
+            "NA"
+      ],
+      "Radeon X550XTX": [
+            70,
+            "NA"
+      ],
+      "RADEON X600 256MB HyperMemory": [
+            56,
+            "NA"
+      ],
+      "RADEON X600 PRO": [
+            67,
+            160.49
+      ],
+      "RADEON X600 SE": [
+            49,
+            56.18
+      ],
+      "RADEON X600XT": [
+            91,
+            "NA"
+      ],
+      "RADEON X700": [
+            72,
+            "NA"
+      ],
+      "RADEON X700 PRO": [
+            75,
+            "NA"
+      ],
+      "RADEON X700 SE": [
+            71,
+            "NA"
+      ],
+      "RADEON X800 GT": [
+            84,
+            "NA"
+      ],
+      "RADEON X800 GTO": [
+            114,
+            "NA"
+      ],
+      "RADEON X800 PRO": [
+            64,
+            "NA"
+      ],
+      "RADEON X800 PRO/GTO": [
+            73,
+            "NA"
+      ],
+      "RADEON X800 SE": [
+            129,
+            "NA"
+      ],
+      "RADEON X800 XL": [
+            69,
+            "NA"
+      ],
+      "RADEON X800 XT": [
+            97,
+            "NA"
+      ],
+      "RADEON X800 XT Platinum Edition": [
+            81,
+            "NA"
+      ],
+      "RADEON X800GT": [
+            79,
+            "NA"
+      ],
+      "RADEON X850 PRO": [
+            72,
+            "NA"
+      ],
+      "RADEON X850 XT": [
+            81,
+            "NA"
+      ],
+      "RADEON X850 XT Platinum Edition": [
+            81,
+            "NA"
+      ],
+      "Radeon Xpress 1100": [
+            34,
+            "NA"
+      ],
+      "Radeon Xpress 1150": [
+            29,
+            "NA"
+      ],
+      "Radeon Xpress 1200": [
+            35,
+            "NA"
+      ],
+      "Radeon Xpress 1250": [
+            42,
+            "NA"
+      ],
+      "Radeon Xpress 1270": [
+            26,
+            "NA"
+      ],
+      "Radeon Xpress 1300": [
+            52,
+            "NA"
+      ],
+      "Radeon Xpress 1300M": [
+            40,
+            "NA"
+      ],
+      "RADEON XPRESS 200": [
+            29,
+            "NA"
+      ],
+      "RADEON XPRESS 200 CROSSFIRE": [
+            18,
+            "NA"
+      ],
+      "RADEON XPRESS 200M": [
+            22,
+            "NA"
+      ],
+      "RadeonT 610M": [
+            1225,
+            "NA"
+      ],
+      "RadeonT 780M": [
+            7020,
+            "NA"
+      ],
+      "RadeonT RX 6850M XT": [
+            14432,
+            "NA"
+      ],
+      "Rage 128 Pro": [
+            1,
+            "NA"
+      ],
+      "RAGE 128 PRO AGP 4X TMDS": [
+            1,
+            "NA"
+      ],
+      "Rage Fury Pro/Xpert 2000 Pro": [
+            3,
+            "NA"
+      ],
+      "Red Hat QXL controller": [
+            31,
+            "NA"
+      ],
+      "RGH Drivers v3": [
+            11,
+            "NA"
+      ],
+      "RIVA TNT2 Model 64/Model 64 Pro": [
+            3,
+            "NA"
+      ],
+      "RIVA TNT2/TNT2 Pro": [
+            3,
+            "NA"
+      ],
+      "RTX 2000 Ada Generation Laptop GPU": [
+            15417,
+            "NA"
+      ],
+      "RTX 3500 Ada Generation Laptop GPU": [
+            20368,
+            "NA"
+      ],
+      "RTX 4000 Ada Generation Laptop GPU": [
+            23261,
+            "NA"
+      ],
+      "RTX 4000 SFF Ada Generation": [
+            21300,
+            "NA"
+      ],
+      "RTX 5000 Ada Generation": [
+            15253,
+            "NA"
+      ],
+      "RTX 5000 Ada Generation Laptop GPU": [
+            21891,
+            "NA"
+      ],
+      "RTX 6000 Ada Generation": [
+            24240,
+            "NA"
+      ],
+      "RTX A1000 6GB Laptop GPU": [
+            9814,
+            "NA"
+      ],
+      "RTX A1000 Laptop GPU": [
+            9509,
+            "NA"
+      ],
+      "RTX A2000": [
+            13812,
+            689.99
+      ],
+      "RTX A2000 12GB": [
+            13635,
+            "NA"
+      ],
+      "RTX A2000 8GB Laptop GPU": [
+            10947,
+            "NA"
+      ],
+      "RTX A2000 Laptop GPU": [
+            10026,
+            "NA"
+      ],
+      "RTX A3000 12GB Laptop GPU": [
+            14693,
+            "NA"
+      ],
+      "RTX A3000 Laptop GPU": [
+            12491,
+            "NA"
+      ],
+      "RTX A4000": [
+            19304,
+            749.99
+      ],
+      "RTX A4000 Laptop GPU": [
+            15587,
+            "NA"
+      ],
+      "RTX A4500": [
+            21895,
+            1079.99
+      ],
+      "RTX A4500 Laptop GPU": [
+            17661,
+            "NA"
+      ],
+      "RTX A500 Laptop GPU": [
+            7017,
+            "NA"
+      ],
+      "RTX A5000": [
+            23114,
+            2141.99
+      ],
+      "RTX A5000 Laptop GPU": [
+            15861,
+            "NA"
+      ],
+      "RTX A5500": [
+            20797,
+            2169.99
+      ],
+      "RTX A5500 Laptop GPU": [
+            17822,
+            "NA"
+      ],
+      "RTX A6000": [
+            22757,
+            4109.99
+      ],
+      "RV530 PRO": [
+            118,
+            "NA"
+      ],
+      "Ryzen 3 4300G with Radeon Graphics": [
+            1884,
+            "NA"
+      ],
+      "Ryzen 3 4300GE with Radeon Graphics": [
+            2251,
+            "NA"
+      ],
+      "Ryzen 3 4300U with Radeon Graphics": [
+            1345,
+            "NA"
+      ],
+      "Ryzen 3 5300G with Radeon Graphics": [
+            1940,
+            "NA"
+      ],
+      "Ryzen 3 5300GE with Radeon Graphics": [
+            2004,
+            "NA"
+      ],
+      "Ryzen 3 5300U with Radeon Graphics": [
+            1545,
+            "NA"
+      ],
+      "Ryzen 3 5400U with Radeon Graphics": [
+            1622,
+            "NA"
+      ],
+      "Ryzen 3 5425U with Radeon Graphics": [
+            1677,
+            "NA"
+      ],
+      "Ryzen 3 7330U with Radeon Graphics": [
+            1758,
+            "NA"
+      ],
+      "Ryzen 3 PRO 4200GE with Radeon Graphics": [
+            1748,
+            "NA"
+      ],
+      "Ryzen 3 PRO 4300U with Radeon Graphics": [
+            1542,
+            "NA"
+      ],
+      "Ryzen 3 Pro 4350G with Radeon Graphics": [
+            2168,
+            "NA"
+      ],
+      "Ryzen 3 PRO 4350GE with Radeon Graphics": [
+            1875,
+            "NA"
+      ],
+      "Ryzen 3 PRO 4450U with Radeon Graphics": [
+            1539,
+            "NA"
+      ],
+      "Ryzen 3 PRO 5350G with Radeon Graphics": [
+            2336,
+            "NA"
+      ],
+      "Ryzen 3 PRO 5350GE with Radeon Graphics": [
+            2232,
+            "NA"
+      ],
+      "Ryzen 3 PRO 5450U with Radeon Graphics": [
+            1601,
+            "NA"
+      ],
+      "Ryzen 3 PRO 5475U with Radeon Graphics": [
+            1431,
+            "NA"
+      ],
+      "Ryzen 3 PRO 7330U with Radeon Graphics": [
+            1984,
+            "NA"
+      ],
+      "Ryzen 5 2500U with Radeon Vega": [
+            1503,
+            "NA"
+      ],
+      "Ryzen 5 4500U with Radeon Graphics": [
+            1816,
+            "NA"
+      ],
+      "Ryzen 5 4600G with Radeon Graphics": [
+            2401,
+            "NA"
+      ],
+      "Ryzen 5 4600H with Radeon Graphics": [
+            2254,
+            "NA"
+      ],
+      "Ryzen 5 4600HS with Radeon Graphics": [
+            8370,
+            "NA"
+      ],
+      "Ryzen 5 4600U with Radeon Graphics": [
+            1878,
+            "NA"
+      ],
+      "Ryzen 5 5500U with Radeon Graphics": [
+            2008,
+            "NA"
+      ],
+      "Ryzen 5 5560U with Radeon Graphics": [
+            2114,
+            "NA"
+      ],
+      "Ryzen 5 5600G with Radeon Graphics": [
+            2573,
+            "NA"
+      ],
+      "Ryzen 5 5600GE with Radeon Graphics": [
+            2601,
+            "NA"
+      ],
+      "Ryzen 5 5600H with Radeon Graphics": [
+            2410,
+            "NA"
+      ],
+      "Ryzen 5 5600U with Radeon Graphics": [
+            2181,
+            "NA"
+      ],
+      "Ryzen 5 5625U with Radeon Graphics": [
+            1990,
+            "NA"
+      ],
+      "Ryzen 5 6600HS Creator Edition": [
+            3685,
+            "NA"
+      ],
+      "Ryzen 5 6600U with Radeon Graphics": [
+            3233,
+            "NA"
+      ],
+      "Ryzen 5 7530U with Radeon Graphics": [
+            2355,
+            "NA"
+      ],
+      "Ryzen 5 7535U with Radeon Graphics": [
+            3529,
+            "NA"
+      ],
+      "Ryzen 5 PRO 4400G with Radeon Graphics": [
+            2305,
+            "NA"
+      ],
+      "Ryzen 5 PRO 4400GE with Radeon Graphics": [
+            1441,
+            "NA"
+      ],
+      "Ryzen 5 PRO 4500U with Radeon Graphics": [
+            2007,
+            "NA"
+      ],
+      "Ryzen 5 Pro 4650G with Radeon Graphics": [
+            2425,
+            "NA"
+      ],
+      "Ryzen 5 PRO 4650GE with Radeon Graphics": [
+            2091,
+            "NA"
+      ],
+      "Ryzen 5 PRO 4650U with Radeon Graphics": [
+            1714,
+            "NA"
+      ],
+      "Ryzen 5 PRO 5650G with Radeon Graphics": [
+            2500,
+            "NA"
+      ],
+      "Ryzen 5 PRO 5650GE with Radeon Graphics": [
+            2458,
+            "NA"
+      ],
+      "Ryzen 5 PRO 5650U with Radeon Graphics": [
+            2049,
+            "NA"
+      ],
+      "Ryzen 5 PRO 5675U with Radeon Graphics": [
+            1732,
+            "NA"
+      ],
+      "Ryzen 5 PRO 6650U": [
+            3519,
+            "NA"
+      ],
+      "Ryzen 5 PRO 6650U with Radeon Graphics": [
+            3575,
+            "NA"
+      ],
+      "Ryzen 5 PRO 7530U with Radeon Graphics": [
+            2372,
+            "NA"
+      ],
+      "Ryzen 7 2700U with Radeon Vega": [
+            1617,
+            "NA"
+      ],
+      "Ryzen 7 4700G with Radeon Graphics": [
+            2186,
+            "NA"
+      ],
+      "Ryzen 7 4700GE with Radeon Graphics": [
+            2496,
+            "NA"
+      ],
+      "Ryzen 7 4700U with Radeon Graphics": [
+            2034,
+            "NA"
+      ],
+      "Ryzen 7 4800H with Radeon Graphics": [
+            2113,
+            "NA"
+      ],
+      "Ryzen 7 4800U with Radeon Graphics": [
+            2343,
+            "NA"
+      ],
+      "Ryzen 7 5700G with Radeon Graphics": [
+            2807,
+            "NA"
+      ],
+      "Ryzen 7 5700GE with Radeon Graphics": [
+            2656,
+            "NA"
+      ],
+      "Ryzen 7 5700U with Radeon Graphics": [
+            2247,
+            "NA"
+      ],
+      "Ryzen 7 5800H with Radeon Graphics": [
+            2747,
+            "NA"
+      ],
+      "Ryzen 7 5800HS with Radeon Graphics": [
+            3213,
+            "NA"
+      ],
+      "Ryzen 7 5800U with Radeon Graphics": [
+            2358,
+            "NA"
+      ],
+      "Ryzen 7 5825U with Radeon Graphics": [
+            2318,
+            "NA"
+      ],
+      "Ryzen 7 6800H": [
+            5247,
+            "NA"
+      ],
+      "Ryzen 7 6800H with Radeon Graphics": [
+            4921,
+            "NA"
+      ],
+      "Ryzen 7 6800HS": [
+            5237,
+            "NA"
+      ],
+      "Ryzen 7 6800HS Creator Edition": [
+            5345,
+            "NA"
+      ],
+      "Ryzen 7 6800HS with Radeon Graphics": [
+            6867,
+            "NA"
+      ],
+      "Ryzen 7 6800U": [
+            5006,
+            "NA"
+      ],
+      "Ryzen 7 6800U with Radeon Graphics": [
+            4844,
+            "NA"
+      ],
+      "Ryzen 7 7730U with Radeon Graphics": [
+            2399,
+            "NA"
+      ],
+      "Ryzen 7 7735HS with Radeon Graphics": [
+            5306,
+            "NA"
+      ],
+      "Ryzen 7 Extreme Edition": [
+            2226,
+            "NA"
+      ],
+      "Ryzen 7 Pro 4750G with Radeon Graphics": [
+            2681,
+            "NA"
+      ],
+      "Ryzen 7 PRO 4750GE with Radeon Graphics": [
+            2549,
+            "NA"
+      ],
+      "Ryzen 7 PRO 4750U with Radeon Graphics": [
+            2029,
+            "NA"
+      ],
+      "Ryzen 7 PRO 5750G with Radeon Graphics": [
+            2420,
+            "NA"
+      ],
+      "Ryzen 7 PRO 5750GE with Radeon Graphics": [
+            2546,
+            "NA"
+      ],
+      "Ryzen 7 PRO 5850U with Radeon Graphics": [
+            2269,
+            "NA"
+      ],
+      "Ryzen 7 PRO 5875U with Radeon Graphics": [
+            2067,
+            "NA"
+      ],
+      "Ryzen 7 PRO 6850HS with Radeon Graphics": [
+            3736,
+            "NA"
+      ],
+      "Ryzen 7 PRO 6850U": [
+            5580,
+            "NA"
+      ],
+      "Ryzen 7 PRO 6850U with Radeon Graphics": [
+            5042,
+            "NA"
+      ],
+      "Ryzen 7 PRO 6860Z": [
+            5076,
+            "NA"
+      ],
+      "Ryzen 7 PRO 6860Z with Radeon Graphics": [
+            4788,
+            "NA"
+      ],
+      "Ryzen 7 PRO 7730U with Radeon Graphics": [
+            2634,
+            "NA"
+      ],
+      "Ryzen 9 5900HS with Radeon Graphics": [
+            5611,
+            "NA"
+      ],
+      "Ryzen 9 5900HX with Radeon Graphics": [
+            2910,
+            "NA"
+      ],
+      "Ryzen 9 6900HS": [
+            8005,
+            "NA"
+      ],
+      "Ryzen 9 6900HS with Radeon Graphics": [
+            6331,
+            "NA"
+      ],
+      "Ryzen 9 6900HX": [
+            5415,
+            "NA"
+      ],
+      "Ryzen 9 6900HX with Radeon Graphics": [
+            4679,
+            "NA"
+      ],
+      "Ryzen 9 PRO 6950H": [
+            5758,
+            "NA"
+      ],
+      "Ryzen 9 PRO 6950HS with Radeon Graphics": [
+            5067,
+            "NA"
+      ],
+      "S3 5400EW": [
+            146,
+            "NA"
+      ],
+      "S3 Chrome 430 ULP": [
+            39,
+            "NA"
+      ],
+      "S3 Chrome S25 DDR2": [
+            18,
+            "NA"
+      ],
+      "S3 Chrome S27 DDR3": [
+            33,
+            "NA"
+      ],
+      "S3 Inc. Savage4": [
+            3,
+            "NA"
+      ],
+      "S3 ProSavageDDR": [
+            1,
+            "NA"
+      ],
+      "S3 SuperSavage/IXC 1014": [
+            1,
+            "NA"
+      ],
+      "SAPPHIRE RADEON 9000 ATLANTIS PRO": [
+            5,
+            "NA"
+      ],
+      "SAPPHIRE RADEON 9600 ATLANTIS": [
+            47,
+            "NA"
+      ],
+      "SAPPHIRE Radeon X1550": [
+            61,
+            "NA"
+      ],
+      "Sapphire RADEON X800 GT": [
+            112,
+            "NA"
+      ],
+      "Seria Mobility Radeon HD 3400": [
+            124,
+            "NA"
+      ],
+      "Seria Radeon HD 7700": [
+            1603,
+            "NA"
+      ],
+      "SUMO 9640": [
+            650,
+            "NA"
+      ],
+      "SUMO 9644": [
+            465,
+            "NA"
+      ],
+      "SUMO 964A": [
+            497,
+            "NA"
+      ],
+      "Surface Duo Adreno 640 GPU": [
+            592,
+            "NA"
+      ],
+      "T1000": [
+            7671,
+            399.99
+      ],
+      "T1000 8GB": [
+            7585,
+            "NA"
+      ],
+      "T1200 Laptop GPU": [
+            7788,
+            "NA"
+      ],
+      "T400": [
+            3618,
+            179.99
+      ],
+      "T400 4GB": [
+            3665,
+            "NA"
+      ],
+      "T500": [
+            3682,
+            "NA"
+      ],
+      "T550 Laptop GPU": [
+            4814,
+            "NA"
+      ],
+      "T600": [
+            6475,
+            239.99
+      ],
+      "T600 Laptop GPU": [
+            7068,
+            "NA"
+      ],
+      "TENSOR 1.0 Driver Intel HD 630": [
+            1299,
+            "NA"
+      ],
+      "Tesla C2050": [
+            3323,
+            269.99
+      ],
+      "Tesla C2050 / C2070": [
+            3428,
+            "NA"
+      ],
+      "Tesla C2070": [
+            2839,
+            604.0
+      ],
+      "Tesla C2075": [
+            3016,
+            646.0
+      ],
+      "Tesla K20m": [
+            4330,
+            "NA"
+      ],
+      "Tesla K20Xm": [
+            2917,
+            "NA"
+      ],
+      "Tesla K40c": [
+            4494,
+            "NA"
+      ],
+      "Tesla K40m": [
+            3281,
+            "NA"
+      ],
+      "Tesla K80": [
+            6210,
+            593.95
+      ],
+      "Tesla M10": [
+            3490,
+            2695.0
+      ],
+      "Tesla M2070-Q": [
+            1305,
+            "NA"
+      ],
+      "Tesla M40": [
+            10182,
+            600.0
+      ],
+      "Tesla M40 24GB": [
+            10474,
+            "NA"
+      ],
+      "Tesla M6": [
+            7509,
+            199.0
+      ],
+      "Tesla M60": [
+            7770,
+            787.9
+      ],
+      "Tesla P100-PCIE-16GB": [
+            7225,
+            "NA"
+      ],
+      "Tesla P4": [
+            8666,
+            "NA"
+      ],
+      "Tesla P40": [
+            11395,
+            "NA"
+      ],
+      "Tesla T10": [
+            12650,
+            "NA"
+      ],
+      "Tesla T4": [
+            10725,
+            4433.31
+      ],
+      "Tesla V100-PCIE-16GB": [
+            12983,
+            "NA"
+      ],
+      "TITAN RTX": [
+            19912,
+            2409.2
+      ],
+      "TITAN V": [
+            19888,
+            1999.99
+      ],
+      "TITAN V CEO Edition": [
+            16987,
+            "NA"
+      ],
+      "TITAN Xp COLLECTORS EDITION": [
+            19355,
+            "NA"
+      ],
+      "TRINITY DEVASTATOR MOBILE": [
+            699,
+            "NA"
+      ],
+      "TRINITY SCRAPPER MOBILE": [
+            498,
+            "NA"
+      ],
+      "V9560XT": [
+            6,
+            "NA"
+      ],
+      "Vanta/Vanta LT": [
+            3,
+            "NA"
+      ],
+      "VIA Chrome9 HC IGP": [
+            4,
+            "NA"
+      ],
+      "VIA Chrome9 HC IGP Family": [
+            3,
+            "NA"
+      ],
+      "VIA Chrome9 HC IGP Family WDDM": [
+            3,
+            "NA"
+      ],
+      "VIA Chrome9 HC IGP Prerelease WDDM 1.1": [
+            2,
+            "NA"
+      ],
+      "VIA Chrome9 HC IGP WDDM": [
+            2,
+            "NA"
+      ],
+      "VIA Chrome9 HC IGP WDDM 1.1": [
+            3,
+            "NA"
+      ],
+      "VIA Chrome9 HC3 IGP": [
+            2,
+            "NA"
+      ],
+      "VIA Chrome9 HCM IGP": [
+            1,
+            "NA"
+      ],
+      "VIA Chrome9 HD IGP": [
+            9,
+            "NA"
+      ],
+      "VIA/S3G C-645/640 GPU": [
+            132,
+            "NA"
+      ],
+      "VIA/S3G Chrome 645/640 GPU": [
+            109,
+            "NA"
+      ],
+      "VIA/S3G DeltaChrome IGP": [
+            3,
+            "NA"
+      ],
+      "VIA/S3G KM400/KN400": [
+            4,
+            "NA"
+      ],
+      "VIA/S3G UniChrome IGP": [
+            4,
+            "NA"
+      ],
+      "VIA/S3G UniChrome Pro IGP": [
+            4,
+            "NA"
+      ],
+      "VIA/S3G UniChromeII": [
+            5,
+            "NA"
+      ],
+      "VisionTek Radeon 7000": [
+            1,
+            "NA"
+      ],
+      "WinFast A250 LE": [
+            4,
+            "NA"
+      ],
+      "Xabre": [
+            5,
+            "NA"
+      ],
+      "XGI Volari Family v1.13.23.D_V": [
+            4,
+            "NA"
+      ],
+      "ZX Chrome 645/640 GPU": [
+            147,
+            "NA"
       ]
 }

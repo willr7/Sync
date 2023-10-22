@@ -27,26 +27,27 @@
             })
             .then(response => response.json())
             .then(data => {
-                document.getElementById('CPU').textContent = 'Recommended CPU: ' + data.Processor[0];
+                document.getElementById('CPU').textContent = 'Recommended CPU: ' + data.Processor;
                 document.getElementById('GPU').textContent = 'Recommended GPU: ' + data.Graphics;
+                document.getElementById('Benchmark Score').textContent = "CPU Score: " + data.cpu_score;
 
-                const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
-                fetch(proxyUrl + "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-3537U")
-                .then(benchmark_response => benchmark_response.text)
-                .then(benchmark_data => {
-                    const parser = new DOMParser();
-                    const benchmarkDOM = parser.parseFromString(benchmark_data, 'text/html');
-                    const scoreElement = benchmarkDOM.querySelector("#main_content > div.wrapper > div.main-cmps > div:nth-child(2) > div.ov-scroll > div > div.right-desc > span:nth-child(3)")
-                    if (scoreElement) {
-                        const score = scoreElement.textContent;
-                        document.getElementById('Benchmark Score').textContent = 'Benchmark Score: ' + score;
-                    } else {
-                        document.getElementById('Benchmark Score').textContent = benchmarkDOM.QUE;
-                    }
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                });
+                // const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+                // fetch(proxyUrl + "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-3537U")
+                // .then(benchmark_response => benchmark_response.text)
+                // .then(benchmark_data => {
+                //     const parser = new DOMParser();
+                //     const benchmarkDOM = parser.parseFromString(benchmark_data, 'text/html');
+                //     const scoreElement = benchmarkDOM.querySelector("#main_content > div.wrapper > div.main-cmps > div:nth-child(2) > div.ov-scroll > div > div.right-desc > span:nth-child(3)")
+                //     if (scoreElement) {
+                //         const score = scoreElement.textContent;
+                //         document.getElementById('Benchmark Score').textContent = 'Benchmark Score: ' + score;
+                //     } else {
+                //         document.getElementById('Benchmark Score').textContent = benchmarkDOM.URL;
+                //     }
+                // })
+                // .catch(error => {
+                //     console.error('Error:', error);
+                // });
             });
 
         });
