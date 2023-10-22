@@ -32,13 +32,15 @@ cpu_models = [cpu_listing.model.replace(" ", "+") for cpu_listing in cpu_listing
 base_url = "https://www.newegg.com/p/pl?d="
 
 def fetch_model_listings(model):
-    url = base_url + "&Order=1"
+    url = base_url + model
     resp = urllib.request.Request(url)
 
     with urllib.request.urlopen(resp) as response:
         html = response.read()
     
-    
+    soup = BeautifulSoup(html, 'html.parser')
 
-for model in cpu_models:
-    fetch_model_listings(model)
+    print(soup.find('div', class_='item-info').find_all('a'))
+
+
+fetch_model_listings(cpu_models[0])
