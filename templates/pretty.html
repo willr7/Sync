@@ -49,9 +49,11 @@
     
     <form id="gameTitleForm">
         <label for="gameTitle">Enter a Game Title:</label>
-        <input type="text" id="gameTitle" name="gameTitle" required placeholder="Game Title">
+        <input type="text" id="gameTitle" name="gameTitle" list="gameSuggestions" required placeholder="Enter a game title">
+        <datalist id="gameSuggestions"></datalist>
         <button type="submit">Generate</button>
     </form>
+
     
     <div id="CPU"></div>
     <div id="GPU"></div>
@@ -59,6 +61,38 @@
     <div id="FoundGpu"></div>
 
     <script>
+        let timeoutId;
+
+        const gameTitleInput = document.getElementById('gameTitle');
+        const gameSuggestionsDatalist = document.getElementById('gameSuggestions');
+
+        // gameTitleInput.addEventListener('input', function () {
+        //     const inputText = this.value;
+
+        //     // Clear existing suggestions
+        //     gameSuggestionsDatalist.innerHTML = '';
+
+        //     clearTimeout(timeoutId);
+
+        //     // Set a new timeout to fetch suggestions (e.g., after 300 milliseconds of inactivity)
+        //     timeoutId = setTimeout(() => {
+        //         // Fetch and populate suggestions from your Flask backend
+        //         if (inputText.trim() !== '') {
+        //             fetch('/get_game_suggestions?query=' + inputText, {
+        //                 method: 'GET'
+        //             })
+        //             .then(response => response.json())
+        //             .then(data => {
+        //                 data.forEach(suggestion => {
+        //                     const option = document.createElement('option');
+        //                     option.value = suggestion;
+        //                     gameSuggestionsDatalist.appendChild(option);
+        //                 });
+        //             });
+        //         }
+        //     }, 50);
+        // });
+
         document.getElementById('gameTitleForm').addEventListener('submit', function (event) {
             event.preventDefault();
             const gameTitle = document.querySelector('input[name="gameTitle"]').value;
@@ -75,6 +109,7 @@
                 document.getElementById('FoundGpu').textContent = "Found GPU Name: " + data.gpu_name + " Score: " + data.gpu_score;
             });
         });
+
     </script>
 </body>
 </html>
