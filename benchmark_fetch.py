@@ -90,8 +90,8 @@ def generate_benchmark_data():
     gpu_benchmark_url = "https://www.videocardbenchmark.net/common_gpus.html"
     
     try:
-        f = open("cpu_benchmarks.json", "x")
-        f = open("gpu_benchmarks.json", "x")
+        f_cpu = open("cpu_benchmarks.json", "x")
+        f_gpu = open("gpu_benchmarks.json", "x")
         
         cpu_resp = urllib3.request("GET", cpu_benchmark_url)
         gpu_resp = urllib3.request("GET", gpu_benchmark_url)
@@ -108,7 +108,7 @@ def generate_benchmark_data():
             name, score, price = elem['prdname'], elem['count'], elem['price-neww']
             name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
             score = int(score.replace(',', ''))
-            price = int(price.strip("$").strip("*").replace(',', '').replace('.', '')) if price != 'NA' else 'NA'
+            price = float(price.strip("$").strip("*").replace(',', '')) if price != 'NA' else 'NA'
             cpu_dict[name] = (score, price)
         
         parser.clear_scores() 
@@ -121,13 +121,14 @@ def generate_benchmark_data():
             name, score, price = elem
             name = name[:name.find('@')].strip() if name.find('@') != -1 else name.strip()
             score = int(score.replace(',', ''))
-            price = int(price.strip("$").strip("*").replace(',', '').replace('.', '')) if price != 'NA' else 'NA'
+            price = float(price.strip("$").strip("*").replace(',', '')) if price != 'NA' else 'NA'
             gpu_dict[name] = (score, price)
         
-        json.dump(cpu_dict, f, indent=6)
-        json.dump(gpu_dict, f, indent=6)
+        json.dump(cpu_dict, f_cpu, indent=6)
+        json.dump(gpu_dict, f_gpu, indent=6)
+        
     except FileExistsError:
         #no need to recreate the benchmark jsons
         pass
 
-    
+# generate_benchmark_data()
