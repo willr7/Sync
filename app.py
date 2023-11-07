@@ -36,8 +36,9 @@ def generate_specs():
         gpu_score = score_dict["gpu_score"]
         cpu_score = score_dict["cpu_score"]
         build = build_pc(cpu_score, gpu_score)
+        total_sum = sum(elem[1] for elem in build.values())
         
-        return jsonify(specs | score_dict)
+        return jsonify(specs | score_dict | build | {"sum": total_sum})
     except KeyError:
         return jsonify({"response": "Couldn't Find Game!"})
 

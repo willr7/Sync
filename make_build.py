@@ -140,5 +140,5 @@ def build_pc(cpu_score, gpu_score):
     
     return build
 
-if __name__ == "__main__":
-    print(build_pc(0, 500))
+# if __name__ == "__main__":
+#     print(build_pc(500, 500))
